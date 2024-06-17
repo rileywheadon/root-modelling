@@ -1,0 +1,51 @@
+{
+    "PARAMS": {
+        "gradient": 0.03,
+        "differentiation": 100,
+        "division": 20,
+        "width": 16,
+        "cells": [
+            5,
+            60,
+            10,
+            24,
+            3,
+            16,
+            2,
+            1,
+            4
+        ],
+        "phi": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0.75,
+            50
+        ],
+        "growth_scale": 0.05,
+        "division_scale": 0.1,
+        "pin_strength": 20,
+        "influx": 0.15
+    },
+    "MODEL": {
+        "br": "clasp",
+        "auxin": "pins",
+        "static": false,
+        "step": 0.004310344827586207,
+        "nsteps": 10000
+    },
+    "VISUAL": {
+        "height": 1200,
+        "cmap": "Purples",
+        "show_pins": false,
+        "pin_colour": "white",
+        "show_zones": true,
+        "speed": 100
+    }
+}

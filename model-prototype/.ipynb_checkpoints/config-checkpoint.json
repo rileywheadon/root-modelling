@@ -1,0 +1,38 @@
+{
+    "PARAMS": {
+        "gradient": 0.03,
+        "differentiation": 100,
+        "width": 16,
+        "cells": [
+            3,
+            60,
+            3,
+            24,
+            3,
+            16,
+            1,
+            1,
+            4
+        ],
+        "phi": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0.75,
+            50
+        ],
+        "height": 350,
+        "frames": 100
+    },
+    "MODEL": {
+        "br": "none",
+        "auxin": "direct",
+        "step": 0.05
+    }
+}

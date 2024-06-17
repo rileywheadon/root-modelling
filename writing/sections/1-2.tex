@@ -1,0 +1,29 @@
+\section{Static Auxin Models}
+
+\subsection{Modelling Frameworks}
+
+Two-dimensional models of auxin in the root can generally be divided into two categories. The first type of models approximate auxin flow through the root by discretizing advection-diffusion equations on a lattice, adding extra terms to denote cell walls and PIN mediated transport \cite{grieneisen2007, muraro2013, moore2015, dimambro2017, salvi2020}. Due to the inherent restrictions of lattices, these models assume cells are rectangular \cite{grieneisen2007, muraro2013, moore2015} or approximate a realistic cell shape using simple curves \cite{dimambro2017, salvi2020}. As an alternative, some researchers have chosen to model cells as polygons, representing the root as set of vertexes and edges based on images of \emph{in vivo} roots \cite{band2014}. More recent research \cite{mellor2016, mellor2020} has used this framework to perform further modelling studies.
+
+\subsection{Auxin Efflux and Influx}
+
+As discussed previously, auxin efflux is primarily mediated by PIN-family auxin transporters (PIN). Almost all modelling studies involving auxin incorporate PIN in some way, with varying levels of sophistication. The simplest implementations of PIN is to prescribe a static gradient which replicates the distributions observed \emph{in vivo} \cite{grieneisen2007, band2014, mellor2016, mellor2020}. However, other models have implemented dynamic PIN distributions based on cytokinin \cite{dimambro2017, moore2015, muraro2013, salvi2020}. Notably,the is insufficient research exploring the effects of BR on PIN2 \cite{ambrose2013} within current models.
+
+\medskip
+
+Auxin influx is regulated by the AUX1/LAX family of transporters. Some models opt to ignore these transporters outright, instead opting for a constant auxin influx accross all cells \cite{grieneisen2007}. Other models prescribe AUX1/LAX transporters \cite{band2014, mellor2016, mellor2020}, which are deposited uniformly around the cell membrane. Some models have explored crosstalk between AUX1/LAX transporters and other hormones including auxin \cite{salvi2020} and ethylene \cite{moore2015}.
+
+\subsection{Background Diffusion}
+
+TBD
+
+\subsection{PLETHORA Transcription Factors}
+
+TBD
+
+\subsection{Cytokinin}
+
+TBD
+
+\subsection{Ethylene}
+
+TBD

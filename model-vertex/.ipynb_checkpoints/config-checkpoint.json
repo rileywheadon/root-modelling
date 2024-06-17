@@ -1,0 +1,45 @@
+{
+    "COLUMNS": {
+        "types": [
+            "EPI",
+            "COR",
+            "END",
+            "PER",
+            "VAS",
+            "VAS",
+            "VAS",
+            "VAS",
+            "VAS",
+            "VAS",
+            "PER",
+            "END",
+            "COR",
+            "EPI"
+        ],
+        "widths": {
+            "OUT": 6,
+            "EPI": 18,
+            "COR": 20,
+            "END": 12,
+            "PER": 8,
+            "VAS": 6
+        },
+        "max_height": 144,
+        "mz_height": 12,
+        "min_height": 8,
+        "ez_rows": 5,
+        "mz_rows": 15
+    },
+    "CAP": {
+        "rows": [
+            "OUT",
+            "OUT",
+            "EPI",
+            "COR",
+            "END"
+        ],
+        "columns": 10,
+        "min_height": 12,
+        "max_height": 36
+    }
+}
