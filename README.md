@@ -14,4 +14,4 @@ University of British Columbia
 | matplotlib | 3.8.4 | 
 | jupyterlab | 4.1.8 |
 | sympy | 1.12 |
-| shapely | 2.1 | 
+| shapely | 2.0.1 | 

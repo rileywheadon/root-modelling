@@ -1,3 +1,0 @@
-# PLETHORA Crosstalk Models
-
-TBD

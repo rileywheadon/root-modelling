@@ -1,3 +1,0 @@
-# Ethylene Crosstalk Models
-
-TBD

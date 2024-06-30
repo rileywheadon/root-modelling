@@ -1,6 +1,0 @@
-# Division Step
-
-Once hormone transport and cell growth is complete, the model determines which cells, if any, will divide. In order for a cell to be eligible for division, two conditions must be met. First, the cell must be in the division zone. This restriction was added due to observations of *in vivo* roots ([[@verbelen2006]]), which found no cell division occurred in the elongation and mature zones. Additionally, cells in the root cap do not divide in order to maintain a biologically accurate geometry. Second, the cell must exceed a size threshold in order to ensure realistic cell sizes based on measurements of *in vivo* roots ([[@verbelen2006]]).
-
-When all cells that are eligible for division have been identified, a stochastic process is used to determine which cells actually divide. For each cell, a uniform random number $p_{j} \in [0, 1]$ is chosen. If $p_{j} < dA_{j}$, where $A_{j}$ is the the auxin level in the cell and $d$ is a division parameter, then the cell divides. Cells divide by generating two new vertices at the midpoints of the longitudinal edges. Then, an edge is created between the new vertices. Since hormones concentrations are assumed to be uniform in every cell, the two daughter cells have an identical hormone concentration to their parent.
-

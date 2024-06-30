@@ -1,3 +1,0 @@
-# Cytokinin
-
-Cytokinin is an essential phytohormone that maintains an antagonistic relationship with auxin in the growing root. Through the ARR1-ARR12 signalling pathway, cytokinin promotes SHY2 expression, which in turn inhibits auxin signalling via the restriction of PIN1, PIN3, and PIN7 efflux carriers ([[@ioio2008]]).  On the other hand, auxin inhibits SHY2 expression, which ensures that the root maintains a stable level of PIN ([[@ioio2008]]). Additionally, cytokinin promotes the auxin inhibiting GH3 protein ([[@dimambro2017]]) and upregulates cell differentiation ([[@ioio2008]]).
