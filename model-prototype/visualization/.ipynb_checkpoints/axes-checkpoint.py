@@ -69,9 +69,9 @@ def draw_cells(U, C, dx):
     cells1.set_array(cr)
     cells2.set_array(cc)
     
-    cells0.set_clim(0, 1)
-    cells1.set_clim(0, 1)
-    cells2.set_clim(0, 1)
+    cells0.set_clim(0, VISUAL["auxin_max"])
+    cells1.set_clim(0, VISUAL["auxin_max"])
+    cells2.set_clim(0, VISUAL["auxin_max"])
     
     return (cells0, cells1, cells2)
 
@@ -205,7 +205,7 @@ def axes_gradient(ax, U, Z):
     if MODEL["br"] != "none":
         br_plot, = ax.plot(br(ys), ys, label = "BR", color = "orange")
     if MODEL["br"] == "clasp":
-        phi_plot, = ax.plot(phi(br(ys)), ys, label = "Phi", color = "green")
+        phi_plot, = ax.plot(phi(br(ys)), ys, label = r"$\phi$", color = "green")
     if MODEL["auxin"] == "direct":
         auxin_plot, = ax.plot(auxin(ys), ys, label = "Auxin", color = "purple")
     

@@ -15,3 +15,4 @@ University of British Columbia
 | jupyterlab | 4.1.8 |
 | sympy | 1.12 |
 | shapely | 2.0.1 | 
+| tensorflow | 2.16.2 | 

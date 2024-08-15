@@ -1,6 +1,6 @@
 {
     "PARAMS": {
-        "gradient": 0.03,
+        "gradient": 0.015,
         "differentiation": 100,
         "division": 20,
         "width": 16,
@@ -46,6 +46,7 @@
         "show_pins": false,
         "pin_colour": "white",
         "show_zones": true,
-        "speed": 100
+        "speed": 100,
+        "auxin_max": 0.6
     }
 }
