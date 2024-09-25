@@ -1,0 +1,3093 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/apasortcite//global/global}
+    \entry{lockhart1965}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b0f53b468c0608e4f2f418c5aa30ba7}{%
+           family={Lockhart},
+           familyi={L\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{fullhash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{bibnamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{authorbibnamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{authornamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{authorfullhash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A model for plant cell elongation has been developed from rate equations for osmotic uptake of water and irreversible expansion of the cell wall. Assuming elastic equilibrium and a linear viscoelastic wall, cell elongation rate is derived as a function of osmotic pressure, ``extensibility'' of the wall, water permeability and cell size. The derived formulations predict growth curves comparable to those observed experimentally. Certain consequences of the derived formulations are discussed. It is shown that the turgor pressure of a growing cell will always be less than the water potential of the cell. This difference may be infinitesimal or finite, depending on the values of the physical parameters of the cell. It is also shown that at positive turgor pressures water must always move from a mature cell to a growing cell.}
+      \field{issn}{0022-5193}
+      \field{journaltitle}{Journal of Theoretical Biology}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{An Analysis of Irreversible Plant Cell Elongation}
+      \field{urlday}{22}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{1965}
+      \field{urldateera}{ce}
+      \field{pages}{264\bibrangedash 275}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/0022-5193(65)90077-9
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/4JTR236J/0022519365900779.html
+      \endverb
+    \endentry
+    \entry{wang2001}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=270907235374c207e07ece184df3749b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhi-Yong},
+           giveni={Z\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5979fb05ebae310e204e01dc3832f1e4}{%
+           family={Seto},
+           familyi={S\bibinitperiod},
+           given={Hideharu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0c26ab9008cfa7d1b6833971b432569}{%
+           family={Fujioka},
+           familyi={F\bibinitperiod},
+           given={Shozo},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10e5d8e8e7970b8f645b65bc5ff4c11c}{%
+           family={Yoshida},
+           familyi={Y\bibinitperiod},
+           given={Shigeo},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=242085b368ea0ffab559999b5e5c27d3}{%
+           family={Chory},
+           familyi={C\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{cec1fe0909902755b8156e8748150d31}
+      \strng{fullhash}{34f99c9bc353d07472c2d0ea00fe8ad4}
+      \strng{bibnamehash}{34f99c9bc353d07472c2d0ea00fe8ad4}
+      \strng{authorbibnamehash}{34f99c9bc353d07472c2d0ea00fe8ad4}
+      \strng{authornamehash}{cec1fe0909902755b8156e8748150d31}
+      \strng{authorfullhash}{34f99c9bc353d07472c2d0ea00fe8ad4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Most multicellular organisms use steroids as signalling molecules for physiological and developmental regulation. Two different modes of steroid action have been described in animal systems: the well-studied gene regulation response mediated by nuclear receptors1,2, and the rapid non-genomic responses mediated by proposed membrane-bound receptors3,4. Plant genomes do not seem to encode members of the nuclear receptor superfamily5. However, a transmembrane receptor kinase, brassinosteroid-insensitive1 (BRI1), has been implicated in brassinosteroid responses6,7. Here we show that BRI1 functions as a receptor of brassinolide, the most active brassinosteroid. The number of brassinolide-binding sites and the degree of response to brassinolide depend on the level of BRI1 protein. The brassinolide-binding activity co-immunoprecipitates with BRI1, and requires a functional BRI1 extracellular domain. Moreover, treatment of Arabidopsis seedlings with brassinolide induces autophosphorylation of BRI1, which, together with our binding studies, shows that BRI1 is a receptor kinase that transduces steroid signals across the plasma membrane.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{6826}
+      \field{title}{{{BRI1}} Is a Critical Component of a Plasma-Membrane Receptor for Plant Steroids}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{410}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{380\bibrangedash 383}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/35066597
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/A5FN8LXD/Wang et al. - 2001 - BRI1 is a critical component of a plasma-membrane .pdf
+      \endverb
+      \keyw{BR,BRI1}
+    \endentry
+    \entry{cano-delgado2004}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=f75926c0ae6f423a155c95f0bf4668dc}{%
+           family={{Caño-Delgado}},
+           familyi={C\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c49ede43bd610cdb2938ed33f899975}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Yanhai},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4652343980aad8788a48c61551a4c04a}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Cong},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71c7da76d2e53e05be8532951c9b454b}{%
+           family={Vafeados},
+           familyi={V\bibinitperiod},
+           given={Dionne},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3d67d919cce87a5ca49be9ba6a0efdf}{%
+           family={{Mora-García}},
+           familyi={M\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbe4c119c1d861a3f78e94359d4b4f99}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Jin-Chen},
+           giveni={J\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8a33f9f55bc9bca552483e0470b6fb1}{%
+           family={Nam},
+           familyi={N\bibinitperiod},
+           given={Kyoung\bibnamedelima Hee},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ffd07d2a8c8660cc5a4c277d54c9d6c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jianming},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=242085b368ea0ffab559999b5e5c27d3}{%
+           family={Chory},
+           familyi={C\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{45efb7d26e76a8705dcfff30dbcaa94f}
+      \strng{fullhash}{2d187ad89c1175f918c78edff6701a24}
+      \strng{bibnamehash}{2d187ad89c1175f918c78edff6701a24}
+      \strng{authorbibnamehash}{2d187ad89c1175f918c78edff6701a24}
+      \strng{authornamehash}{45efb7d26e76a8705dcfff30dbcaa94f}
+      \strng{authorfullhash}{2d187ad89c1175f918c78edff6701a24}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plant steroid hormones, brassinosteroids (BRs), are perceived by the plasma membrane-localized leucine-rich-repeat-receptor kinase BRI1. Based on sequence similarity, we have identified three members of the BRI1 family, named BRL1, BRL2 and BRL3. BRL1 and BRL3, but not BRL2, encode functional BR receptors that bind brassinolide, the most active BR, with high affinity. In agreement, only BRL1 and BRL3 can rescue bri1 mutants when expressed under the control of the BRI1 promoter. While BRI1 is ubiquitously expressed in growing cells, the expression of BRL1 and BRL3 is restricted to non-overlapping subsets of vascular cells. Loss-of-function of brl1 causes abnormal phloem:xylem differentiation ratios and enhances the vascular defects of a weak bri1 mutant. bri1 brl1 brl3 triple mutants enhance bri1 dwarfism and also exhibit abnormal vascular differentiation. Thus, Arabidopsis contains a small number of BR receptors that have specific functions in cell growth and vascular differentiation.}
+      \field{issn}{0950-1991}
+      \field{journaltitle}{Development (Cambridge, England)}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{21}
+      \field{title}{{{BRL1}} and {{BRL3}} Are Novel Brassinosteroid Receptors That Function in Vascular Differentiation in {{Arabidopsis}}}
+      \field{volume}{131}
+      \field{year}{2004}
+      \field{pages}{5341\bibrangedash 5351}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1242/dev.01403
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/NUU6B44Q/Caño-Delgado et al. - 2004 - BRL1 and BRL3 are novel brassinosteroid receptors .pdf
+      \endverb
+      \keyw{BR,BRI1}
+    \endentry
+    \entry{verbelen2006}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=875af8f5544ffe8ccb5bb21903c03241}{%
+           family={Verbelen},
+           familyi={V\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ee1ed7648c1ac93c23f59a2e5af35e7}{%
+           family={Cnodder},
+           familyi={C\bibinitperiod},
+           given={Tinne\bibnamedelima De},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=104846df0ebefe84ba81bb07f717073e}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cebd92d25a30549523cf2189eab0f39f}{%
+           family={Vissenberg},
+           familyi={V\bibinitperiod},
+           given={Kris},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=201f8fa438f41ff4025f740a8dc11908}{%
+           family={Baluška},
+           familyi={B\bibinitperiod},
+           given={František},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{14b0cdfa040248ac1e0eed674154b701}
+      \strng{fullhash}{f3c6eaed95a1a5954ddb243ea62aecc9}
+      \strng{bibnamehash}{f3c6eaed95a1a5954ddb243ea62aecc9}
+      \strng{authorbibnamehash}{f3c6eaed95a1a5954ddb243ea62aecc9}
+      \strng{authornamehash}{14b0cdfa040248ac1e0eed674154b701}
+      \strng{authorfullhash}{f3c6eaed95a1a5954ddb243ea62aecc9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the growing apex of Arabidopsis thaliana primary roots, cells proceed through four distinct phases of cellular activities. These zones and their boundaries can be well defined based on their characteristic cellular activities. The meristematic zone comprises, and is limited to, all cells that undergo mitotic divisions. Detailed in vivo analysis of transgenic lines reveals that, in the Columbia-0 ecotype, the meristem stretches up to 200 mm away from the junction between root and root cap (RCJ). In the transition zone, 200 to about 520 mm away from the RCJ, cells undergo physiological changes as they prepare for their fast elongation. Upon entering the transition zone, they progressively develop a central vacuole, polarize the cytoskeleton and remodel their cell walls. Cells grow slowly during this transition: it takes ten hours to triplicate cell length from 8.5 to about 35 mm in the trichoblast cell files. In the fast elongation zone, which covers the zone from 520 to about 850 mm from the RCJ, cell length q{\dbend}u{\dbend}{\dbend}a{\dbend}d{\dbend}r{\dbend}u{\dbend}p{\dbend}{\dbend}li{\dbend}c{\dbend}a{\dbend}t{\dbend}e{\dbend}s{\dbend}{\dbend}to{\dbend}{\dbend}{\dbend}a{\dbend}b{\dbend}o{\dbend}{\dbend}u{\dbend}t 1{\dbend}{\dbend}40{\dbend}{\dbend} mm in only two hours. This is accompanied by drastic and specific cell wall alterations. Finally, root hairs fully develop in the growth terminating zone, where root cells undergo a minor elongation to reach their mature lengths.}
+      \field{issn}{1559-2324}
+      \field{journaltitle}{Plant Signaling \& Behavior}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{6}
+      \field{shorttitle}{The {{Root Apex}} of {{{\emph{Arabidopsis}}}}{\emph{ Thaliana}} {{Consists}} of {{Four Distinct Zones}} of {{Growth Activities}}}
+      \field{title}{The {{Root Apex}} of {{{\emph{Arabidopsis}}}}{\emph{ Thaliana}} {{Consists}} of {{Four Distinct Zones}} of {{Growth Activities}}: {{Meristematic Zone}}, {{Transition Zone}}, {{Fast Elongation Zone}} and {{Growth Terminating Zone}}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{1}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{296\bibrangedash 304}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.4161/psb.1.6.3511
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/CRSPEKK3/Verbelen et al. - 2006 - The Root Apex of Arabidopsis thaliana Consi.pdf
+      \endverb
+      \keyw{Structure}
+    \endentry
+    \entry{ambrose2007}{article}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=892cee08bbbe900b863335ea0d991f33}{%
+           family={Ambrose},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi Christian},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9daa302cbaf311a195d924219c71f325}{%
+           family={Shoji},
+           familyi={S\bibinitperiod},
+           given={Tsubasa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=312b73a56886b257ebdc7d4af80277a9}{%
+           family={Kotzer},
+           familyi={K\bibinitperiod},
+           given={Amanda\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f59a55c593a96ff50ca8d9cd1bbfbd9d}{%
+           family={Pighin},
+           familyi={P\bibinitperiod},
+           given={Jamie\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=811afd13c18ad7c838be119a261d8961}{%
+           family={Wasteneys},
+           familyi={W\bibinitperiod},
+           given={Geoffrey\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a88296da599af68eac72a70d46a91fe6}
+      \strng{fullhash}{d5fb76fef925bb3e7b389a3ed1a422d3}
+      \strng{bibnamehash}{d5fb76fef925bb3e7b389a3ed1a422d3}
+      \strng{authorbibnamehash}{d5fb76fef925bb3e7b389a3ed1a422d3}
+      \strng{authornamehash}{a88296da599af68eac72a70d46a91fe6}
+      \strng{authorfullhash}{d5fb76fef925bb3e7b389a3ed1a422d3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Controlling microtubule dynamics and spatial organization is a fundamental requirement of eukaryotic cell function. Members of the ORBIT/MAST/CLASP family of microtubule-associated proteins associate with the plus ends of microtubules, where they promote the addition of tubulin subunits into attached kinetochore fibers during mitosis and stabilize microtubules in the vicinity of the plasma membrane during interphase. To date, nothing is known about their function in plants. Here, we show that the Arabidopsis thaliana CLASP protein is a microtubule-associated protein that is involved in both cell division and cell expansion. Green fluorescent protein--CLASP localizes along the full length of microtubules and shows enrichment at growing plus ends. Our analysis suggests that CLASP promotes microtubule stability. clasp-1 T-DNA insertion mutants are hypersensitive to microtubule-destabilizing drugs and exhibit more sparsely populated, yet well ordered, root cortical microtubule arrays. Overexpression of CLASP promotes microtubule bundles that are resistant to depolymerization with oryzalin. Furthermore, clasp-1 mutants have aberrant microtubule preprophase bands, mitotic spindles, and phragmoplasts, indicating a role for At CLASP in stabilizing mitotic arrays. clasp-1 plants are dwarf, have significantly reduced cell numbers in the root division zone, and have defects in directional cell expansion. We discuss possible mechanisms of CLASP function in higher plants.}
+      \field{issn}{1040-4651}
+      \field{journaltitle}{The Plant Cell}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{The {{Arabidopsis CLASP Gene Encodes}} a {{Microtubule-Associated Protein Involved}} in {{Cell Expansion}} and {{Division}}}
+      \field{urlday}{6}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{19}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{2763\bibrangedash 2775}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1105/tpc.107.053777
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/WYVEFID3/Ambrose et al. - 2007 - The Arabidopsis CLASP Gene Encodes a Microtubule-A.pdf;/Users/rileywheadon/Zotero/storage/GLWTGEMA/6092225.html
+      \endverb
+      \keyw{CLASP,MT}
+    \endentry
+    \entry{grieneisen2007}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=3bd6c6f4ce4c874bc72a4da1d00dab34}{%
+           family={Grieneisen},
+           familyi={G\bibinitperiod},
+           given={Verônica\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c38570c1a2c89c3525a2139602c96b0}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e4db12360927cc68c7ba1c011028a30}{%
+           family={Marée},
+           familyi={M\bibinitperiod},
+           given={Athanasius\bibnamedelimb F.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c69f11816fc70f857c626e2bf5e0b75}{%
+           family={Hogeweg},
+           familyi={H\bibinitperiod},
+           given={Paulien},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5807be5a8c89994a53b5d89e6be95a55}{%
+           family={Scheres},
+           familyi={S\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{74d7a511adc61af8a6af271d31e7e49e}
+      \strng{fullhash}{a348adc79a836cb41ad13b15a6ca8812}
+      \strng{bibnamehash}{a348adc79a836cb41ad13b15a6ca8812}
+      \strng{authorbibnamehash}{a348adc79a836cb41ad13b15a6ca8812}
+      \strng{authornamehash}{74d7a511adc61af8a6af271d31e7e49e}
+      \strng{authorfullhash}{a348adc79a836cb41ad13b15a6ca8812}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The plant growth regulator auxin controls cell identity, cell division and cell expansion. Auxin efflux facilitators (PINs) are associated with auxin maxima in distal regions of both shoots and roots. Here we model diffusion and PIN-facilitated auxin transport in and across cells within a structured root layout. In our model, the stable accumulation of auxin in a distal maximum emerges from the auxin flux pattern. We have experimentally tested model predictions of robustness and self-organization. Our model explains pattern formation and morphogenesis at timescales from seconds to weeks, and can be understood by conceptualizing the root as an `auxin capacitor'. A robust auxin gradient associated with the maximum, in combination with separable roles of auxin in cell division and cell expansion, is able to explain the formation, maintenance and growth of sharply bounded meristematic and elongation zones. Directional permeability and diffusion can fully account for stable auxin maxima and gradients that can instruct morphogenesis.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{7165}
+      \field{title}{Auxin Transport Is Sufficient to Generate a Maximum and Gradient Guiding Root Growth}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{449}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{1008\bibrangedash 1013}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nature06215
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/ZIT63YPU/Grieneisen et al. - 2007 - Auxin transport is sufficient to generate a maximu.pdf
+      \endverb
+      \keyw{Auxin,Model,PIN}
+    \endentry
+    \entry{hamant2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4905525e7a0f12f88a47d6a11ff1546a}{%
+           family={Hamant},
+           familyi={H\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10f08f36d4ca0016845be88e7adba46d}{%
+           family={Traas},
+           familyi={T\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{fullhash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{bibnamehash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{authorbibnamehash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{authornamehash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{authorfullhash}{5680bb15fb75d51ff240603c43f01a08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Morphogenesis in living organisms relies on the integration of both biochemical and mechanical signals. During the last decade, attention has been mainly focused on the role of biochemical signals in patterning and morphogenesis, leaving the contribution of mechanics largely unexplored. Fortunately, the development of new tools and approaches has made it possible to re-examine these processes. In plants, shape is defined by two local variables: growth rate and growth direction. At the level of the cell, these variables depend on both the cell wall and turgor pressure. Multidisciplinary approaches have been used to understand how these cellular processes are integrated in the growing tissues. These include quantitative live imaging to measure growth rate and direction in tissues with cellular resolution. In parallel, stress patterns have been artificially modified and their impact on strain and cell behavior been analysed. Importantly, computational models based on analogies with continuum mechanics systems have been useful in interpreting the results. In this review, we will discuss these issues focusing on the shoot apical meristem, a population of stem cells that is responsible for the initiation of the aerial organs of the plant. Contents Summary 369 I. Introduction 369 II. The cellular basis of plant morphogenesis and plant mechanics 370 III. From cells to organisms: a dialog between levels of organization 374 IV. Biomechanics: some concepts and approaches 375 V. Sensing forces: some clues on the molecular basis 380 VI. Conclusion 381 Acknowledgements 381 References 381}
+      \field{issn}{1469-8137}
+      \field{journaltitle}{New Phytologist}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{The Mechanics behind Plant Development}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{185}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{369\bibrangedash 385}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1111/j.1469-8137.2009.03100.x
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/N2UWCBBA/Hamant and Traas - 2010 - The mechanics behind plant development.pdf;/Users/rileywheadon/Zotero/storage/243FJDWA/j.1469-8137.2009.03100.html
+      \endverb
+      \keyw{Growth,MT}
+    \endentry
+    \entry{ambrose2011}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=2ac003abf767ccfda4346f0b6c8276b0}{%
+           family={Ambrose},
+           familyi={A\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=7734d12930072c189f1b8738529ae0ee}{%
+           family={Allard},
+           familyi={A\bibinitperiod},
+           given={Jun\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1165dc90b35848f8492e91bad4a27e0}{%
+           family={Cytrynbaum},
+           familyi={C\bibinitperiod},
+           given={Eric\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=811afd13c18ad7c838be119a261d8961}{%
+           family={Wasteneys},
+           familyi={W\bibinitperiod},
+           given={Geoffrey\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{8ae2edb493a4a024bbc4b8ea4ccad486}
+      \strng{fullhash}{06d52b25303e6b7cfc8ffe3d05ca2e56}
+      \strng{bibnamehash}{06d52b25303e6b7cfc8ffe3d05ca2e56}
+      \strng{authorbibnamehash}{06d52b25303e6b7cfc8ffe3d05ca2e56}
+      \strng{authornamehash}{8ae2edb493a4a024bbc4b8ea4ccad486}
+      \strng{authorfullhash}{06d52b25303e6b7cfc8ffe3d05ca2e56}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is well known that the parallel order of microtubules in the plant cell cortex defines the direction of cell expansion, yet it remains unclear how microtubule orientation is controlled, especially on a cell-wide basis. Here we show through 4D imaging and computational modelling that plant cell polyhedral geometry provides spatial input that determines array orientation and heterogeneity. Microtubules depolymerize when encountering sharp cell edges head-on, whereas those oriented parallel to those sharp edges remain. Edge-induced microtubule depolymerization, however, is overcome by the microtubule-associated protein CLASP, which accumulates at specific cell edges, enables microtubule growth around sharp edges and promotes formation of microtubule bundles that span adjacent cell faces. By computationally modelling dynamic 'microtubules on a cube' with edges differentially permissive to microtubule passage, we show that the CLASP-edge complex is a 'tuneable' microtubule organizer, with the inherent flexibility to generate the numerous cortical array patterns observed in nature.}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{1}
+      \field{title}{A {{CLASP-modulated}} Cell Edge Barrier Mechanism Drives Cell-Wide Cortical Microtubule Organization in {{Arabidopsis}}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{2}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{430}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/ncomms1444
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/XZRTE7RV/Ambrose et al. - 2011 - A CLASP-modulated cell edge barrier mechanism driv.pdf
+      \endverb
+      \keyw{CLASP,MT}
+    \endentry
+    \entry{vanesse2012}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=71b1b5cfcfa6b68f6e2015c07968acd3}{%
+           family={{van Esse}},
+           familyi={v\bibinitperiod},
+           given={G.\bibnamedelimi Wilma},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4eff2f241f966778266facf4b76aba3c}{%
+           family={{van Mourik}},
+           familyi={v\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d30132fac12a4767a20043b1c7433ca}{%
+           family={Stigter},
+           familyi={S\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25466cd940e691be7afe230daad5ca7d}{%
+           family={{ten Hove}},
+           familyi={t\bibinitperiod},
+           given={Colette\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76b5831d8ef65c39a7b5e22758744a04}{%
+           family={Molenaar},
+           familyi={M\bibinitperiod},
+           given={Jaap},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f89b8df60e85003f14fc40d55f62532}{%
+           family={{de Vries}},
+           familyi={d\bibinitperiod},
+           given={Sacco\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6eba8c207e2133a4af6d8ced7fdae703}
+      \strng{fullhash}{9d9d8800ce8b5099dea8839b70a419a6}
+      \strng{bibnamehash}{9d9d8800ce8b5099dea8839b70a419a6}
+      \strng{authorbibnamehash}{9d9d8800ce8b5099dea8839b70a419a6}
+      \strng{authornamehash}{6eba8c207e2133a4af6d8ced7fdae703}
+      \strng{authorfullhash}{9d9d8800ce8b5099dea8839b70a419a6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Brassinosteroid (BR) signaling is essential for plant growth and development. In Arabidopsis (Arabidopsis thaliana), BRs are perceived by the BRASSINOSTEROID INSENSITIVE1 (BRI1) receptor. Root growth and hypocotyl elongation are convenient downstream physiological outputs of BR signaling. A computational approach was employed to predict root growth solely on the basis of BRI1 receptor activity. The developed mathematical model predicts that during normal root growth, few receptors are occupied with ligand. The model faithfully predicts root growth, as observed in bri1 loss-of-function mutants. For roots, it incorporates one stimulatory and two inhibitory modules, while for hypocotyls, a single inhibitory module is sufficient. Root growth as observed when BRI1 is overexpressed can only be predicted assuming that a decrease occurred in the BRI1 half-maximum response values. Root growth appears highly sensitive to variation in BR concentration and much less to reduction in BRI1 receptor level, suggesting that regulation occurs primarily by ligand availability and biochemical activity.}
+      \field{issn}{0032-0889}
+      \field{journaltitle}{Plant Physiology}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{A {{Mathematical Model}} for {{BRASSINOSTEROID INSENSITIVE1-Mediated Signaling}} in {{Root Growth}} and {{Hypocotyl Elongation}}}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{160}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{523\bibrangedash 532}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1104/pp.112.200105
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/C9NHCRIZ/van Esse et al. - 2012 - A Mathematical Model for BRASSINOSTEROID INSENSITI.pdf;/Users/rileywheadon/Zotero/storage/LR3UUCW3/6109780.html
+      \endverb
+      \keyw{BR,Model}
+    \endentry
+    \entry{chaiwanon2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3acd0f778cf4f121ca96c230dd02bcb9}{%
+           family={Chaiwanon},
+           familyi={C\bibinitperiod},
+           given={Juthamas},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=270907235374c207e07ece184df3749b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhi-Yong},
+           giveni={Z\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{fullhash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{bibnamehash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{authorbibnamehash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{authornamehash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{authorfullhash}{0775eea70425efcf9aa6552dd1fdb365}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0960-9822}
+      \field{journaltitle}{Current Biology}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{8}
+      \field{title}{Spatiotemporal {{Brassinosteroid Signaling}} and {{Antagonism}} with {{Auxin Pattern Stem Cell Dynamics}} in {{Arabidopsis Roots}}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{25}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{1031\bibrangedash 1042}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.cub.2015.02.046
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/ZLW5MCU3/Chaiwanon and Wang - 2015 - Spatiotemporal Brassinosteroid Signaling and Antag.pdf
+      \endverb
+      \keyw{Auxin,BR}
+    \endentry
+    \entry{kumpf2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8b82dc5eb7525920e6b6e692024c364c}{%
+           family={Kumpf},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2efaae4ecb63830b567a76f217f0e64a}{%
+           family={Nowack},
+           familyi={N\bibinitperiod},
+           given={Moritz\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{fullhash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{bibnamehash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{authorbibnamehash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{authornamehash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{authorfullhash}{3e293b28937e60b00f7c52c15752dd08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Over 130 years ago, Charles Darwin recognized that sensory functions in the root tip influence directional root growth. Modern plant biology has unravelled that many of the functions that Darwin attributed to the root tip are actually accomplished by a particular organ---the root cap. The root cap surrounds and protects the meristematic stem cells at the growing root tip. Due to this vanguard position, the root cap is predisposed to receive and transmit environmental information to the root proper. In contrast to other plant organs, the root cap shows a rapid turnover of short-lived cells regulated by an intricate balance of cell generation, differentiation, and degeneration. Thanks to these particular features, the root cap is an excellent developmental model system, in which generation, differentiation, and degeneration of cells can be investigated in a conveniently compact spatial and temporal frame. In this review, we give an overview of the current knowledge and concepts of root cap biology, focusing on the model plant Arabidopsis thaliana.}
+      \field{issn}{0022-0957}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{month}{9}
+      \field{number}{19}
+      \field{shorttitle}{The Root Cap}
+      \field{title}{The Root Cap: A Short Story of Life and Death}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{66}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{5651\bibrangedash 5662}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1093/jxb/erv295
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/8H2NF66B/Kumpf and Nowack - 2015 - The root cap a short story of life and death.pdf;/Users/rileywheadon/Zotero/storage/NMUV5WSK/696325.html
+      \endverb
+      \keyw{Cap}
+    \endentry
+    \entry{vragovic2015}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=4a9f984f8a344250a2321a1ad56fdbab}{%
+           family={Vragović},
+           familyi={V\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=615990c121ee74bc34cb97f6623df330}{%
+           family={Sela},
+           familyi={S\bibinitperiod},
+           given={Ayala},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c9d7681c61de75ac9aa2f6d3c0aeaf7}{%
+           family={{Friedlander-Shani}},
+           familyi={F\bibinitperiod},
+           given={Lilach},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee6db19a072d2caafab0dd3428f23ef9}{%
+           family={Fridman},
+           familyi={F\bibinitperiod},
+           given={Yulia},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5e2728999fc4df4349e711b5a025b60}{%
+           family={Hacham},
+           familyi={H\bibinitperiod},
+           given={Yael},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36786f72e9e41689ee3bb4e3da7c88e1}{%
+           family={Holland},
+           familyi={H\bibinitperiod},
+           given={Neta},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cc508d42680116790bae280bf500393}{%
+           family={Bartom},
+           familyi={B\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5d5cb8e2b520b7bc25daa61426e8c2f}{%
+           family={Mockler},
+           familyi={M\bibinitperiod},
+           given={Todd\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15a8ea77a19710964e09dfc2b31dda22}{%
+           family={{Savaldi-Goldstein}},
+           familyi={S\bibinitperiod},
+           given={Sigal},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{1cdc69d222614f837ed99dcf8fd131a7}
+      \strng{fullhash}{7acdcaba5cc82ce0e09342ba1fb4e4d3}
+      \strng{bibnamehash}{7acdcaba5cc82ce0e09342ba1fb4e4d3}
+      \strng{authorbibnamehash}{7acdcaba5cc82ce0e09342ba1fb4e4d3}
+      \strng{authornamehash}{1cdc69d222614f837ed99dcf8fd131a7}
+      \strng{authorfullhash}{7acdcaba5cc82ce0e09342ba1fb4e4d3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The mechanisms ensuring balanced growth remain a critical question in developmental biology. In plants, this balance relies on spatiotemporal integration of hormonal signaling pathways, but the understanding of the precise contribution of each hormone is just beginning to take form. Brassinosteroid (BR) hormone is shown here to have opposing effects on root meristem size, depending on its site of action. BR is demonstrated to both delay and promote onset of stem cell daughter differentiation, when acting in the outer tissue of the root meristem, the epidermis, and the innermost tissue, the stele, respectively. To understand the molecular basis of this phenomenon, a comprehensive spatiotemporal translatome mapping of Arabidopsis roots was performed. Analyses of wild type and mutants featuring different distributions of BR revealed autonomous, tissue-specific gene responses to BR, implying its contrasting tissue-dependent impact on growth. BR-induced genes were primarily detected in epidermal cells of the basal meristem zone and were enriched by auxin-related genes. In contrast, repressed BR genes prevailed in the stele of the apical meristem zone. Furthermore, auxin was found to mediate the growth-promoting impact of BR signaling originating in the epidermis, whereas BR signaling in the stele buffered this effect. We propose that context-specific BR activity and responses are oppositely interpreted at the organ level, ensuring coherent growth.}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{1}
+      \field{number}{3}
+      \field{title}{Translatome Analyses Capture of Opposing Tissue-Specific Brassinosteroid Signals Orchestrating Root Meristem Differentiation}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{112}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{923\bibrangedash 928}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.1417947112
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/9MKS3RKC/Vragović et al. - 2015 - Translatome analyses capture of opposing tissue-sp.pdf
+      \endverb
+      \keyw{BR}
+    \endentry
+    \entry{dimambro2017}{article}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=5c35b78cf6ad3666b61aa0ab70ab1f90}{%
+           family={Di\bibnamedelima Mambro},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Riccardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c1b4d38aca8a003f7cb62e4730c63b6}{%
+           family={De\bibnamedelima Ruvo},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Micol},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=800a5c6c1ce734a4e8e6ded7ca334eb6}{%
+           family={Pacifici},
+           familyi={P\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15c20a7e4ea66521eb74e5d06ff85668}{%
+           family={Salvi},
+           familyi={S\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c4ab3282498f2509fd39101c6a7213d}{%
+           family={Sozzani},
+           familyi={S\bibinitperiod},
+           given={Rosangela},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83ecb60595676e86165a9d894b8678b4}{%
+           family={Benfey},
+           familyi={B\bibinitperiod},
+           given={Philip\bibnamedelima N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4b07f30a39386983cb601b919dd73f6}{%
+           family={Busch},
+           familyi={B\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7482b4527c6906c04b385a5e7c312752}{%
+           family={Novak},
+           familyi={N\bibinitperiod},
+           given={Ondrej},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fe502015d26f5678c74d0dbd08c6b91}{%
+           family={Ljung},
+           familyi={L\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a666b3930874b80f53807a36fce460a4}{%
+           family={Di\bibnamedelima Paola},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Luisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e4db12360927cc68c7ba1c011028a30}{%
+           family={Marée},
+           familyi={M\bibinitperiod},
+           given={Athanasius\bibnamedelimb F.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b83fc7a341c2fab86e5da0f8938b2f9e}{%
+           family={Costantino},
+           familyi={C\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bd6c6f4ce4c874bc72a4da1d00dab34}{%
+           family={Grieneisen},
+           familyi={G\bibinitperiod},
+           given={Verônica\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb97eab9cc005d9d9eb2f8a3b18ef6d}{%
+           family={Sabatini},
+           familyi={S\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{eeb6928371d785c5ff46123642b0033a}
+      \strng{fullhash}{6285a27e01b5f8e0d88df8489af8e3a2}
+      \strng{bibnamehash}{6285a27e01b5f8e0d88df8489af8e3a2}
+      \strng{authorbibnamehash}{6285a27e01b5f8e0d88df8489af8e3a2}
+      \strng{authornamehash}{eeb6928371d785c5ff46123642b0033a}
+      \strng{authorfullhash}{6285a27e01b5f8e0d88df8489af8e3a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In multicellular organisms, a stringent control of the transition between cell division and differentiation is crucial for correct tissue and organ development. In the Arabidopsis root, the boundary between dividing and differentiating cells is positioned by the antagonistic interaction of the hormones auxin and cytokinin. Cytokinin affects polar auxin transport, but how this impacts the positional information required to establish this tissue boundary, is still unknown. By combining computational modeling with molecular genetics, we show that boundary formation is dependent on cytokinin's control on auxin polar transport and degradation. The regulation of both processes shapes the auxin profile in a well-defined auxin minimum. This auxin minimum positions the boundary between dividing and differentiating cells, acting as a trigger for this developmental transition, thus controlling meristem size.}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{9}
+      \field{number}{36}
+      \field{title}{Auxin Minimum Triggers the Developmental Switch from Cell Division to Cell Differentiation in the {{Arabidopsis}} Root}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{114}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{E7641\bibrangedash E7649}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.1705833114
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/BAL4ZWNI/supplementary materials.pdf;/Users/rileywheadon/Zotero/storage/PBSXGLYP/Di Mambro et al. - 2017 - Auxin minimum triggers the developmental switch fr.pdf
+      \endverb
+      \keyw{Auxin,Cytokinin,Model}
+    \endentry
+    \entry{ruan2018}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=a24452801ea8f1e7925b86e867ed0db8}{%
+           family={Ruan},
+           familyi={R\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a84d5bd89ebf481a55bdcdb0473ec57}{%
+           family={Halat},
+           familyi={H\bibinitperiod},
+           given={Laryssa\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff977b1eabedf14ef33ea440d60e5036}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Deirdre},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b665e8052f9bf085d6c9672a1f3501e}{%
+           family={Jancowski},
+           familyi={J\bibinitperiod},
+           given={Sylwia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ac003abf767ccfda4346f0b6c8276b0}{%
+           family={Ambrose},
+           familyi={A\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db2ea70bf179ecae7ed07ed9dbc39abd}{%
+           family={Belmonte},
+           familyi={B\bibinitperiod},
+           given={Mark\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=811afd13c18ad7c838be119a261d8961}{%
+           family={Wasteneys},
+           familyi={W\bibinitperiod},
+           given={Geoffrey\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{26a79969d86b90d0bfe71ca324bf69d0}
+      \strng{fullhash}{dcb5dea374e51e5153a212df89c102f9}
+      \strng{bibnamehash}{dcb5dea374e51e5153a212df89c102f9}
+      \strng{authorbibnamehash}{dcb5dea374e51e5153a212df89c102f9}
+      \strng{authornamehash}{26a79969d86b90d0bfe71ca324bf69d0}
+      \strng{authorfullhash}{dcb5dea374e51e5153a212df89c102f9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0960-9822}
+      \field{journaltitle}{Current Biology}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{17}
+      \field{title}{The {{Microtubule-Associated Protein CLASP Sustains Cell Proliferation}} through a {{Brassinosteroid Signaling Negative Feedback Loop}}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{28}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{2718\bibrangedash 2729.e5}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.cub.2018.06.048
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/IIWXLBN4/Ruan et al. - 2018 - The Microtubule-Associated Protein CLASP Sustains .pdf
+      \endverb
+      \keyw{BR,CLASP,MT}
+    \endentry
+    \entry{ackerman-lavert2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=08d558d85854a90da1677e23d806f6c8}{%
+           family={{Ackerman-Lavert}},
+           familyi={A\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15a8ea77a19710964e09dfc2b31dda22}{%
+           family={{Savaldi-Goldstein}},
+           familyi={S\bibinitperiod},
+           given={Sigal},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{fullhash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{bibnamehash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{authorbibnamehash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{authornamehash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{authorfullhash}{3f67d758229e8add9002a3dc749193a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plant growth relies on interconnected hormonal pathways, their corresponding transcriptional networks and mechanical signals. This work reviews recent brassinosteroid (BR) studies and integrates them with current growth models derived from research in roots. The relevance of spatiotemporal BR signaling in the longitudinal and radial root axes and its multifaceted interaction with auxin, the impact of BR on final cell size determination and its interplay with microtubules and the cell wall are discussed. Also highlighted are emerging variations of canonical BR signaling that could function in developmental-specific context.}
+      \field{issn}{1369-5266}
+      \field{journaltitle}{Current Opinion in Plant Biology}
+      \field{month}{2}
+      \field{series}{Growth and Development}
+      \field{title}{Growth Models from a Brassinosteroid Perspective}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{53}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{90\bibrangedash 97}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.pbi.2019.10.008
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/YLXTEAEW/S1369526619300998.html
+      \endverb
+      \keyw{BR,Review}
+    \endentry
+    \entry{salvi2020}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=15c20a7e4ea66521eb74e5d06ff85668}{%
+           family={Salvi},
+           familyi={S\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0260bfe706f5a85ec96fe3d880659347}{%
+           family={Rutten},
+           familyi={R\bibinitperiod},
+           given={Jacob\bibnamedelima Pieter},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb25eca913922e7c2efab82f6883c077}{%
+           family={Mambro},
+           familyi={M\bibinitperiod},
+           given={Riccardo\bibnamedelima Di},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbf89cf03aecf24133eaf8ec76de1622}{%
+           family={Polverari},
+           familyi={P\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd80a46e86cff77ea096e9af9981314b}{%
+           family={Licursi},
+           familyi={L\bibinitperiod},
+           given={Valerio},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f445a97b0b3d948ca090409a9bf7ec31}{%
+           family={Negri},
+           familyi={N\bibinitperiod},
+           given={Rodolfo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce377a15ab0d801bdc1bd4d636cfb8e2}{%
+           family={Ioio},
+           familyi={I\bibinitperiod},
+           given={Raffaele\bibnamedelima Dello},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb97eab9cc005d9d9eb2f8a3b18ef6d}{%
+           family={Sabatini},
+           familyi={S\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e93e89cc93514e7ea8a7a2ddb505b26}{%
+           family={Tusscher},
+           familyi={T\bibinitperiod},
+           given={Kirsten\bibnamedelima Ten},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{45bc5acfd8dfc17b90c8257b6351591d}
+      \strng{fullhash}{0dafa955efe9b2f0eced7ac892a5b56e}
+      \strng{bibnamehash}{0dafa955efe9b2f0eced7ac892a5b56e}
+      \strng{authorbibnamehash}{0dafa955efe9b2f0eced7ac892a5b56e}
+      \strng{authornamehash}{45bc5acfd8dfc17b90c8257b6351591d}
+      \strng{authorfullhash}{0dafa955efe9b2f0eced7ac892a5b56e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1534-5807}
+      \field{journaltitle}{Developmental Cell}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{A {{Self-Organized PLT}}/{{Auxin}}/{{ARR-B Network Controls}} the {{Dynamics}} of {{Root Zonation Development}} in {{Arabidopsis}} Thaliana}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{53}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{431\bibrangedash 443.e23}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.devcel.2020.04.004
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/8FL3JYXE/Salvi et al. - 2020 - A Self-Organized PLTAuxinARR-B Network Controls .pdf
+      \endverb
+      \keyw{Auxin,Cytokinin,Model,PIN,PLETHORA}
+    \endentry
+    \entry{matosevich2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=992a93cdd49dcc757b389d7f65b4b751}{%
+           family={Matosevich},
+           familyi={M\bibinitperiod},
+           given={Rotem},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3438ee09571b91d79d4d987ba24d69cc}{%
+           family={Efroni},
+           familyi={E\bibinitperiod},
+           given={Idan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{fullhash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{bibnamehash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{authorbibnamehash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{authornamehash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{authorfullhash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Since its discovery by F.A.L Clowes, extensive research has been dedicated to identifying the functions of the quiescent center (QC). One of the earliest hypotheses was that it serves a key role in regeneration of the root meristem. Recent works provided support for this hypothesis and began to elucidate the molecular mechanisms underlying this phenomenon. There are two scenarios to consider when assessing the role of the QC in regeneration: one, when the damage leaves the QC intact; and the other, when the QC itself is destroyed. In the first scenario, multiple factors are recruited to activate QC cell division in order to replace damaged cells, but whether the QC has a role in the second scenario is less clear. Both using gene expression studies and following the cell division pattern have shown that the QC is assembled gradually, only to appear as a coherent identity late in regeneration. Similar late emergence of the QC was observed during the de novo formation of the lateral root meristem. These observations can lead to the conclusion that the QC has no role in regeneration. However, activities normally occurring in QC cells, such as local auxin biosynthesis, are still found during regeneration but occur in different cells in the regenerating meristem. Thus, we explore an alternative hypothesis, that following destruction of the QC, QC-related gene activity is temporarily distributed to other cells in the regenerating meristem, and only coalesce into a distinct cell identity when regeneration is complete.}
+      \field{issn}{0022-0957}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{month}{10}
+      \field{number}{19}
+      \field{title}{The Quiescent Center and Root Regeneration}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{72}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{6739\bibrangedash 6745}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1093/jxb/erab319
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/NN454EN3/Matosevich and Efroni - 2021 - The quiescent center and root regeneration.pdf;/Users/rileywheadon/Zotero/storage/D9HMR7S2/6330663.html
+      \endverb
+      \keyw{QC}
+    \endentry
+    \entry{vukasinovic2021}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=a5ff84b2250f6e663a969058335c6eff}{%
+           family={Vukašinović},
+           familyi={V\bibinitperiod},
+           given={Nemanja},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29f4fb4b21f03b711202262cb97c20ca}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yaowei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=310a9229e075e6c10505fbd2d020e2eb}{%
+           family={Vanhoutte},
+           familyi={V\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b48fd846a051746fdfaabce0de25a8c}{%
+           family={Fendrych},
+           familyi={F\bibinitperiod},
+           given={Matyáš},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcdcd1c207caf0ca39bfa864330ba0da}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Boyu},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa297a8eab919935c9a484a50d901ecc}{%
+           family={Kvasnica},
+           familyi={K\bibinitperiod},
+           given={Miroslav},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=216c3aa9e40647296bae13e3d45272c5}{%
+           family={Jiroutová},
+           familyi={J\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=100d5f9303e6586dcaa61b0c8acfcc0d}{%
+           family={Oklestkova},
+           familyi={O\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c842b024b709f90c53c9becfd4bfcea}{%
+           family={Strnad},
+           familyi={S\bibinitperiod},
+           given={Miroslav},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ae80228ad50235871a811d58b88c384}{%
+           family={Russinova},
+           familyi={R\bibinitperiod},
+           given={Eugenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{d348dd5cfe952f8a87a2955adc7d1bf7}
+      \strng{fullhash}{c3587ab8b560aa4cf5d47476658466a0}
+      \strng{bibnamehash}{c3587ab8b560aa4cf5d47476658466a0}
+      \strng{authorbibnamehash}{c3587ab8b560aa4cf5d47476658466a0}
+      \strng{authornamehash}{d348dd5cfe952f8a87a2955adc7d1bf7}
+      \strng{authorfullhash}{c3587ab8b560aa4cf5d47476658466a0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Brassinosteroid (BR) hormones are indispensable for root growth and control both cell division and cell elongation through the establishment of an increasing signalling gradient along the longitudinal root axis. Because of their limited mobility, the importance of BR distribution in achieving a signalling maximum is largely overlooked. Expression pattern analysis of all known BR biosynthetic enzymes revealed that not all cells in the Arabidopsis thaliana root possess full biosynthetic machinery, and that completion of biosynthesis relies on cell-to-cell movement of hormone precursors. We demonstrate that BR biosynthesis is largely restricted to the root elongation zone, where it overlaps with BR signalling maxima. Moreover, optimal root growth requires hormone concentrations to be low in the meristem and high in the root elongation zone, attributable to increased biosynthesis. Our finding that spatiotemporal regulation of hormone synthesis results in local hormone accumulation provides a paradigm for hormone-driven organ growth in the absence of long-distance hormone transport in plants.}
+      \field{issn}{2055-0278}
+      \field{journaltitle}{Nature Plants}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Local Brassinosteroid Biosynthesis Enables Optimal Root Growth}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{7}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{619\bibrangedash 632}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1038/s41477-021-00917-x
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/N3QNKJR7/Vukašinović et al. - 2021 - Local brassinosteroid biosynthesis enables optimal.pdf
+      \endverb
+      \keyw{BR}
+    \endentry
+    \entry{halat2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ee5f287bd25d64bebc0bde9fc1eba26c}{%
+           family={Halat},
+           familyi={H\bibinitperiod},
+           given={Laryssa\bibnamedelima Sophia},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05a37d75a74eb44f8b8af15068bcd26b}{%
+           family={Bali},
+           familyi={B\bibinitperiod},
+           given={Breanne},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=675b76a2098e9f74f3c89c495eb59b65}{%
+           family={Wasteneys},
+           familyi={W\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{d1c3be2c75efdc125fd66f3fa08096c3}
+      \strng{fullhash}{9b48f659ed5c394597119186e7b223bb}
+      \strng{bibnamehash}{9b48f659ed5c394597119186e7b223bb}
+      \strng{authorbibnamehash}{9b48f659ed5c394597119186e7b223bb}
+      \strng{authornamehash}{d1c3be2c75efdc125fd66f3fa08096c3}
+      \strng{authorfullhash}{9b48f659ed5c394597119186e7b223bb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{$<$}p{$>$}The transition from cell division to differentiation in primary roots is dependent on precise gradients of phytohormones, including auxin, cytokinins and brassinosteroids. The reorganization of microtubules also plays a key role in determining whether a cell will enter another round of mitosis or begin to rapidly elongate as the first step in terminal differentiation. In the last few years, progress has been made to establish connections between signaling pathways at distinct locations within the root. This review focuses on the different factors that influence whether a root cell remains in the division zone or transitions to elongation and differentiation using {$<$}italic{$>$}Arabidopsis thaliana{$<$}/italic{$>$} as a model system. We highlight the role of the microtubule-associated protein CLASP as an intermediary between sustaining hormone signaling and controlling microtubule organization. We discuss new, innovative tools and methods, such as hormone sensors and computer modeling, that are allowing researchers to more accurately visualize the belowground growth dynamics of plants.{$<$}/p{$>$}}
+      \field{issn}{1664-462X}
+      \field{journaltitle}{Frontiers in Plant Science}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Cytoplasmic {{Linker Protein-Associating Protein}} at the {{Nexus}} of {{Hormone Signaling}}, {{Microtubule Organization}}, and the {{Transition From Division}} to {{Differentiation}} in {{Primary Roots}}}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpls.2022.883363
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/PKZS8FEV/Halat et al. - 2022 - Cytoplasmic Linker Protein-Associating Protein at .pdf
+      \endverb
+      \keyw{Auxin,BR,CLASP,Cytokinin,Review}
+    \endentry
+    \entry{goh2023}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=5e3ba17e0733d68c940726a6290edcfd}{%
+           family={Goh},
+           familyi={G\bibinitperiod},
+           given={Tatsuaki},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=843c7f8110f7bed0880c1cc4bd93ac35}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33272a400a189ff7047222cb4a996318}{%
+           family={Yonekura},
+           familyi={Y\bibinitperiod},
+           given={Takaaki},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ef0317d838a6991f9fde9909badb097}{%
+           family={Obushi},
+           familyi={O\bibinitperiod},
+           given={Noriyasu},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a6e1a3a0b02434b0e63a0cfdab452eb}{%
+           family={Den},
+           familyi={D\bibinitperiod},
+           given={Zeping},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cef9537aaa6baa4cd20e745a4f6fb62}{%
+           family={Imizu},
+           familyi={I\bibinitperiod},
+           given={Katsutoshi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f5cc85ddbe616e535a606430525474d}{%
+           family={Tomizawa},
+           familyi={T\bibinitperiod},
+           given={Yoko},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db8ac90ebd6710dab81e9034445210af}{%
+           family={Kondo},
+           familyi={K\bibinitperiod},
+           given={Yohei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab3ea6bae14469cd49f3f0af4fe31bbc}{%
+           family={Miyashima},
+           familyi={M\bibinitperiod},
+           given={Shunsuke},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a943aa7f10d3d046b92e954ab0a39fd0}{%
+           family={Iwamoto},
+           familyi={I\bibinitperiod},
+           given={Yutaro},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e186aca228c222fae783ec37b53a154d}{%
+           family={Inami},
+           familyi={I\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f28f27bd370861a0b78d9e30f3a5abcb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yen-Wei},
+           giveni={Y\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f096d3831711d6c0214464160762ea83}{%
+           family={Nakajima},
+           familyi={N\bibinitperiod},
+           given={Keiji},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{85d3affdd50164b0e4da2b6a0abd8a9a}
+      \strng{fullhash}{a62687daa042249c8db36ca7a11a783d}
+      \strng{bibnamehash}{a62687daa042249c8db36ca7a11a783d}
+      \strng{authorbibnamehash}{a62687daa042249c8db36ca7a11a783d}
+      \strng{authornamehash}{85d3affdd50164b0e4da2b6a0abd8a9a}
+      \strng{authorfullhash}{a62687daa042249c8db36ca7a11a783d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One of the fundamental questions in plant developmental biology is how cell proliferation and cell expansion coordinately determine organ growth and morphology. An amenable system to address this question is the Arabidopsis root tip, where cell proliferation and elongation occur in spatially separated domains, and cell morphologies can easily be observed using a confocal microscope. While past studies revealed numerous elements of root growth regulation including gene regulatory networks, hormone transport and signaling, cell mechanics and environmental perception, how cells divide and elongate under possible constraints from cell lineages and neighboring cell files has not been analyzed quantitatively. This is mainly due to the technical difficulties in capturing cell division and elongation dynamics at the tip of growing roots, as well as an extremely labor-intensive task of tracing the lineages of frequently dividing cells. Here, we developed a motion-tracking confocal microscope and an Artificial Intelligence (AI)-assisted image-processing pipeline that enables semi-automated quantification of cell division and elongation dynamics at the tip of vertically growing Arabidopsis roots. We also implemented a data sonification tool that facilitates human recognition of cell division synchrony. Using these tools, we revealed previously unnoted lineage-constrained dynamics of cell division and elongation, and their contribution to the root zonation boundaries.}
+      \field{issn}{1471-9053}
+      \field{journaltitle}{Plant and Cell Physiology}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{In-{{Depth Quantification}} of~{{Cell Division}} and~{{Elongation Dynamics}} at the {{Tip}} of~{{Growing Arabidopsis Roots Using 4D Microscopy}}, {{AI-Assisted Image Processing}} and~{{Data Sonification}}}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{64}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{1262\bibrangedash 1278}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1093/pcp/pcad105
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/E8UX3D9Q/Goh et al. - 2023 - In-Depth Quantification of Cell Division and Elong.pdf;/Users/rileywheadon/Zotero/storage/LBP8MJFU/7323573.html
+      \endverb
+      \keyw{Structure}
+    \endentry
+    \entry{smithers2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0d17f4f730c7c3f9773981733447da6c}{%
+           family={Smithers},
+           familyi={S\bibinitperiod},
+           given={Euan\bibnamedelima T.},
+           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=710dc31fd2eaed57e31dbc844fc18c6a}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Jingxi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ac18a9cc137526b97ba8799e9bea8e9}{%
+           family={Dyson},
+           familyi={D\bibinitperiod},
+           given={Rosemary\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bef7de3961cc5100f358cbeea17e20ff}
+      \strng{fullhash}{395c34635146bca4c07298fe089eb217}
+      \strng{bibnamehash}{395c34635146bca4c07298fe089eb217}
+      \strng{authorbibnamehash}{395c34635146bca4c07298fe089eb217}
+      \strng{authornamehash}{bef7de3961cc5100f358cbeea17e20ff}
+      \strng{authorfullhash}{395c34635146bca4c07298fe089eb217}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plant cell growth is regulated through manipulation of the cell wall network, which consists of oriented cellulose microfibrils embedded within a ground matrix incorporating pectin and hemicellulose components. There remain many unknowns as to how this manipulation occurs. Experiments have shown that cellulose reorients in cell walls as the cell expands, while recent data suggest that growth is controlled by distinct collections of hemicellulose called biomechanical hotspots, which join the cellulose molecule together. The enzymes expansin and Cel12A have both been shown to induce growth of the cell wall; however, while Cel12A's wall-loosening action leads to a reduction in the cell wall strength, expansin's has been shown to increase the strength of the cell wall. In contrast, members of the XTH enzyme family hydrolyse hemicellulose but do not appear to cause wall creep. This experimentally observed behaviour still awaits a full explanation. We derive and analyse a mathematical model for the effective mechanical properties of the evolving cell wall network, incorporating cellulose microfibrils, which reorient with cell growth and are linked via biomechanical hotspots made up of regions of crosslinking hemicellulose. Assuming a visco-elastic response for the cell wall and using a continuum approach, we calculate the total stress resultant of the cell wall for a given overall growth rate. By changing appropriate parameters affecting breakage rate and viscous properties, we provide evidence for the biomechanical hotspot hypothesis and develop mechanistic understanding of the growth-inducing enzymes.}
+      \field{issn}{1292-895X}
+      \field{journaltitle}{The European Physical Journal E}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A Continuum Mechanics Model of the Plant Cell Wall Reveals Interplay between Enzyme Action and Cell Wall Structure}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{47}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1140/epje/s10189-023-00396-2
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/723N3WFN/Smithers et al. - 2024 - A continuum mechanics model of the plant cell wall.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{ynt/global//global/global}
+    \entry{lockhart1965}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b0f53b468c0608e4f2f418c5aa30ba7}{%
+           family={Lockhart},
+           familyi={L\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{fullhash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{bibnamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{authorbibnamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{authornamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{authorfullhash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A model for plant cell elongation has been developed from rate equations for osmotic uptake of water and irreversible expansion of the cell wall. Assuming elastic equilibrium and a linear viscoelastic wall, cell elongation rate is derived as a function of osmotic pressure, ``extensibility'' of the wall, water permeability and cell size. The derived formulations predict growth curves comparable to those observed experimentally. Certain consequences of the derived formulations are discussed. It is shown that the turgor pressure of a growing cell will always be less than the water potential of the cell. This difference may be infinitesimal or finite, depending on the values of the physical parameters of the cell. It is also shown that at positive turgor pressures water must always move from a mature cell to a growing cell.}
+      \field{issn}{0022-5193}
+      \field{journaltitle}{Journal of Theoretical Biology}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{An Analysis of Irreversible Plant Cell Elongation}
+      \field{urlday}{22}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{1965}
+      \field{urldateera}{ce}
+      \field{pages}{264\bibrangedash 275}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/0022-5193(65)90077-9
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/4JTR236J/0022519365900779.html
+      \endverb
+    \endentry
+    \entry{wang2001}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=270907235374c207e07ece184df3749b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhi-Yong},
+           giveni={Z\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5979fb05ebae310e204e01dc3832f1e4}{%
+           family={Seto},
+           familyi={S\bibinitperiod},
+           given={Hideharu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0c26ab9008cfa7d1b6833971b432569}{%
+           family={Fujioka},
+           familyi={F\bibinitperiod},
+           given={Shozo},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10e5d8e8e7970b8f645b65bc5ff4c11c}{%
+           family={Yoshida},
+           familyi={Y\bibinitperiod},
+           given={Shigeo},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=242085b368ea0ffab559999b5e5c27d3}{%
+           family={Chory},
+           familyi={C\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{cec1fe0909902755b8156e8748150d31}
+      \strng{fullhash}{34f99c9bc353d07472c2d0ea00fe8ad4}
+      \strng{bibnamehash}{34f99c9bc353d07472c2d0ea00fe8ad4}
+      \strng{authorbibnamehash}{34f99c9bc353d07472c2d0ea00fe8ad4}
+      \strng{authornamehash}{cec1fe0909902755b8156e8748150d31}
+      \strng{authorfullhash}{34f99c9bc353d07472c2d0ea00fe8ad4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Most multicellular organisms use steroids as signalling molecules for physiological and developmental regulation. Two different modes of steroid action have been described in animal systems: the well-studied gene regulation response mediated by nuclear receptors1,2, and the rapid non-genomic responses mediated by proposed membrane-bound receptors3,4. Plant genomes do not seem to encode members of the nuclear receptor superfamily5. However, a transmembrane receptor kinase, brassinosteroid-insensitive1 (BRI1), has been implicated in brassinosteroid responses6,7. Here we show that BRI1 functions as a receptor of brassinolide, the most active brassinosteroid. The number of brassinolide-binding sites and the degree of response to brassinolide depend on the level of BRI1 protein. The brassinolide-binding activity co-immunoprecipitates with BRI1, and requires a functional BRI1 extracellular domain. Moreover, treatment of Arabidopsis seedlings with brassinolide induces autophosphorylation of BRI1, which, together with our binding studies, shows that BRI1 is a receptor kinase that transduces steroid signals across the plasma membrane.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{6826}
+      \field{title}{{{BRI1}} Is a Critical Component of a Plasma-Membrane Receptor for Plant Steroids}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{410}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{380\bibrangedash 383}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/35066597
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/A5FN8LXD/Wang et al. - 2001 - BRI1 is a critical component of a plasma-membrane .pdf
+      \endverb
+      \keyw{BR,BRI1}
+    \endentry
+    \entry{cano-delgado2004}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=f75926c0ae6f423a155c95f0bf4668dc}{%
+           family={{Caño-Delgado}},
+           familyi={C\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c49ede43bd610cdb2938ed33f899975}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Yanhai},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4652343980aad8788a48c61551a4c04a}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Cong},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71c7da76d2e53e05be8532951c9b454b}{%
+           family={Vafeados},
+           familyi={V\bibinitperiod},
+           given={Dionne},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3d67d919cce87a5ca49be9ba6a0efdf}{%
+           family={{Mora-García}},
+           familyi={M\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbe4c119c1d861a3f78e94359d4b4f99}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Jin-Chen},
+           giveni={J\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8a33f9f55bc9bca552483e0470b6fb1}{%
+           family={Nam},
+           familyi={N\bibinitperiod},
+           given={Kyoung\bibnamedelima Hee},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ffd07d2a8c8660cc5a4c277d54c9d6c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jianming},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=242085b368ea0ffab559999b5e5c27d3}{%
+           family={Chory},
+           familyi={C\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{45efb7d26e76a8705dcfff30dbcaa94f}
+      \strng{fullhash}{2d187ad89c1175f918c78edff6701a24}
+      \strng{bibnamehash}{2d187ad89c1175f918c78edff6701a24}
+      \strng{authorbibnamehash}{2d187ad89c1175f918c78edff6701a24}
+      \strng{authornamehash}{45efb7d26e76a8705dcfff30dbcaa94f}
+      \strng{authorfullhash}{2d187ad89c1175f918c78edff6701a24}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plant steroid hormones, brassinosteroids (BRs), are perceived by the plasma membrane-localized leucine-rich-repeat-receptor kinase BRI1. Based on sequence similarity, we have identified three members of the BRI1 family, named BRL1, BRL2 and BRL3. BRL1 and BRL3, but not BRL2, encode functional BR receptors that bind brassinolide, the most active BR, with high affinity. In agreement, only BRL1 and BRL3 can rescue bri1 mutants when expressed under the control of the BRI1 promoter. While BRI1 is ubiquitously expressed in growing cells, the expression of BRL1 and BRL3 is restricted to non-overlapping subsets of vascular cells. Loss-of-function of brl1 causes abnormal phloem:xylem differentiation ratios and enhances the vascular defects of a weak bri1 mutant. bri1 brl1 brl3 triple mutants enhance bri1 dwarfism and also exhibit abnormal vascular differentiation. Thus, Arabidopsis contains a small number of BR receptors that have specific functions in cell growth and vascular differentiation.}
+      \field{issn}{0950-1991}
+      \field{journaltitle}{Development (Cambridge, England)}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{21}
+      \field{title}{{{BRL1}} and {{BRL3}} Are Novel Brassinosteroid Receptors That Function in Vascular Differentiation in {{Arabidopsis}}}
+      \field{volume}{131}
+      \field{year}{2004}
+      \field{pages}{5341\bibrangedash 5351}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1242/dev.01403
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/NUU6B44Q/Caño-Delgado et al. - 2004 - BRL1 and BRL3 are novel brassinosteroid receptors .pdf
+      \endverb
+      \keyw{BR,BRI1}
+    \endentry
+    \entry{verbelen2006}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=875af8f5544ffe8ccb5bb21903c03241}{%
+           family={Verbelen},
+           familyi={V\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ee1ed7648c1ac93c23f59a2e5af35e7}{%
+           family={Cnodder},
+           familyi={C\bibinitperiod},
+           given={Tinne\bibnamedelima De},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=104846df0ebefe84ba81bb07f717073e}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cebd92d25a30549523cf2189eab0f39f}{%
+           family={Vissenberg},
+           familyi={V\bibinitperiod},
+           given={Kris},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=201f8fa438f41ff4025f740a8dc11908}{%
+           family={Baluška},
+           familyi={B\bibinitperiod},
+           given={František},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{14b0cdfa040248ac1e0eed674154b701}
+      \strng{fullhash}{f3c6eaed95a1a5954ddb243ea62aecc9}
+      \strng{bibnamehash}{f3c6eaed95a1a5954ddb243ea62aecc9}
+      \strng{authorbibnamehash}{f3c6eaed95a1a5954ddb243ea62aecc9}
+      \strng{authornamehash}{14b0cdfa040248ac1e0eed674154b701}
+      \strng{authorfullhash}{f3c6eaed95a1a5954ddb243ea62aecc9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the growing apex of Arabidopsis thaliana primary roots, cells proceed through four distinct phases of cellular activities. These zones and their boundaries can be well defined based on their characteristic cellular activities. The meristematic zone comprises, and is limited to, all cells that undergo mitotic divisions. Detailed in vivo analysis of transgenic lines reveals that, in the Columbia-0 ecotype, the meristem stretches up to 200 mm away from the junction between root and root cap (RCJ). In the transition zone, 200 to about 520 mm away from the RCJ, cells undergo physiological changes as they prepare for their fast elongation. Upon entering the transition zone, they progressively develop a central vacuole, polarize the cytoskeleton and remodel their cell walls. Cells grow slowly during this transition: it takes ten hours to triplicate cell length from 8.5 to about 35 mm in the trichoblast cell files. In the fast elongation zone, which covers the zone from 520 to about 850 mm from the RCJ, cell length q{\dbend}u{\dbend}{\dbend}a{\dbend}d{\dbend}r{\dbend}u{\dbend}p{\dbend}{\dbend}li{\dbend}c{\dbend}a{\dbend}t{\dbend}e{\dbend}s{\dbend}{\dbend}to{\dbend}{\dbend}{\dbend}a{\dbend}b{\dbend}o{\dbend}{\dbend}u{\dbend}t 1{\dbend}{\dbend}40{\dbend}{\dbend} mm in only two hours. This is accompanied by drastic and specific cell wall alterations. Finally, root hairs fully develop in the growth terminating zone, where root cells undergo a minor elongation to reach their mature lengths.}
+      \field{issn}{1559-2324}
+      \field{journaltitle}{Plant Signaling \& Behavior}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{6}
+      \field{shorttitle}{The {{Root Apex}} of {{{\emph{Arabidopsis}}}}{\emph{ Thaliana}} {{Consists}} of {{Four Distinct Zones}} of {{Growth Activities}}}
+      \field{title}{The {{Root Apex}} of {{{\emph{Arabidopsis}}}}{\emph{ Thaliana}} {{Consists}} of {{Four Distinct Zones}} of {{Growth Activities}}: {{Meristematic Zone}}, {{Transition Zone}}, {{Fast Elongation Zone}} and {{Growth Terminating Zone}}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{1}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{296\bibrangedash 304}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.4161/psb.1.6.3511
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/CRSPEKK3/Verbelen et al. - 2006 - The Root Apex of Arabidopsis thaliana Consi.pdf
+      \endverb
+      \keyw{Structure}
+    \endentry
+    \entry{ambrose2007}{article}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=892cee08bbbe900b863335ea0d991f33}{%
+           family={Ambrose},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi Christian},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9daa302cbaf311a195d924219c71f325}{%
+           family={Shoji},
+           familyi={S\bibinitperiod},
+           given={Tsubasa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=312b73a56886b257ebdc7d4af80277a9}{%
+           family={Kotzer},
+           familyi={K\bibinitperiod},
+           given={Amanda\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f59a55c593a96ff50ca8d9cd1bbfbd9d}{%
+           family={Pighin},
+           familyi={P\bibinitperiod},
+           given={Jamie\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=811afd13c18ad7c838be119a261d8961}{%
+           family={Wasteneys},
+           familyi={W\bibinitperiod},
+           given={Geoffrey\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a88296da599af68eac72a70d46a91fe6}
+      \strng{fullhash}{d5fb76fef925bb3e7b389a3ed1a422d3}
+      \strng{bibnamehash}{d5fb76fef925bb3e7b389a3ed1a422d3}
+      \strng{authorbibnamehash}{d5fb76fef925bb3e7b389a3ed1a422d3}
+      \strng{authornamehash}{a88296da599af68eac72a70d46a91fe6}
+      \strng{authorfullhash}{d5fb76fef925bb3e7b389a3ed1a422d3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Controlling microtubule dynamics and spatial organization is a fundamental requirement of eukaryotic cell function. Members of the ORBIT/MAST/CLASP family of microtubule-associated proteins associate with the plus ends of microtubules, where they promote the addition of tubulin subunits into attached kinetochore fibers during mitosis and stabilize microtubules in the vicinity of the plasma membrane during interphase. To date, nothing is known about their function in plants. Here, we show that the Arabidopsis thaliana CLASP protein is a microtubule-associated protein that is involved in both cell division and cell expansion. Green fluorescent protein--CLASP localizes along the full length of microtubules and shows enrichment at growing plus ends. Our analysis suggests that CLASP promotes microtubule stability. clasp-1 T-DNA insertion mutants are hypersensitive to microtubule-destabilizing drugs and exhibit more sparsely populated, yet well ordered, root cortical microtubule arrays. Overexpression of CLASP promotes microtubule bundles that are resistant to depolymerization with oryzalin. Furthermore, clasp-1 mutants have aberrant microtubule preprophase bands, mitotic spindles, and phragmoplasts, indicating a role for At CLASP in stabilizing mitotic arrays. clasp-1 plants are dwarf, have significantly reduced cell numbers in the root division zone, and have defects in directional cell expansion. We discuss possible mechanisms of CLASP function in higher plants.}
+      \field{issn}{1040-4651}
+      \field{journaltitle}{The Plant Cell}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{The {{Arabidopsis CLASP Gene Encodes}} a {{Microtubule-Associated Protein Involved}} in {{Cell Expansion}} and {{Division}}}
+      \field{urlday}{6}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{19}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{2763\bibrangedash 2775}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1105/tpc.107.053777
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/WYVEFID3/Ambrose et al. - 2007 - The Arabidopsis CLASP Gene Encodes a Microtubule-A.pdf;/Users/rileywheadon/Zotero/storage/GLWTGEMA/6092225.html
+      \endverb
+      \keyw{CLASP,MT}
+    \endentry
+    \entry{grieneisen2007}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=3bd6c6f4ce4c874bc72a4da1d00dab34}{%
+           family={Grieneisen},
+           familyi={G\bibinitperiod},
+           given={Verônica\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c38570c1a2c89c3525a2139602c96b0}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e4db12360927cc68c7ba1c011028a30}{%
+           family={Marée},
+           familyi={M\bibinitperiod},
+           given={Athanasius\bibnamedelimb F.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c69f11816fc70f857c626e2bf5e0b75}{%
+           family={Hogeweg},
+           familyi={H\bibinitperiod},
+           given={Paulien},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5807be5a8c89994a53b5d89e6be95a55}{%
+           family={Scheres},
+           familyi={S\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{74d7a511adc61af8a6af271d31e7e49e}
+      \strng{fullhash}{a348adc79a836cb41ad13b15a6ca8812}
+      \strng{bibnamehash}{a348adc79a836cb41ad13b15a6ca8812}
+      \strng{authorbibnamehash}{a348adc79a836cb41ad13b15a6ca8812}
+      \strng{authornamehash}{74d7a511adc61af8a6af271d31e7e49e}
+      \strng{authorfullhash}{a348adc79a836cb41ad13b15a6ca8812}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The plant growth regulator auxin controls cell identity, cell division and cell expansion. Auxin efflux facilitators (PINs) are associated with auxin maxima in distal regions of both shoots and roots. Here we model diffusion and PIN-facilitated auxin transport in and across cells within a structured root layout. In our model, the stable accumulation of auxin in a distal maximum emerges from the auxin flux pattern. We have experimentally tested model predictions of robustness and self-organization. Our model explains pattern formation and morphogenesis at timescales from seconds to weeks, and can be understood by conceptualizing the root as an `auxin capacitor'. A robust auxin gradient associated with the maximum, in combination with separable roles of auxin in cell division and cell expansion, is able to explain the formation, maintenance and growth of sharply bounded meristematic and elongation zones. Directional permeability and diffusion can fully account for stable auxin maxima and gradients that can instruct morphogenesis.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{7165}
+      \field{title}{Auxin Transport Is Sufficient to Generate a Maximum and Gradient Guiding Root Growth}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{449}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{1008\bibrangedash 1013}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nature06215
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/ZIT63YPU/Grieneisen et al. - 2007 - Auxin transport is sufficient to generate a maximu.pdf
+      \endverb
+      \keyw{Auxin,Model,PIN}
+    \endentry
+    \entry{hamant2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4905525e7a0f12f88a47d6a11ff1546a}{%
+           family={Hamant},
+           familyi={H\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10f08f36d4ca0016845be88e7adba46d}{%
+           family={Traas},
+           familyi={T\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{fullhash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{bibnamehash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{authorbibnamehash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{authornamehash}{5680bb15fb75d51ff240603c43f01a08}
+      \strng{authorfullhash}{5680bb15fb75d51ff240603c43f01a08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Morphogenesis in living organisms relies on the integration of both biochemical and mechanical signals. During the last decade, attention has been mainly focused on the role of biochemical signals in patterning and morphogenesis, leaving the contribution of mechanics largely unexplored. Fortunately, the development of new tools and approaches has made it possible to re-examine these processes. In plants, shape is defined by two local variables: growth rate and growth direction. At the level of the cell, these variables depend on both the cell wall and turgor pressure. Multidisciplinary approaches have been used to understand how these cellular processes are integrated in the growing tissues. These include quantitative live imaging to measure growth rate and direction in tissues with cellular resolution. In parallel, stress patterns have been artificially modified and their impact on strain and cell behavior been analysed. Importantly, computational models based on analogies with continuum mechanics systems have been useful in interpreting the results. In this review, we will discuss these issues focusing on the shoot apical meristem, a population of stem cells that is responsible for the initiation of the aerial organs of the plant. Contents Summary 369 I. Introduction 369 II. The cellular basis of plant morphogenesis and plant mechanics 370 III. From cells to organisms: a dialog between levels of organization 374 IV. Biomechanics: some concepts and approaches 375 V. Sensing forces: some clues on the molecular basis 380 VI. Conclusion 381 Acknowledgements 381 References 381}
+      \field{issn}{1469-8137}
+      \field{journaltitle}{New Phytologist}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{The Mechanics behind Plant Development}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{185}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{369\bibrangedash 385}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1111/j.1469-8137.2009.03100.x
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/N2UWCBBA/Hamant and Traas - 2010 - The mechanics behind plant development.pdf;/Users/rileywheadon/Zotero/storage/243FJDWA/j.1469-8137.2009.03100.html
+      \endverb
+      \keyw{Growth,MT}
+    \endentry
+    \entry{ambrose2011}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=2ac003abf767ccfda4346f0b6c8276b0}{%
+           family={Ambrose},
+           familyi={A\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=7734d12930072c189f1b8738529ae0ee}{%
+           family={Allard},
+           familyi={A\bibinitperiod},
+           given={Jun\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1165dc90b35848f8492e91bad4a27e0}{%
+           family={Cytrynbaum},
+           familyi={C\bibinitperiod},
+           given={Eric\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=811afd13c18ad7c838be119a261d8961}{%
+           family={Wasteneys},
+           familyi={W\bibinitperiod},
+           given={Geoffrey\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{8ae2edb493a4a024bbc4b8ea4ccad486}
+      \strng{fullhash}{06d52b25303e6b7cfc8ffe3d05ca2e56}
+      \strng{bibnamehash}{06d52b25303e6b7cfc8ffe3d05ca2e56}
+      \strng{authorbibnamehash}{06d52b25303e6b7cfc8ffe3d05ca2e56}
+      \strng{authornamehash}{8ae2edb493a4a024bbc4b8ea4ccad486}
+      \strng{authorfullhash}{06d52b25303e6b7cfc8ffe3d05ca2e56}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is well known that the parallel order of microtubules in the plant cell cortex defines the direction of cell expansion, yet it remains unclear how microtubule orientation is controlled, especially on a cell-wide basis. Here we show through 4D imaging and computational modelling that plant cell polyhedral geometry provides spatial input that determines array orientation and heterogeneity. Microtubules depolymerize when encountering sharp cell edges head-on, whereas those oriented parallel to those sharp edges remain. Edge-induced microtubule depolymerization, however, is overcome by the microtubule-associated protein CLASP, which accumulates at specific cell edges, enables microtubule growth around sharp edges and promotes formation of microtubule bundles that span adjacent cell faces. By computationally modelling dynamic 'microtubules on a cube' with edges differentially permissive to microtubule passage, we show that the CLASP-edge complex is a 'tuneable' microtubule organizer, with the inherent flexibility to generate the numerous cortical array patterns observed in nature.}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{1}
+      \field{title}{A {{CLASP-modulated}} Cell Edge Barrier Mechanism Drives Cell-Wide Cortical Microtubule Organization in {{Arabidopsis}}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{2}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{430}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/ncomms1444
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/XZRTE7RV/Ambrose et al. - 2011 - A CLASP-modulated cell edge barrier mechanism driv.pdf
+      \endverb
+      \keyw{CLASP,MT}
+    \endentry
+    \entry{vanesse2012}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=71b1b5cfcfa6b68f6e2015c07968acd3}{%
+           family={{van Esse}},
+           familyi={v\bibinitperiod},
+           given={G.\bibnamedelimi Wilma},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4eff2f241f966778266facf4b76aba3c}{%
+           family={{van Mourik}},
+           familyi={v\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d30132fac12a4767a20043b1c7433ca}{%
+           family={Stigter},
+           familyi={S\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25466cd940e691be7afe230daad5ca7d}{%
+           family={{ten Hove}},
+           familyi={t\bibinitperiod},
+           given={Colette\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76b5831d8ef65c39a7b5e22758744a04}{%
+           family={Molenaar},
+           familyi={M\bibinitperiod},
+           given={Jaap},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f89b8df60e85003f14fc40d55f62532}{%
+           family={{de Vries}},
+           familyi={d\bibinitperiod},
+           given={Sacco\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6eba8c207e2133a4af6d8ced7fdae703}
+      \strng{fullhash}{9d9d8800ce8b5099dea8839b70a419a6}
+      \strng{bibnamehash}{9d9d8800ce8b5099dea8839b70a419a6}
+      \strng{authorbibnamehash}{9d9d8800ce8b5099dea8839b70a419a6}
+      \strng{authornamehash}{6eba8c207e2133a4af6d8ced7fdae703}
+      \strng{authorfullhash}{9d9d8800ce8b5099dea8839b70a419a6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Brassinosteroid (BR) signaling is essential for plant growth and development. In Arabidopsis (Arabidopsis thaliana), BRs are perceived by the BRASSINOSTEROID INSENSITIVE1 (BRI1) receptor. Root growth and hypocotyl elongation are convenient downstream physiological outputs of BR signaling. A computational approach was employed to predict root growth solely on the basis of BRI1 receptor activity. The developed mathematical model predicts that during normal root growth, few receptors are occupied with ligand. The model faithfully predicts root growth, as observed in bri1 loss-of-function mutants. For roots, it incorporates one stimulatory and two inhibitory modules, while for hypocotyls, a single inhibitory module is sufficient. Root growth as observed when BRI1 is overexpressed can only be predicted assuming that a decrease occurred in the BRI1 half-maximum response values. Root growth appears highly sensitive to variation in BR concentration and much less to reduction in BRI1 receptor level, suggesting that regulation occurs primarily by ligand availability and biochemical activity.}
+      \field{issn}{0032-0889}
+      \field{journaltitle}{Plant Physiology}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{A {{Mathematical Model}} for {{BRASSINOSTEROID INSENSITIVE1-Mediated Signaling}} in {{Root Growth}} and {{Hypocotyl Elongation}}}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{160}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{523\bibrangedash 532}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1104/pp.112.200105
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/C9NHCRIZ/van Esse et al. - 2012 - A Mathematical Model for BRASSINOSTEROID INSENSITI.pdf;/Users/rileywheadon/Zotero/storage/LR3UUCW3/6109780.html
+      \endverb
+      \keyw{BR,Model}
+    \endentry
+    \entry{chaiwanon2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3acd0f778cf4f121ca96c230dd02bcb9}{%
+           family={Chaiwanon},
+           familyi={C\bibinitperiod},
+           given={Juthamas},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=270907235374c207e07ece184df3749b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhi-Yong},
+           giveni={Z\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{fullhash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{bibnamehash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{authorbibnamehash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{authornamehash}{0775eea70425efcf9aa6552dd1fdb365}
+      \strng{authorfullhash}{0775eea70425efcf9aa6552dd1fdb365}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0960-9822}
+      \field{journaltitle}{Current Biology}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{8}
+      \field{title}{Spatiotemporal {{Brassinosteroid Signaling}} and {{Antagonism}} with {{Auxin Pattern Stem Cell Dynamics}} in {{Arabidopsis Roots}}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{25}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{1031\bibrangedash 1042}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.cub.2015.02.046
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/ZLW5MCU3/Chaiwanon and Wang - 2015 - Spatiotemporal Brassinosteroid Signaling and Antag.pdf
+      \endverb
+      \keyw{Auxin,BR}
+    \endentry
+    \entry{kumpf2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8b82dc5eb7525920e6b6e692024c364c}{%
+           family={Kumpf},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2efaae4ecb63830b567a76f217f0e64a}{%
+           family={Nowack},
+           familyi={N\bibinitperiod},
+           given={Moritz\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{fullhash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{bibnamehash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{authorbibnamehash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{authornamehash}{3e293b28937e60b00f7c52c15752dd08}
+      \strng{authorfullhash}{3e293b28937e60b00f7c52c15752dd08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Over 130 years ago, Charles Darwin recognized that sensory functions in the root tip influence directional root growth. Modern plant biology has unravelled that many of the functions that Darwin attributed to the root tip are actually accomplished by a particular organ---the root cap. The root cap surrounds and protects the meristematic stem cells at the growing root tip. Due to this vanguard position, the root cap is predisposed to receive and transmit environmental information to the root proper. In contrast to other plant organs, the root cap shows a rapid turnover of short-lived cells regulated by an intricate balance of cell generation, differentiation, and degeneration. Thanks to these particular features, the root cap is an excellent developmental model system, in which generation, differentiation, and degeneration of cells can be investigated in a conveniently compact spatial and temporal frame. In this review, we give an overview of the current knowledge and concepts of root cap biology, focusing on the model plant Arabidopsis thaliana.}
+      \field{issn}{0022-0957}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{month}{9}
+      \field{number}{19}
+      \field{shorttitle}{The Root Cap}
+      \field{title}{The Root Cap: A Short Story of Life and Death}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{66}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{5651\bibrangedash 5662}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1093/jxb/erv295
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/8H2NF66B/Kumpf and Nowack - 2015 - The root cap a short story of life and death.pdf;/Users/rileywheadon/Zotero/storage/NMUV5WSK/696325.html
+      \endverb
+      \keyw{Cap}
+    \endentry
+    \entry{vragovic2015}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=4a9f984f8a344250a2321a1ad56fdbab}{%
+           family={Vragović},
+           familyi={V\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=615990c121ee74bc34cb97f6623df330}{%
+           family={Sela},
+           familyi={S\bibinitperiod},
+           given={Ayala},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c9d7681c61de75ac9aa2f6d3c0aeaf7}{%
+           family={{Friedlander-Shani}},
+           familyi={F\bibinitperiod},
+           given={Lilach},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee6db19a072d2caafab0dd3428f23ef9}{%
+           family={Fridman},
+           familyi={F\bibinitperiod},
+           given={Yulia},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5e2728999fc4df4349e711b5a025b60}{%
+           family={Hacham},
+           familyi={H\bibinitperiod},
+           given={Yael},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36786f72e9e41689ee3bb4e3da7c88e1}{%
+           family={Holland},
+           familyi={H\bibinitperiod},
+           given={Neta},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cc508d42680116790bae280bf500393}{%
+           family={Bartom},
+           familyi={B\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5d5cb8e2b520b7bc25daa61426e8c2f}{%
+           family={Mockler},
+           familyi={M\bibinitperiod},
+           given={Todd\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15a8ea77a19710964e09dfc2b31dda22}{%
+           family={{Savaldi-Goldstein}},
+           familyi={S\bibinitperiod},
+           given={Sigal},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{1cdc69d222614f837ed99dcf8fd131a7}
+      \strng{fullhash}{7acdcaba5cc82ce0e09342ba1fb4e4d3}
+      \strng{bibnamehash}{7acdcaba5cc82ce0e09342ba1fb4e4d3}
+      \strng{authorbibnamehash}{7acdcaba5cc82ce0e09342ba1fb4e4d3}
+      \strng{authornamehash}{1cdc69d222614f837ed99dcf8fd131a7}
+      \strng{authorfullhash}{7acdcaba5cc82ce0e09342ba1fb4e4d3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The mechanisms ensuring balanced growth remain a critical question in developmental biology. In plants, this balance relies on spatiotemporal integration of hormonal signaling pathways, but the understanding of the precise contribution of each hormone is just beginning to take form. Brassinosteroid (BR) hormone is shown here to have opposing effects on root meristem size, depending on its site of action. BR is demonstrated to both delay and promote onset of stem cell daughter differentiation, when acting in the outer tissue of the root meristem, the epidermis, and the innermost tissue, the stele, respectively. To understand the molecular basis of this phenomenon, a comprehensive spatiotemporal translatome mapping of Arabidopsis roots was performed. Analyses of wild type and mutants featuring different distributions of BR revealed autonomous, tissue-specific gene responses to BR, implying its contrasting tissue-dependent impact on growth. BR-induced genes were primarily detected in epidermal cells of the basal meristem zone and were enriched by auxin-related genes. In contrast, repressed BR genes prevailed in the stele of the apical meristem zone. Furthermore, auxin was found to mediate the growth-promoting impact of BR signaling originating in the epidermis, whereas BR signaling in the stele buffered this effect. We propose that context-specific BR activity and responses are oppositely interpreted at the organ level, ensuring coherent growth.}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{1}
+      \field{number}{3}
+      \field{title}{Translatome Analyses Capture of Opposing Tissue-Specific Brassinosteroid Signals Orchestrating Root Meristem Differentiation}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{112}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{923\bibrangedash 928}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.1417947112
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/9MKS3RKC/Vragović et al. - 2015 - Translatome analyses capture of opposing tissue-sp.pdf
+      \endverb
+      \keyw{BR}
+    \endentry
+    \entry{dimambro2017}{article}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=5c35b78cf6ad3666b61aa0ab70ab1f90}{%
+           family={Di\bibnamedelima Mambro},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Riccardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c1b4d38aca8a003f7cb62e4730c63b6}{%
+           family={De\bibnamedelima Ruvo},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Micol},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=800a5c6c1ce734a4e8e6ded7ca334eb6}{%
+           family={Pacifici},
+           familyi={P\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15c20a7e4ea66521eb74e5d06ff85668}{%
+           family={Salvi},
+           familyi={S\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c4ab3282498f2509fd39101c6a7213d}{%
+           family={Sozzani},
+           familyi={S\bibinitperiod},
+           given={Rosangela},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83ecb60595676e86165a9d894b8678b4}{%
+           family={Benfey},
+           familyi={B\bibinitperiod},
+           given={Philip\bibnamedelima N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4b07f30a39386983cb601b919dd73f6}{%
+           family={Busch},
+           familyi={B\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7482b4527c6906c04b385a5e7c312752}{%
+           family={Novak},
+           familyi={N\bibinitperiod},
+           given={Ondrej},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fe502015d26f5678c74d0dbd08c6b91}{%
+           family={Ljung},
+           familyi={L\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a666b3930874b80f53807a36fce460a4}{%
+           family={Di\bibnamedelima Paola},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Luisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e4db12360927cc68c7ba1c011028a30}{%
+           family={Marée},
+           familyi={M\bibinitperiod},
+           given={Athanasius\bibnamedelimb F.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b83fc7a341c2fab86e5da0f8938b2f9e}{%
+           family={Costantino},
+           familyi={C\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bd6c6f4ce4c874bc72a4da1d00dab34}{%
+           family={Grieneisen},
+           familyi={G\bibinitperiod},
+           given={Verônica\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb97eab9cc005d9d9eb2f8a3b18ef6d}{%
+           family={Sabatini},
+           familyi={S\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{eeb6928371d785c5ff46123642b0033a}
+      \strng{fullhash}{6285a27e01b5f8e0d88df8489af8e3a2}
+      \strng{bibnamehash}{6285a27e01b5f8e0d88df8489af8e3a2}
+      \strng{authorbibnamehash}{6285a27e01b5f8e0d88df8489af8e3a2}
+      \strng{authornamehash}{eeb6928371d785c5ff46123642b0033a}
+      \strng{authorfullhash}{6285a27e01b5f8e0d88df8489af8e3a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In multicellular organisms, a stringent control of the transition between cell division and differentiation is crucial for correct tissue and organ development. In the Arabidopsis root, the boundary between dividing and differentiating cells is positioned by the antagonistic interaction of the hormones auxin and cytokinin. Cytokinin affects polar auxin transport, but how this impacts the positional information required to establish this tissue boundary, is still unknown. By combining computational modeling with molecular genetics, we show that boundary formation is dependent on cytokinin's control on auxin polar transport and degradation. The regulation of both processes shapes the auxin profile in a well-defined auxin minimum. This auxin minimum positions the boundary between dividing and differentiating cells, acting as a trigger for this developmental transition, thus controlling meristem size.}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{9}
+      \field{number}{36}
+      \field{title}{Auxin Minimum Triggers the Developmental Switch from Cell Division to Cell Differentiation in the {{Arabidopsis}} Root}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{114}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{E7641\bibrangedash E7649}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.1705833114
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/BAL4ZWNI/supplementary materials.pdf;/Users/rileywheadon/Zotero/storage/PBSXGLYP/Di Mambro et al. - 2017 - Auxin minimum triggers the developmental switch fr.pdf
+      \endverb
+      \keyw{Auxin,Cytokinin,Model}
+    \endentry
+    \entry{ruan2018}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=a24452801ea8f1e7925b86e867ed0db8}{%
+           family={Ruan},
+           familyi={R\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a84d5bd89ebf481a55bdcdb0473ec57}{%
+           family={Halat},
+           familyi={H\bibinitperiod},
+           given={Laryssa\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff977b1eabedf14ef33ea440d60e5036}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Deirdre},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b665e8052f9bf085d6c9672a1f3501e}{%
+           family={Jancowski},
+           familyi={J\bibinitperiod},
+           given={Sylwia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ac003abf767ccfda4346f0b6c8276b0}{%
+           family={Ambrose},
+           familyi={A\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db2ea70bf179ecae7ed07ed9dbc39abd}{%
+           family={Belmonte},
+           familyi={B\bibinitperiod},
+           given={Mark\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=811afd13c18ad7c838be119a261d8961}{%
+           family={Wasteneys},
+           familyi={W\bibinitperiod},
+           given={Geoffrey\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{26a79969d86b90d0bfe71ca324bf69d0}
+      \strng{fullhash}{dcb5dea374e51e5153a212df89c102f9}
+      \strng{bibnamehash}{dcb5dea374e51e5153a212df89c102f9}
+      \strng{authorbibnamehash}{dcb5dea374e51e5153a212df89c102f9}
+      \strng{authornamehash}{26a79969d86b90d0bfe71ca324bf69d0}
+      \strng{authorfullhash}{dcb5dea374e51e5153a212df89c102f9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0960-9822}
+      \field{journaltitle}{Current Biology}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{17}
+      \field{title}{The {{Microtubule-Associated Protein CLASP Sustains Cell Proliferation}} through a {{Brassinosteroid Signaling Negative Feedback Loop}}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{28}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{2718\bibrangedash 2729.e5}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.cub.2018.06.048
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/IIWXLBN4/Ruan et al. - 2018 - The Microtubule-Associated Protein CLASP Sustains .pdf
+      \endverb
+      \keyw{BR,CLASP,MT}
+    \endentry
+    \entry{ackerman-lavert2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=08d558d85854a90da1677e23d806f6c8}{%
+           family={{Ackerman-Lavert}},
+           familyi={A\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15a8ea77a19710964e09dfc2b31dda22}{%
+           family={{Savaldi-Goldstein}},
+           familyi={S\bibinitperiod},
+           given={Sigal},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{fullhash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{bibnamehash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{authorbibnamehash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{authornamehash}{3f67d758229e8add9002a3dc749193a7}
+      \strng{authorfullhash}{3f67d758229e8add9002a3dc749193a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plant growth relies on interconnected hormonal pathways, their corresponding transcriptional networks and mechanical signals. This work reviews recent brassinosteroid (BR) studies and integrates them with current growth models derived from research in roots. The relevance of spatiotemporal BR signaling in the longitudinal and radial root axes and its multifaceted interaction with auxin, the impact of BR on final cell size determination and its interplay with microtubules and the cell wall are discussed. Also highlighted are emerging variations of canonical BR signaling that could function in developmental-specific context.}
+      \field{issn}{1369-5266}
+      \field{journaltitle}{Current Opinion in Plant Biology}
+      \field{month}{2}
+      \field{series}{Growth and Development}
+      \field{title}{Growth Models from a Brassinosteroid Perspective}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{53}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{90\bibrangedash 97}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.pbi.2019.10.008
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/YLXTEAEW/S1369526619300998.html
+      \endverb
+      \keyw{BR,Review}
+    \endentry
+    \entry{salvi2020}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=15c20a7e4ea66521eb74e5d06ff85668}{%
+           family={Salvi},
+           familyi={S\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0260bfe706f5a85ec96fe3d880659347}{%
+           family={Rutten},
+           familyi={R\bibinitperiod},
+           given={Jacob\bibnamedelima Pieter},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb25eca913922e7c2efab82f6883c077}{%
+           family={Mambro},
+           familyi={M\bibinitperiod},
+           given={Riccardo\bibnamedelima Di},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbf89cf03aecf24133eaf8ec76de1622}{%
+           family={Polverari},
+           familyi={P\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd80a46e86cff77ea096e9af9981314b}{%
+           family={Licursi},
+           familyi={L\bibinitperiod},
+           given={Valerio},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f445a97b0b3d948ca090409a9bf7ec31}{%
+           family={Negri},
+           familyi={N\bibinitperiod},
+           given={Rodolfo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce377a15ab0d801bdc1bd4d636cfb8e2}{%
+           family={Ioio},
+           familyi={I\bibinitperiod},
+           given={Raffaele\bibnamedelima Dello},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb97eab9cc005d9d9eb2f8a3b18ef6d}{%
+           family={Sabatini},
+           familyi={S\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e93e89cc93514e7ea8a7a2ddb505b26}{%
+           family={Tusscher},
+           familyi={T\bibinitperiod},
+           given={Kirsten\bibnamedelima Ten},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{45bc5acfd8dfc17b90c8257b6351591d}
+      \strng{fullhash}{0dafa955efe9b2f0eced7ac892a5b56e}
+      \strng{bibnamehash}{0dafa955efe9b2f0eced7ac892a5b56e}
+      \strng{authorbibnamehash}{0dafa955efe9b2f0eced7ac892a5b56e}
+      \strng{authornamehash}{45bc5acfd8dfc17b90c8257b6351591d}
+      \strng{authorfullhash}{0dafa955efe9b2f0eced7ac892a5b56e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1534-5807}
+      \field{journaltitle}{Developmental Cell}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{A {{Self-Organized PLT}}/{{Auxin}}/{{ARR-B Network Controls}} the {{Dynamics}} of {{Root Zonation Development}} in {{Arabidopsis}} Thaliana}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{53}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{431\bibrangedash 443.e23}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.devcel.2020.04.004
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/8FL3JYXE/Salvi et al. - 2020 - A Self-Organized PLTAuxinARR-B Network Controls .pdf
+      \endverb
+      \keyw{Auxin,Cytokinin,Model,PIN,PLETHORA}
+    \endentry
+    \entry{matosevich2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=992a93cdd49dcc757b389d7f65b4b751}{%
+           family={Matosevich},
+           familyi={M\bibinitperiod},
+           given={Rotem},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3438ee09571b91d79d4d987ba24d69cc}{%
+           family={Efroni},
+           familyi={E\bibinitperiod},
+           given={Idan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{fullhash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{bibnamehash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{authorbibnamehash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{authornamehash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \strng{authorfullhash}{a142c49f204a596d3e6c7ad8bf04704e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Since its discovery by F.A.L Clowes, extensive research has been dedicated to identifying the functions of the quiescent center (QC). One of the earliest hypotheses was that it serves a key role in regeneration of the root meristem. Recent works provided support for this hypothesis and began to elucidate the molecular mechanisms underlying this phenomenon. There are two scenarios to consider when assessing the role of the QC in regeneration: one, when the damage leaves the QC intact; and the other, when the QC itself is destroyed. In the first scenario, multiple factors are recruited to activate QC cell division in order to replace damaged cells, but whether the QC has a role in the second scenario is less clear. Both using gene expression studies and following the cell division pattern have shown that the QC is assembled gradually, only to appear as a coherent identity late in regeneration. Similar late emergence of the QC was observed during the de novo formation of the lateral root meristem. These observations can lead to the conclusion that the QC has no role in regeneration. However, activities normally occurring in QC cells, such as local auxin biosynthesis, are still found during regeneration but occur in different cells in the regenerating meristem. Thus, we explore an alternative hypothesis, that following destruction of the QC, QC-related gene activity is temporarily distributed to other cells in the regenerating meristem, and only coalesce into a distinct cell identity when regeneration is complete.}
+      \field{issn}{0022-0957}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{month}{10}
+      \field{number}{19}
+      \field{title}{The Quiescent Center and Root Regeneration}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{72}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{6739\bibrangedash 6745}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1093/jxb/erab319
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/NN454EN3/Matosevich and Efroni - 2021 - The quiescent center and root regeneration.pdf;/Users/rileywheadon/Zotero/storage/D9HMR7S2/6330663.html
+      \endverb
+      \keyw{QC}
+    \endentry
+    \entry{vukasinovic2021}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=a5ff84b2250f6e663a969058335c6eff}{%
+           family={Vukašinović},
+           familyi={V\bibinitperiod},
+           given={Nemanja},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29f4fb4b21f03b711202262cb97c20ca}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yaowei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=310a9229e075e6c10505fbd2d020e2eb}{%
+           family={Vanhoutte},
+           familyi={V\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b48fd846a051746fdfaabce0de25a8c}{%
+           family={Fendrych},
+           familyi={F\bibinitperiod},
+           given={Matyáš},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcdcd1c207caf0ca39bfa864330ba0da}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Boyu},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa297a8eab919935c9a484a50d901ecc}{%
+           family={Kvasnica},
+           familyi={K\bibinitperiod},
+           given={Miroslav},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=216c3aa9e40647296bae13e3d45272c5}{%
+           family={Jiroutová},
+           familyi={J\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=100d5f9303e6586dcaa61b0c8acfcc0d}{%
+           family={Oklestkova},
+           familyi={O\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c842b024b709f90c53c9becfd4bfcea}{%
+           family={Strnad},
+           familyi={S\bibinitperiod},
+           given={Miroslav},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ae80228ad50235871a811d58b88c384}{%
+           family={Russinova},
+           familyi={R\bibinitperiod},
+           given={Eugenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{d348dd5cfe952f8a87a2955adc7d1bf7}
+      \strng{fullhash}{c3587ab8b560aa4cf5d47476658466a0}
+      \strng{bibnamehash}{c3587ab8b560aa4cf5d47476658466a0}
+      \strng{authorbibnamehash}{c3587ab8b560aa4cf5d47476658466a0}
+      \strng{authornamehash}{d348dd5cfe952f8a87a2955adc7d1bf7}
+      \strng{authorfullhash}{c3587ab8b560aa4cf5d47476658466a0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Brassinosteroid (BR) hormones are indispensable for root growth and control both cell division and cell elongation through the establishment of an increasing signalling gradient along the longitudinal root axis. Because of their limited mobility, the importance of BR distribution in achieving a signalling maximum is largely overlooked. Expression pattern analysis of all known BR biosynthetic enzymes revealed that not all cells in the Arabidopsis thaliana root possess full biosynthetic machinery, and that completion of biosynthesis relies on cell-to-cell movement of hormone precursors. We demonstrate that BR biosynthesis is largely restricted to the root elongation zone, where it overlaps with BR signalling maxima. Moreover, optimal root growth requires hormone concentrations to be low in the meristem and high in the root elongation zone, attributable to increased biosynthesis. Our finding that spatiotemporal regulation of hormone synthesis results in local hormone accumulation provides a paradigm for hormone-driven organ growth in the absence of long-distance hormone transport in plants.}
+      \field{issn}{2055-0278}
+      \field{journaltitle}{Nature Plants}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Local Brassinosteroid Biosynthesis Enables Optimal Root Growth}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{7}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{619\bibrangedash 632}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1038/s41477-021-00917-x
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/N3QNKJR7/Vukašinović et al. - 2021 - Local brassinosteroid biosynthesis enables optimal.pdf
+      \endverb
+      \keyw{BR}
+    \endentry
+    \entry{halat2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ee5f287bd25d64bebc0bde9fc1eba26c}{%
+           family={Halat},
+           familyi={H\bibinitperiod},
+           given={Laryssa\bibnamedelima Sophia},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05a37d75a74eb44f8b8af15068bcd26b}{%
+           family={Bali},
+           familyi={B\bibinitperiod},
+           given={Breanne},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=675b76a2098e9f74f3c89c495eb59b65}{%
+           family={Wasteneys},
+           familyi={W\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{d1c3be2c75efdc125fd66f3fa08096c3}
+      \strng{fullhash}{9b48f659ed5c394597119186e7b223bb}
+      \strng{bibnamehash}{9b48f659ed5c394597119186e7b223bb}
+      \strng{authorbibnamehash}{9b48f659ed5c394597119186e7b223bb}
+      \strng{authornamehash}{d1c3be2c75efdc125fd66f3fa08096c3}
+      \strng{authorfullhash}{9b48f659ed5c394597119186e7b223bb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{$<$}p{$>$}The transition from cell division to differentiation in primary roots is dependent on precise gradients of phytohormones, including auxin, cytokinins and brassinosteroids. The reorganization of microtubules also plays a key role in determining whether a cell will enter another round of mitosis or begin to rapidly elongate as the first step in terminal differentiation. In the last few years, progress has been made to establish connections between signaling pathways at distinct locations within the root. This review focuses on the different factors that influence whether a root cell remains in the division zone or transitions to elongation and differentiation using {$<$}italic{$>$}Arabidopsis thaliana{$<$}/italic{$>$} as a model system. We highlight the role of the microtubule-associated protein CLASP as an intermediary between sustaining hormone signaling and controlling microtubule organization. We discuss new, innovative tools and methods, such as hormone sensors and computer modeling, that are allowing researchers to more accurately visualize the belowground growth dynamics of plants.{$<$}/p{$>$}}
+      \field{issn}{1664-462X}
+      \field{journaltitle}{Frontiers in Plant Science}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Cytoplasmic {{Linker Protein-Associating Protein}} at the {{Nexus}} of {{Hormone Signaling}}, {{Microtubule Organization}}, and the {{Transition From Division}} to {{Differentiation}} in {{Primary Roots}}}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpls.2022.883363
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/PKZS8FEV/Halat et al. - 2022 - Cytoplasmic Linker Protein-Associating Protein at .pdf
+      \endverb
+      \keyw{Auxin,BR,CLASP,Cytokinin,Review}
+    \endentry
+    \entry{goh2023}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=5e3ba17e0733d68c940726a6290edcfd}{%
+           family={Goh},
+           familyi={G\bibinitperiod},
+           given={Tatsuaki},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=843c7f8110f7bed0880c1cc4bd93ac35}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33272a400a189ff7047222cb4a996318}{%
+           family={Yonekura},
+           familyi={Y\bibinitperiod},
+           given={Takaaki},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ef0317d838a6991f9fde9909badb097}{%
+           family={Obushi},
+           familyi={O\bibinitperiod},
+           given={Noriyasu},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a6e1a3a0b02434b0e63a0cfdab452eb}{%
+           family={Den},
+           familyi={D\bibinitperiod},
+           given={Zeping},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cef9537aaa6baa4cd20e745a4f6fb62}{%
+           family={Imizu},
+           familyi={I\bibinitperiod},
+           given={Katsutoshi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f5cc85ddbe616e535a606430525474d}{%
+           family={Tomizawa},
+           familyi={T\bibinitperiod},
+           given={Yoko},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db8ac90ebd6710dab81e9034445210af}{%
+           family={Kondo},
+           familyi={K\bibinitperiod},
+           given={Yohei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab3ea6bae14469cd49f3f0af4fe31bbc}{%
+           family={Miyashima},
+           familyi={M\bibinitperiod},
+           given={Shunsuke},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a943aa7f10d3d046b92e954ab0a39fd0}{%
+           family={Iwamoto},
+           familyi={I\bibinitperiod},
+           given={Yutaro},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e186aca228c222fae783ec37b53a154d}{%
+           family={Inami},
+           familyi={I\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f28f27bd370861a0b78d9e30f3a5abcb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yen-Wei},
+           giveni={Y\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f096d3831711d6c0214464160762ea83}{%
+           family={Nakajima},
+           familyi={N\bibinitperiod},
+           given={Keiji},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{85d3affdd50164b0e4da2b6a0abd8a9a}
+      \strng{fullhash}{a62687daa042249c8db36ca7a11a783d}
+      \strng{bibnamehash}{a62687daa042249c8db36ca7a11a783d}
+      \strng{authorbibnamehash}{a62687daa042249c8db36ca7a11a783d}
+      \strng{authornamehash}{85d3affdd50164b0e4da2b6a0abd8a9a}
+      \strng{authorfullhash}{a62687daa042249c8db36ca7a11a783d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One of the fundamental questions in plant developmental biology is how cell proliferation and cell expansion coordinately determine organ growth and morphology. An amenable system to address this question is the Arabidopsis root tip, where cell proliferation and elongation occur in spatially separated domains, and cell morphologies can easily be observed using a confocal microscope. While past studies revealed numerous elements of root growth regulation including gene regulatory networks, hormone transport and signaling, cell mechanics and environmental perception, how cells divide and elongate under possible constraints from cell lineages and neighboring cell files has not been analyzed quantitatively. This is mainly due to the technical difficulties in capturing cell division and elongation dynamics at the tip of growing roots, as well as an extremely labor-intensive task of tracing the lineages of frequently dividing cells. Here, we developed a motion-tracking confocal microscope and an Artificial Intelligence (AI)-assisted image-processing pipeline that enables semi-automated quantification of cell division and elongation dynamics at the tip of vertically growing Arabidopsis roots. We also implemented a data sonification tool that facilitates human recognition of cell division synchrony. Using these tools, we revealed previously unnoted lineage-constrained dynamics of cell division and elongation, and their contribution to the root zonation boundaries.}
+      \field{issn}{1471-9053}
+      \field{journaltitle}{Plant and Cell Physiology}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{In-{{Depth Quantification}} of~{{Cell Division}} and~{{Elongation Dynamics}} at the {{Tip}} of~{{Growing Arabidopsis Roots Using 4D Microscopy}}, {{AI-Assisted Image Processing}} and~{{Data Sonification}}}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{64}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{1262\bibrangedash 1278}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1093/pcp/pcad105
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/E8UX3D9Q/Goh et al. - 2023 - In-Depth Quantification of Cell Division and Elong.pdf;/Users/rileywheadon/Zotero/storage/LBP8MJFU/7323573.html
+      \endverb
+      \keyw{Structure}
+    \endentry
+    \entry{smithers2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0d17f4f730c7c3f9773981733447da6c}{%
+           family={Smithers},
+           familyi={S\bibinitperiod},
+           given={Euan\bibnamedelima T.},
+           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=710dc31fd2eaed57e31dbc844fc18c6a}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Jingxi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ac18a9cc137526b97ba8799e9bea8e9}{%
+           family={Dyson},
+           familyi={D\bibinitperiod},
+           given={Rosemary\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bef7de3961cc5100f358cbeea17e20ff}
+      \strng{fullhash}{395c34635146bca4c07298fe089eb217}
+      \strng{bibnamehash}{395c34635146bca4c07298fe089eb217}
+      \strng{authorbibnamehash}{395c34635146bca4c07298fe089eb217}
+      \strng{authornamehash}{bef7de3961cc5100f358cbeea17e20ff}
+      \strng{authorfullhash}{395c34635146bca4c07298fe089eb217}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plant cell growth is regulated through manipulation of the cell wall network, which consists of oriented cellulose microfibrils embedded within a ground matrix incorporating pectin and hemicellulose components. There remain many unknowns as to how this manipulation occurs. Experiments have shown that cellulose reorients in cell walls as the cell expands, while recent data suggest that growth is controlled by distinct collections of hemicellulose called biomechanical hotspots, which join the cellulose molecule together. The enzymes expansin and Cel12A have both been shown to induce growth of the cell wall; however, while Cel12A's wall-loosening action leads to a reduction in the cell wall strength, expansin's has been shown to increase the strength of the cell wall. In contrast, members of the XTH enzyme family hydrolyse hemicellulose but do not appear to cause wall creep. This experimentally observed behaviour still awaits a full explanation. We derive and analyse a mathematical model for the effective mechanical properties of the evolving cell wall network, incorporating cellulose microfibrils, which reorient with cell growth and are linked via biomechanical hotspots made up of regions of crosslinking hemicellulose. Assuming a visco-elastic response for the cell wall and using a continuum approach, we calculate the total stress resultant of the cell wall for a given overall growth rate. By changing appropriate parameters affecting breakage rate and viscous properties, we provide evidence for the biomechanical hotspot hypothesis and develop mechanistic understanding of the growth-inducing enzymes.}
+      \field{issn}{1292-895X}
+      \field{journaltitle}{The European Physical Journal E}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A Continuum Mechanics Model of the Plant Cell Wall Reveals Interplay between Enzyme Action and Cell Wall Structure}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{47}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1140/epje/s10189-023-00396-2
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/723N3WFN/Smithers et al. - 2024 - A continuum mechanics model of the plant cell wall.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

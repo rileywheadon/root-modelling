@@ -1,0 +1,74 @@
+\documentclass[11pt, oneside]{article}
+
+% Import Packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{cancel}
+\usepackage{hyperref}
+
+\usepackage[
+legalpaper, 
+top=1in, 
+bottom=1in, 
+left=1.5in, 
+right=1.5in
+]{geometry}
+
+\usepackage{graphicx}
+\graphicspath{ {./img/} }
+
+% Define SIUnit Commands
+\usepackage{siunitx}
+\newcommand{\h}{\unit{\hour}}
+\newcommand{\ph}{\unit{\per\hour}}
+\newcommand{\um}{\unit{\micro\metre}}
+\newcommand{\pums}{\unit{\per\micro\metre\squared}}
+\newcommand{\nm}{\unit{\nano\mole\per\litre}}
+
+% Add Bibliography
+\usepackage[
+backend=biber,
+style=apa,
+sorting=ynt
+]{biblatex}
+
+\addbibresource{sources.bib}
+\emergencystretch=1em
+
+\begin{document}
+
+\title{A Macroscopic Model of CLASP in \emph{A. Thaliana}}
+\author{Riley Wheadon, Geoffrey Wasteneys, Eric Cytrynbaum \\ University of British Columbia}
+\date{September 8th, 2024}
+\maketitle
+
+\section{Abstract}
+
+\input{content/abstract.tex}
+
+\newpage
+
+\section{Background}
+
+\input{content/background.tex}
+
+\newpage
+
+\section{Model}
+
+\input{content/bl-model.tex}
+\input{content/bri1-model.tex}
+\input{content/bes1-model.tex}
+\input{content/growth-model.tex}
+\input{content/mutant-model.tex}
+
+\newpage
+
+\section{Discussion}
+
+\input{content/discussion.tex}
+
+\newpage
+\printbibliography
+
+\end{document}
