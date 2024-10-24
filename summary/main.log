@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.5)  25 SEP 2024 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.5)  23 OCT 2024 23:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -95,7 +95,9 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/local/texlive/2023/texmf-dist/tex/latex/cancel/cancel.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/local/texlive/2023/texmf-dist/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
@@ -163,14 +165,14 @@ Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count275
- (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen151
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
@@ -347,7 +349,7 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \bibparsep=\skip62
 \bibhang=\skip63
 \blx@bcfin=\read2
-\blx@bcfout=\write3
+\blx@bcfout=\write4
 \blx@langwohyphens=\language87
 \c@mincomprange=\count343
 \c@maxcomprange=\count344
@@ -485,7 +487,8 @@ Package biblatex Info: ... file 'apa.bbx' found.
 File: apa.bbx 2022/06/22 v9.16 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count433
 \c@bbx:relatedtotal=\count434
@@ -497,8 +500,7 @@ Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already 
 )
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex-apa/apa.cbx
 File: apa.cbx 2022/06/22 v9.16 APA biblatex citation style
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
 Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
@@ -540,35 +542,62 @@ Package biblatex Info: ... and expl3
 Package: xparse 2023-02-02 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 38.
-\@quotelevel=\count436
-\@quotereset=\count437
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen171
+\captionmargin=\dimen172
+\caption@leftmargin=\dimen173
+\caption@rightmargin=\dimen174
+\caption@width=\dimen175
+\caption@indent=\dimen176
+\caption@parindent=\dimen177
+\caption@hangindent=\dimen178
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count436
+\c@continuedfloat=\count437
+Package caption Info: hyperref package is loaded.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/newfloat/newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+Package newfloat Info: Unsupported document class, or \@chapter 
+(newfloat)             was already redefined by another package.
+Package newfloat Info: \@chapter = macro:->\def \Hy@next {\Hy@MakeCurrentHrefAuto {\Hy@chapapp *}\Hy@raisedlink {\hyper@anchorstart {\@currentHref }\hyper@anchorend }}\ifnum \c@secnumdepth >\m@ne \ltx@IfUndefined {if@mainmatter}\iftrue {\csname if@mainmatter\endcsname }\let \Hy@next \relax \fi \fi \Hy@next \Hy@org@chapter .
+Package newfloat Info: \Hy@org@chapter = macro:[#1]#2->\NR@gettitle {#1}\NR@chapter [{#1}]{#2}.
+)
+Package newfloat Info: New float `supplementaryfigure' with options `' on input line 42.
+\c@supplementaryfigure=\count438
+\newfloat@ftype=\count439
+Package newfloat Info: float type `supplementaryfigure'=8 on input line 42.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 47.
+\@quotelevel=\count440
+\@quotereset=\count441
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-Package hyperref Info: Link coloring OFF on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+Package hyperref Info: Link coloring OFF on input line 47.
  (./main.out) (./main.out)
-\@outlinefile=\write4
-\openout4 = `main.out'.
+\@outlinefile=\write5
+\openout5 = `main.out'.
 
 
 *geometry* driver: auto-detecting
@@ -607,16 +636,16 @@ Package hyperref Info: Link coloring OFF on input line 38.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count438
-\scratchdimen=\dimen171
+\scratchcounter=\count442
+\scratchdimen=\dimen179
 \scratchbox=\box64
-\nofMPsegments=\count439
-\nofMParguments=\count440
+\nofMPsegments=\count443
+\nofMParguments=\count444
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count441
-\MPscratchDim=\dimen172
-\MPnumerator=\count442
-\makeMPintoPDFobject=\count443
+\MPscratchCnt=\count445
+\MPscratchDim=\dimen180
+\MPnumerator=\count446
+\makeMPintoPDFobject=\count447
 \everyMPtoPDFconversion=\toks25
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -632,7 +661,7 @@ Package color Info: Driver file: pdftex.def on input line 149.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 38.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 47.
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
@@ -658,144 +687,152 @@ File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `main.bcf'.
+\openout4 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 38.
-Package biblatex Info: Reference segment=0 on input line 38.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package newfloat Info: Trying Plan B...
+LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./content/abstract.tex) [1
+) (./content/abstract.tex
+<./img//paper-overview.png, id=80, 598.235pt x 502.87875pt>
+File: ./img//paper-overview.png Graphic file (type png)
+<use ./img//paper-overview.png>
+Package pdftex.def Info: ./img//paper-overview.png  used on input line 7.
+(pdftex.def)             Requested size: 284.52756pt x 239.17682pt.
+) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./content/background.tex
-<img/clasp-length-effect.png, id=80, 545.03625pt x 712.6625pt>
-File: img/clasp-length-effect.png Graphic file (type png)
-<use img/clasp-length-effect.png>
-Package pdftex.def Info: img/clasp-length-effect.png  used on input line 26.
-(pdftex.def)             Requested size: 227.62204pt x 297.61981pt.
- [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-<img/mutant-cell-sizes.png, id=112, 1215.54124pt x 648.4225pt>
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img//paper-overview.png>] (./content/background.tex [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<img/mutant-cell-sizes.png, id=136, 1215.54124pt x 648.4225pt>
 File: img/mutant-cell-sizes.png Graphic file (type png)
 <use img/mutant-cell-sizes.png>
-Package pdftex.def Info: img/mutant-cell-sizes.png  used on input line 53.
+Package pdftex.def Info: img/mutant-cell-sizes.png  used on input line 39.
 (pdftex.def)             Requested size: 369.88582pt x 197.30849pt.
-) [3 <./img/clasp-length-effect.png>] (./content/bl-model.tex
-<img/brassinosteroid-precursors.png, id=125, 592.2125pt x 349.305pt>
-File: img/brassinosteroid-precursors.png Graphic file (type png)
-<use img/brassinosteroid-precursors.png>
-Package pdftex.def Info: img/brassinosteroid-precursors.png  used on input line 7.
-(pdftex.def)             Requested size: 369.88582pt x 218.1765pt.
-<img/cpd-rot3.png, id=130, 301.125pt x 275.52937pt>
-File: img/cpd-rot3.png Graphic file (type png)
-<use img/cpd-rot3.png>
-Package pdftex.def Info: img/cpd-rot3.png  used on input line 18.
-(pdftex.def)             Requested size: 369.88582pt x 338.47868pt.
- [4 <./img/mutant-cell-sizes.png> <./img/brassinosteroid-precursors.png>]
-<img/bl-bias.png, id=151, 635.976pt x 401.0985pt>
-File: img/bl-bias.png Graphic file (type png)
-<use img/bl-bias.png>
-Package pdftex.def Info: img/bl-bias.png  used on input line 39.
-(pdftex.def)             Requested size: 369.88582pt x 233.2799pt.
-<img/bl-average.png, id=154, 635.976pt x 396.7623pt>
-File: img/bl-average.png Graphic file (type png)
-<use img/bl-average.png>
-Package pdftex.def Info: img/bl-average.png  used on input line 50.
-(pdftex.def)             Requested size: 369.88582pt x 230.75797pt.
-) (./content/bri1-model.tex [5 <./img/cpd-rot3.png> <./img/bl-bias.png>]
-<img/bri1-function.png, id=174, 719.0865pt x 395.3169pt>
+) [3 <./img/mutant-cell-sizes.png>] (./content/cell-column-model.tex
+<./img//mutant-diagram.png, id=153, 1032.85875pt x 357.335pt>
+File: ./img//mutant-diagram.png Graphic file (type png)
+<use ./img//mutant-diagram.png>
+Package pdftex.def Info: ./img//mutant-diagram.png  used on input line 17.
+(pdftex.def)             Requested size: 369.88582pt x 127.96439pt.
+ [4 <./img//mutant-diagram.png>]
+<./img//column-position-length.png, id=171, 722.7pt x 722.7pt>
+File: ./img//column-position-length.png Graphic file (type png)
+<use ./img//column-position-length.png>
+Package pdftex.def Info: ./img//column-position-length.png  used on input line 80.
+(pdftex.def)             Requested size: 369.88582pt x 369.88438pt.
+) [5] (./content/bl-model.tex [6 <./img//column-position-length.png>]) (./content/bri1-model.tex
+<img/bri1-function.png, id=210, 721.2546pt x 396.7623pt>
 File: img/bri1-function.png Graphic file (type png)
 <use img/bri1-function.png>
 Package pdftex.def Info: img/bri1-function.png  used on input line 48.
-(pdftex.def)             Requested size: 369.88582pt x 203.34616pt.
- [6 <./img/bl-average.png>]) (./content/bes1-model.tex
-<./img//position-function.png, id=195, 639.5895pt x 395.3169pt>
-File: ./img//position-function.png Graphic file (type png)
-<use ./img//position-function.png>
-Package pdftex.def Info: ./img//position-function.png  used on input line 11.
-(pdftex.def)             Requested size: 369.88582pt x 228.62645pt.
-<./img//bes1-data.png, id=202, 698.8509pt x 424.9476pt>
-File: ./img//bes1-data.png Graphic file (type png)
-<use ./img//bes1-data.png>
-Package pdftex.def Info: ./img//bes1-data.png  used on input line 22.
-(pdftex.def)             Requested size: 369.88582pt x 224.91638pt.
- [7 <./img/bri1-function.png>]
-<./img//bes1-model.png, id=221, 1004.75375pt x 475.7775pt>
+(pdftex.def)             Requested size: 369.88582pt x 203.47215pt.
+) (./content/bes1-model.tex [7]
+<./img//bes1-model.png, id=241, 1004.75375pt x 475.7775pt>
 File: ./img//bes1-model.png Graphic file (type png)
 <use ./img//bes1-model.png>
-Package pdftex.def Info: ./img//bes1-model.png  used on input line 48.
+Package pdftex.def Info: ./img//bes1-model.png  used on input line 34.
 (pdftex.def)             Requested size: 369.88582pt x 175.14922pt.
- [8 <./img//position-function.png> <./img//bes1-data.png>]
-<./img//bes1-model-fit.png, id=236, 631.6398pt x 529.0164pt>
+ [8 <./img/bri1-function.png>]
+<./img//bes1-model-fit.png, id=260, 642.4803pt x 529.0164pt>
 File: ./img//bes1-model-fit.png Graphic file (type png)
 <use ./img//bes1-model-fit.png>
-Package pdftex.def Info: ./img//bes1-model-fit.png  used on input line 66.
-(pdftex.def)             Requested size: 369.88582pt x 309.79219pt.
- [9 <./img//bes1-model.png> <./img//bes1-model-fit.png>]
-<./img//bes1-model-heatmap.png, id=249, 722.7pt x 578.16pt>
+Package pdftex.def Info: ./img//bes1-model-fit.png  used on input line 60.
+(pdftex.def)             Requested size: 369.88582pt x 304.56145pt.
+<./img//bes1-model-heatmap.png, id=265, 722.7pt x 578.16pt>
 File: ./img//bes1-model-heatmap.png Graphic file (type png)
 <use ./img//bes1-model-heatmap.png>
-Package pdftex.def Info: ./img//bes1-model-heatmap.png  used on input line 77.
+Package pdftex.def Info: ./img//bes1-model-heatmap.png  used on input line 90.
 (pdftex.def)             Requested size: 369.88582pt x 295.90752pt.
- [10 <./img//bes1-model-heatmap.png>]) (./content/growth-model.tex
-<img/data-trichoblast.png, id=267, 722.7pt x 578.16pt>
+ [9 <./img//bes1-model.png>]) [10 <./img//bes1-model-fit.png>] [11 <./img//bes1-model-heatmap.png>] [12] (./content/discussion.tex) (./content/supplementary-mutant-differences.tex
+<img/data-trichoblast.png, id=307, 722.7pt x 578.16pt>
 File: img/data-trichoblast.png Graphic file (type png)
 <use img/data-trichoblast.png>
-Package pdftex.def Info: img/data-trichoblast.png  used on input line 10.
+Package pdftex.def Info: img/data-trichoblast.png  used on input line 7.
 (pdftex.def)             Requested size: 369.88582pt x 295.90752pt.
-<img/data-atrichoblast.png, id=268, 722.7pt x 578.16pt>
-File: img/data-atrichoblast.png Graphic file (type png)
-<use img/data-atrichoblast.png>
-Package pdftex.def Info: img/data-atrichoblast.png  used on input line 17.
+Package hyperref Info: bookmark level for unknown supplementaryfigure defaults to 0 on input line 8.
+<img/trichoblast-distribution.png, id=309, 722.7pt x 578.16pt>
+File: img/trichoblast-distribution.png Graphic file (type png)
+<use img/trichoblast-distribution.png>
+Package pdftex.def Info: img/trichoblast-distribution.png  used on input line 18.
 (pdftex.def)             Requested size: 369.88582pt x 295.90752pt.
- [11 <./img/data-trichoblast.png>]
-<img/growth-model-fit.png, id=291, 628.749pt x 530.4618pt>
-File: img/growth-model-fit.png Graphic file (type png)
-<use img/growth-model-fit.png>
-Package pdftex.def Info: img/growth-model-fit.png  used on input line 39.
-(pdftex.def)             Requested size: 369.88582pt x 312.07129pt.
-<img/growth-model-uncertainty.png, id=296, 722.7pt x 578.16pt>
-File: img/growth-model-uncertainty.png Graphic file (type png)
-<use img/growth-model-uncertainty.png>
-Package pdftex.def Info: img/growth-model-uncertainty.png  used on input line 50.
-(pdftex.def)             Requested size: 369.88582pt x 295.90752pt.
-<img/growth-model-heatmap.png, id=299, 722.7pt x 578.16pt>
-File: img/growth-model-heatmap.png Graphic file (type png)
-<use img/growth-model-heatmap.png>
-Package pdftex.def Info: img/growth-model-heatmap.png  used on input line 61.
-(pdftex.def)             Requested size: 369.88582pt x 295.90752pt.
-) (./content/mutant-model.tex [12 <./img/data-atrichoblast.png>] [13 <./img/growth-model-fit.png> <./img/growth-model-uncertainty.png>]
-<img/clasp-model.png, id=329, 910.40125pt x 659.46375pt>
-File: img/clasp-model.png Graphic file (type png)
-<use img/clasp-model.png>
-Package pdftex.def Info: img/clasp-model.png  used on input line 28.
-(pdftex.def)             Requested size: 369.88582pt x 267.93668pt.
-) [14 <./img/growth-model-heatmap.png>] (./content/discussion.tex) [15 <./img/clasp-model.png>] [16] [17] (./main.aux)
+) (./content/supplementary-cell-column.tex
+<./img//column-wild-type.png, id=312, 722.7pt x 722.7pt>
+File: ./img//column-wild-type.png Graphic file (type png)
+<use ./img//column-wild-type.png>
+Package pdftex.def Info: ./img//column-wild-type.png  used on input line 5.
+(pdftex.def)             Requested size: 369.88582pt x 369.88438pt.
+ [13] [14 <./img/data-trichoblast.png> <./img/trichoblast-distribution.png>]
+<./img//column-brin-clasp.png, id=330, 722.7pt x 722.7pt>
+File: ./img//column-brin-clasp.png Graphic file (type png)
+<use ./img//column-brin-clasp.png>
+Package pdftex.def Info: ./img//column-brin-clasp.png  used on input line 12.
+(pdftex.def)             Requested size: 369.88582pt x 369.88438pt.
+<./img//column-clasp-1.png, id=331, 722.7pt x 722.7pt>
+File: ./img//column-clasp-1.png Graphic file (type png)
+<use ./img//column-clasp-1.png>
+Package pdftex.def Info: ./img//column-clasp-1.png  used on input line 19.
+(pdftex.def)             Requested size: 369.88582pt x 369.88438pt.
+<./img//column-division-zone.png, id=332, 722.7pt x 1084.05pt>
+File: ./img//column-division-zone.png Graphic file (type png)
+<use ./img//column-division-zone.png>
+Package pdftex.def Info: ./img//column-division-zone.png  used on input line 26.
+(pdftex.def)             Requested size: 369.88582pt x 554.8266pt.
+<./img//column-division-histogram.png, id=333, 722.7pt x 867.24pt>
+File: ./img//column-division-histogram.png Graphic file (type png)
+<use ./img//column-division-histogram.png>
+Package pdftex.def Info: ./img//column-division-histogram.png  used on input line 33.
+(pdftex.def)             Requested size: 369.88582pt x 443.86128pt.
+) (./content/supplementary-bes1-model.tex
+<img/bl-bias.png, id=334, 635.976pt x 396.7623pt>
+File: img/bl-bias.png Graphic file (type png)
+<use img/bl-bias.png>
+Package pdftex.def Info: img/bl-bias.png  used on input line 5.
+(pdftex.def)             Requested size: 369.88582pt x 230.75797pt.
+<img/bl-average.png, id=335, 635.976pt x 396.7623pt>
+File: img/bl-average.png Graphic file (type png)
+<use img/bl-average.png>
+Package pdftex.def Info: img/bl-average.png  used on input line 12.
+(pdftex.def)             Requested size: 369.88582pt x 230.75797pt.
+<./img//position-function.png, id=336, 651.1527pt x 395.3169pt>
+File: ./img//position-function.png Graphic file (type png)
+<use ./img//position-function.png>
+Package pdftex.def Info: ./img//position-function.png  used on input line 19.
+(pdftex.def)             Requested size: 369.88582pt x 224.5669pt.
+<./img//bes1-data.png, id=339, 709.6914pt x 569.4876pt>
+File: ./img//bes1-data.png Graphic file (type png)
+<use ./img//bes1-data.png>
+Package pdftex.def Info: ./img//bes1-data.png  used on input line 26.
+(pdftex.def)             Requested size: 369.88582pt x 296.81305pt.
+) [15 <./img//column-wild-type.png>] [16 <./img//column-brin-clasp.png> <./img//column-clasp-1.png>] [17 <./img//column-division-zone.png>] [18 <./img//column-division-histogram.png> <./img/bl-bias.png>] [19 <./img/bl-average.png> <./img//position-function.png>] [20 <./img//bes1-data.png>] [21] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 392C75407C32B22EB5E27CBF1961F490;1741.
+(rerunfilecheck)             Checksum: EFDFBAC13F5E57D96A5E343E98866F6D;2899.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22334 strings out of 476025
- 443316 string characters out of 5790018
- 1872388 words of memory out of 5000000
- 42437 multiletter control sequences out of 15000+600000
- 522499 words of font info for 69 fonts, out of 8000000 for 9000
+ 23936 strings out of 476025
+ 475937 string characters out of 5790018
+ 1871388 words of memory out of 5000000
+ 44009 multiletter control sequences out of 15000+600000
+ 521570 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,80p,1731b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (17 pages, 2034182 bytes).
+ 75i,13n,80p,1727b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (21 pages, 2067536 bytes).
 PDF statistics:
- 484 PDF objects out of 1000 (max. 8388607)
- 385 compressed objects within 4 object streams
- 86 named destinations out of 1000 (max. 500000)
- 195 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 509 PDF objects out of 1000 (max. 8388607)
+ 407 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 248 words of extra memory for PDF output out of 10000 (max. 10000000)
 

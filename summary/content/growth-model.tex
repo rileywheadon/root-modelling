@@ -1,23 +1,25 @@
-\subsection{CLASP and Cell Growth Model}
+\subsection{Cell Growth Model}
 
-The data presented in Figure \ref{fig:mutant-sizes} along with similar data for atrichoblast cells was transformed into units of time and length using the following procedure. First, we make the assumption that cells are perfect cylinders, so that their surface area is related to their length by following formula:
-$$\frac{A - 2\pi r^{2}}{2\pi r} = L$$
-
-Then, we assume that the radius of each cell is identical, and prescribe a suitably chosen $r$ based on experimental data (\cite{goh2023}). To convert cell number to position we take the cumulative sum of the cell lengths over each cell column. Missing data was filled in using the average length for that cell number. Finally, we use the the function shown in Figure \ref{fig:position-function} to transform the position series into a time series and plot it against the cell lengths. The results of this data preprocessing is shown in Figures \ref{fig:data-trichoblast} and \ref{fig:data-atrichoblast} for trichoblast and atrichoblast cells respectively.
+The data presented in Figure \ref{fig:mutant-sizes} was transformed into units of time and length using the following procedure. First, we make the assumption that cells are perfect cylinders, so that their cross sectional area is equal to their length multiplied by their diameter. Then, we assume that the diameter of each cell is identical, and prescribe a suitably chosen $d$ based on experimental data (\cite{goh2023}). To convert cell number to position we take the cumulative sum of the cell lengths over each cell column. Missing data was filled in using the average length for that cell number. Finally, we use the the function shown in Figure \ref{fig:position-function} to transform the position series into a time series and plot it against the cell lengths. The results of this data preprocessing is shown in Figure \ref{fig:data-trichoblast}.
 
 \begin{figure}[!hbt]
     \centering
     \includegraphics[width=13cm]{img/data-trichoblast.png}
-    \caption{Plot of cell lengths from $N$ Wild Type, CLASP-1, and BRIN-CLASP roots. The line of best fit is an exponential function of the form $A + Be^{Cx}$. Wild Type cells are on average the shortest, followed closely by BRIN-CLASP. CLASP-1 cells are significantly longer, especially in the proximal regions of the root.}
+    \caption{Plot of cell lengths from trichoblast cells in Wild Type, CLASP-1, and BRIN-CLASP roots. The line of best fit is an exponential function of the form $A + Be^{Cx}$. Wild Type cells are on average the shortest, followed closely by BRIN-CLASP. CLASP-1 cells are significantly longer, especially in the proximal regions of the root.}
     \label{fig:data-trichoblast}
 \end{figure}
 
-\begin{figure}[!hbt]
+\medskip
+
+While the model of cell growth presented here will consider exclusively wild type cells, later models will explore the CLASP-1 and BRIN-CLASP mutants. For reasons discussed later, the data we have available was insufficient for making quantitative modelling of the mutants. However, we do have enough information to verify that the mutants are indeed exhibiting different behaviour from the wild type. To do this, we compute the error of each data point from the line of best fit for the wild type cells. The distribution of these errors is shown in Figure \ref{fig:trichoblast-distribution}.
+
+\begin{figure}
     \centering
-    \includegraphics[width=13cm]{img/data-atrichoblast.png}
-    \caption{Plot of cell lengths from $N$ Wild Type, CLASP-1, and BRIN-CLASP roots. The line of best fit is an exponential function of the form $A + Be^{Cx}$. Atrichoblast cells exhibit similar behaviour to trichoblast cells accross mutants, although atrichoblast cells are about $25\%$ longer.}
-    \label{fig:data-atrichoblast}
+    \label{fig:trichoblast-distribution}
+    \includegraphics[width=13cm]{img/trichoblast-distribution.png}
+    \caption{Distribution of errors from the wild type average presented in Figure \ref{fig:data-trichoblast}. The mean error of the BRIN-CLASP and CLASP-1 mutants are clearly positive, which suggests that the mutants have longer cells compared to the wild type. Both mutants had $p$-values less than $10^{-10}$ when compared to the wild type, which provides further evidence that the mutants are exhibiting different behaviour. }
 \end{figure}
+
 
 \medskip
 

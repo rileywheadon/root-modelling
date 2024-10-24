@@ -19,21 +19,21 @@
 
 \refsection{0}
   \datalist[entry]{ynt/apasortcite//global/global}
-    \entry{lockhart1965}{article}{}
+    \entry{akaike1974}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9b0f53b468c0608e4f2f418c5aa30ba7}{%
-           family={Lockhart},
-           familyi={L\bibinitperiod},
-           given={James\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+        {{un=0,uniquepart=base,hash=71ea86082a80cba140f9ff16828ad082}{%
+           family={Akaike},
+           familyi={A\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{fullhash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{bibnamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{authorbibnamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{authornamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{authorfullhash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{namehash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{fullhash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{bibnamehash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{authorbibnamehash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{authornamehash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{authorfullhash}{71ea86082a80cba140f9ff16828ad082}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -41,25 +41,25 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A model for plant cell elongation has been developed from rate equations for osmotic uptake of water and irreversible expansion of the cell wall. Assuming elastic equilibrium and a linear viscoelastic wall, cell elongation rate is derived as a function of osmotic pressure, ``extensibility'' of the wall, water permeability and cell size. The derived formulations predict growth curves comparable to those observed experimentally. Certain consequences of the derived formulations are discussed. It is shown that the turgor pressure of a growing cell will always be less than the water potential of the cell. This difference may be infinitesimal or finite, depending on the values of the physical parameters of the cell. It is also shown that at positive turgor pressures water must always move from a mature cell to a growing cell.}
-      \field{issn}{0022-5193}
-      \field{journaltitle}{Journal of Theoretical Biology}
-      \field{month}{3}
-      \field{number}{2}
-      \field{title}{An Analysis of Irreversible Plant Cell Elongation}
-      \field{urlday}{22}
-      \field{urlmonth}{9}
+      \field{abstract}{The history of the development of statistical hypothesis testing in time series analysis is reviewed briefly and it is pointed out that the hypothesis testing procedure is not adequately defined as the procedure for statistical model identification. The classical maximum likelihood estimation procedure is reviewed and a new estimate minimum information theoretical criterion (AIC) estimate (MAICE) which is designed for the purpose of statistical identification is introduced. When there are several competing models the MAICE is defined by the model and the maximum likelihood estimates of the parameters which give the minimum of AIC defined by AIC = (-2)log-(maximum likelihood) + 2(number of independently adjusted parameters within the model). MAICE provides a versatile procedure for statistical model identification which is free from the ambiguities inherent in the application of conventional hypothesis testing procedure. The practical utility of MAICE in time series analysis is demonstrated with some numerical examples.}
+      \field{issn}{1558-2523}
+      \field{journaltitle}{IEEE Transactions on Automatic Control}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{A New Look at the Statistical Model Identification}
+      \field{urlday}{5}
+      \field{urlmonth}{10}
       \field{urlyear}{2024}
-      \field{volume}{8}
-      \field{year}{1965}
+      \field{volume}{19}
+      \field{year}{1974}
       \field{urldateera}{ce}
-      \field{pages}{264\bibrangedash 275}
-      \range{pages}{12}
+      \field{pages}{716\bibrangedash 723}
+      \range{pages}{8}
       \verb{doi}
-      \verb 10.1016/0022-5193(65)90077-9
+      \verb 10.1109/TAC.1974.1100705
       \endverb
       \verb{file}
-      \verb /Users/rileywheadon/Zotero/storage/4JTR236J/0022519365900779.html
+      \verb /Users/rileywheadon/Zotero/storage/BAZ7GMVS/1100705.html
       \endverb
     \endentry
     \entry{wang2001}{article}{}
@@ -431,6 +431,79 @@
       \verb /Users/rileywheadon/Zotero/storage/ZIT63YPU/Grieneisen et al. - 2007 - Auxin transport is sufficient to generate a maximu.pdf
       \endverb
       \keyw{Auxin,Model,PIN}
+    \endentry
+    \entry{narsai2007}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f17e476af97bcd0bc08db5a5bbefa675}{%
+           family={Narsai},
+           familyi={N\bibinitperiod},
+           given={Reena},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0df796168d2942de32cc71a90c5f72d9}{%
+           family={Howell},
+           familyi={H\bibinitperiod},
+           given={Katharine\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f1a169a2c914646fc229e00a5649aab}{%
+           family={Millar},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi Harvey},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48d40d1bbf186fd573cf0ac6058f3a9b}{%
+           family={O'Toole},
+           familyi={O\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7103d942aa492e43004113cfe68096e}{%
+           family={Small},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f75e2c4dcba352dee28aca3900ff38aa}{%
+           family={Whelan},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32332f10c66194738807b3cd7def93d0}
+      \strng{fullhash}{dd22b627ce6a09e35233b901b6427b19}
+      \strng{bibnamehash}{dd22b627ce6a09e35233b901b6427b19}
+      \strng{authorbibnamehash}{dd22b627ce6a09e35233b901b6427b19}
+      \strng{authornamehash}{32332f10c66194738807b3cd7def93d0}
+      \strng{authorfullhash}{dd22b627ce6a09e35233b901b6427b19}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To gain a global view of mRNA decay in Arabidopsis thaliana, suspension cell cultures were treated with a transcriptional inhibitor, and microarrays were used to measure transcript abundance over time. The deduced mRNA half-lives varied widely, from minutes to {$>$}24 h. Three features of the transcript displayed a correlation with decay rates: (1) genes possessing at least one intron produce mRNA transcripts significantly more stable than those of intronless genes, and this was not related to overall length, sequence composition, or number of introns; (2) various sequence elements in the 3{$\prime$} untranslated region are enriched among short- and long-lived transcripts, and their multiple occurrence suggests combinatorial control of transcript decay; and (3) transcripts that are microRNA targets generally have short half-lives. The decay rate of transcripts correlated with subcellular localization and function of the encoded proteins. Analysis of transcript decay rates for genes encoding orthologous proteins between Arabidopsis, yeast, and humans indicated that yeast and humans had a higher percentage of transcripts with shorter half-lives and that the relative stability of transcripts from genes encoding proteins involved in cell cycle, transcription, translation, and energy metabolism is conserved. Comparison of decay rates with changes in transcript abundance under a variety of abiotic stresses reveal that a set of transcription factors are downregulated with similar kinetics to decay rates, suggesting that inhibition of their transcription is an important early response to abiotic stress.}
+      \field{issn}{1040-4651}
+      \field{journaltitle}{The Plant Cell}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Genome-{{Wide Analysis}} of {{mRNA Decay Rates}} and {{Their Determinants}} in {{Arabidopsis}} Thaliana}
+      \field{urlday}{7}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{volume}{19}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{3418\bibrangedash 3436}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1105/tpc.107.055046
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/SG25DE5T/Narsai et al. - 2007 - Genome-Wide Analysis of mRNA Decay Rates and Their.pdf
+      \endverb
     \endentry
     \entry{hamant2010}{article}{}
       \name{author}{2}{}{%
@@ -942,6 +1015,83 @@
       \verb /Users/rileywheadon/Zotero/storage/BAL4ZWNI/supplementary materials.pdf;/Users/rileywheadon/Zotero/storage/PBSXGLYP/Di Mambro et al. - 2017 - Auxin minimum triggers the developmental switch fr.pdf
       \endverb
       \keyw{Auxin,Cytokinin,Model}
+    \endentry
+    \entry{pavelescu2018}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d9c875fd682f4c84d2f239477c62b8a0}{%
+           family={Pavelescu},
+           familyi={P\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5e6044a8edc623a8296451de9f4d903}{%
+           family={Vilarrasa-Blasi},
+           familyi={V\bibinithyphendelim B\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4775f7c0c394e3500dfa55b7e7ad8c50}{%
+           family={Planas-Riverola},
+           familyi={P\bibinithyphendelim R\bibinitperiod},
+           given={Ainoa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81e61fcd26f7826b2db3a9bddf538615}{%
+           family={González-García},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={Mary-Paz},
+           giveni={M\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a47a1e739ad2214f8340eb47e2fa92c}{%
+           family={Caño-Delgado},
+           familyi={C\bibinithyphendelim D\bibinitperiod},
+           given={Ana\bibnamedelima I},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73e71139cbcf7dd423d5b50c8a821ab3}{%
+           family={Ibañes},
+           familyi={I\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd}%
+      }
+      \strng{namehash}{d3cfef5891b487f7b55b5bec5685dfb0}
+      \strng{fullhash}{4f89192c162a29bd24352c003fe568b4}
+      \strng{bibnamehash}{4f89192c162a29bd24352c003fe568b4}
+      \strng{authorbibnamehash}{4f89192c162a29bd24352c003fe568b4}
+      \strng{authornamehash}{d3cfef5891b487f7b55b5bec5685dfb0}
+      \strng{authorfullhash}{4f89192c162a29bd24352c003fe568b4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plant roots grow due to cell division in the meristem and subsequent cell elongation and differentiation, a tightly coordinated process that ensures growth and adaptation to the changing environment. How the newly formed cells decide to stop elongating becoming fully differentiated is not yet understood. To address this question, we established a novel approach that combines the quantitative phenotypic variability of wild-type Arabidopsis roots with computational data from mathematical models. Our analyses reveal that primary root growth is consistent with a Sizer mechanism, in which cells sense their length and stop elongating when reaching a threshold value. The local expression of brassinosteroid receptors only in the meristem is sufficient to set this value. Analysis of roots insensitive to BR signaling and of roots with gibberellin biosynthesis inhibited suggests distinct roles of these hormones on cell expansion termination. Overall, our study underscores the value of using computational modeling together with quantitative data to understand root growth.}
+      \field{issn}{1744-4292}
+      \field{journaltitle}{Molecular Systems Biology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A {{Sizer}} Model for Cell Differentiation in {{Arabidopsis}} Thaliana Root Growth}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{14}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{e7687}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.15252/msb.20177687
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/2TRQE8EJ/Pavelescu et al. - 2018 - A Sizer model for cell differentiation in Arabidop.pdf
+      \endverb
+      \keyw{Structure}
     \endentry
     \entry{ruan2018}{article}{}
       \name{author}{7}{}{%
@@ -1495,80 +1645,24 @@
       \verb /Users/rileywheadon/Zotero/storage/E8UX3D9Q/Goh et al. - 2023 - In-Depth Quantification of Cell Division and Elong.pdf;/Users/rileywheadon/Zotero/storage/LBP8MJFU/7323573.html
       \endverb
       \keyw{Structure}
-    \endentry
-    \entry{smithers2024}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=0d17f4f730c7c3f9773981733447da6c}{%
-           family={Smithers},
-           familyi={S\bibinitperiod},
-           given={Euan\bibnamedelima T.},
-           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=710dc31fd2eaed57e31dbc844fc18c6a}{%
-           family={Luo},
-           familyi={L\bibinitperiod},
-           given={Jingxi},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9ac18a9cc137526b97ba8799e9bea8e9}{%
-           family={Dyson},
-           familyi={D\bibinitperiod},
-           given={Rosemary\bibnamedelima J.},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{bef7de3961cc5100f358cbeea17e20ff}
-      \strng{fullhash}{395c34635146bca4c07298fe089eb217}
-      \strng{bibnamehash}{395c34635146bca4c07298fe089eb217}
-      \strng{authorbibnamehash}{395c34635146bca4c07298fe089eb217}
-      \strng{authornamehash}{bef7de3961cc5100f358cbeea17e20ff}
-      \strng{authorfullhash}{395c34635146bca4c07298fe089eb217}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Plant cell growth is regulated through manipulation of the cell wall network, which consists of oriented cellulose microfibrils embedded within a ground matrix incorporating pectin and hemicellulose components. There remain many unknowns as to how this manipulation occurs. Experiments have shown that cellulose reorients in cell walls as the cell expands, while recent data suggest that growth is controlled by distinct collections of hemicellulose called biomechanical hotspots, which join the cellulose molecule together. The enzymes expansin and Cel12A have both been shown to induce growth of the cell wall; however, while Cel12A's wall-loosening action leads to a reduction in the cell wall strength, expansin's has been shown to increase the strength of the cell wall. In contrast, members of the XTH enzyme family hydrolyse hemicellulose but do not appear to cause wall creep. This experimentally observed behaviour still awaits a full explanation. We derive and analyse a mathematical model for the effective mechanical properties of the evolving cell wall network, incorporating cellulose microfibrils, which reorient with cell growth and are linked via biomechanical hotspots made up of regions of crosslinking hemicellulose. Assuming a visco-elastic response for the cell wall and using a continuum approach, we calculate the total stress resultant of the cell wall for a given overall growth rate. By changing appropriate parameters affecting breakage rate and viscous properties, we provide evidence for the biomechanical hotspot hypothesis and develop mechanistic understanding of the growth-inducing enzymes.}
-      \field{issn}{1292-895X}
-      \field{journaltitle}{The European Physical Journal E}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{number}{1}
-      \field{title}{A Continuum Mechanics Model of the Plant Cell Wall Reveals Interplay between Enzyme Action and Cell Wall Structure}
-      \field{urlday}{14}
-      \field{urlmonth}{9}
-      \field{urlyear}{2024}
-      \field{volume}{47}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \field{pages}{1}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1140/epje/s10189-023-00396-2
-      \endverb
-      \verb{file}
-      \verb /Users/rileywheadon/Zotero/storage/723N3WFN/Smithers et al. - 2024 - A continuum mechanics model of the plant cell wall.pdf
-      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{ynt/global//global/global}
-    \entry{lockhart1965}{article}{}
+    \entry{akaike1974}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9b0f53b468c0608e4f2f418c5aa30ba7}{%
-           family={Lockhart},
-           familyi={L\bibinitperiod},
-           given={James\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+        {{un=0,uniquepart=base,hash=71ea86082a80cba140f9ff16828ad082}{%
+           family={Akaike},
+           familyi={A\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{fullhash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{bibnamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{authorbibnamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{authornamehash}{9b0f53b468c0608e4f2f418c5aa30ba7}
-      \strng{authorfullhash}{9b0f53b468c0608e4f2f418c5aa30ba7}
+      \strng{namehash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{fullhash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{bibnamehash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{authorbibnamehash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{authornamehash}{71ea86082a80cba140f9ff16828ad082}
+      \strng{authorfullhash}{71ea86082a80cba140f9ff16828ad082}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -1576,25 +1670,25 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A model for plant cell elongation has been developed from rate equations for osmotic uptake of water and irreversible expansion of the cell wall. Assuming elastic equilibrium and a linear viscoelastic wall, cell elongation rate is derived as a function of osmotic pressure, ``extensibility'' of the wall, water permeability and cell size. The derived formulations predict growth curves comparable to those observed experimentally. Certain consequences of the derived formulations are discussed. It is shown that the turgor pressure of a growing cell will always be less than the water potential of the cell. This difference may be infinitesimal or finite, depending on the values of the physical parameters of the cell. It is also shown that at positive turgor pressures water must always move from a mature cell to a growing cell.}
-      \field{issn}{0022-5193}
-      \field{journaltitle}{Journal of Theoretical Biology}
-      \field{month}{3}
-      \field{number}{2}
-      \field{title}{An Analysis of Irreversible Plant Cell Elongation}
-      \field{urlday}{22}
-      \field{urlmonth}{9}
+      \field{abstract}{The history of the development of statistical hypothesis testing in time series analysis is reviewed briefly and it is pointed out that the hypothesis testing procedure is not adequately defined as the procedure for statistical model identification. The classical maximum likelihood estimation procedure is reviewed and a new estimate minimum information theoretical criterion (AIC) estimate (MAICE) which is designed for the purpose of statistical identification is introduced. When there are several competing models the MAICE is defined by the model and the maximum likelihood estimates of the parameters which give the minimum of AIC defined by AIC = (-2)log-(maximum likelihood) + 2(number of independently adjusted parameters within the model). MAICE provides a versatile procedure for statistical model identification which is free from the ambiguities inherent in the application of conventional hypothesis testing procedure. The practical utility of MAICE in time series analysis is demonstrated with some numerical examples.}
+      \field{issn}{1558-2523}
+      \field{journaltitle}{IEEE Transactions on Automatic Control}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{A New Look at the Statistical Model Identification}
+      \field{urlday}{5}
+      \field{urlmonth}{10}
       \field{urlyear}{2024}
-      \field{volume}{8}
-      \field{year}{1965}
+      \field{volume}{19}
+      \field{year}{1974}
       \field{urldateera}{ce}
-      \field{pages}{264\bibrangedash 275}
-      \range{pages}{12}
+      \field{pages}{716\bibrangedash 723}
+      \range{pages}{8}
       \verb{doi}
-      \verb 10.1016/0022-5193(65)90077-9
+      \verb 10.1109/TAC.1974.1100705
       \endverb
       \verb{file}
-      \verb /Users/rileywheadon/Zotero/storage/4JTR236J/0022519365900779.html
+      \verb /Users/rileywheadon/Zotero/storage/BAZ7GMVS/1100705.html
       \endverb
     \endentry
     \entry{wang2001}{article}{}
@@ -1966,6 +2060,79 @@
       \verb /Users/rileywheadon/Zotero/storage/ZIT63YPU/Grieneisen et al. - 2007 - Auxin transport is sufficient to generate a maximu.pdf
       \endverb
       \keyw{Auxin,Model,PIN}
+    \endentry
+    \entry{narsai2007}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f17e476af97bcd0bc08db5a5bbefa675}{%
+           family={Narsai},
+           familyi={N\bibinitperiod},
+           given={Reena},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0df796168d2942de32cc71a90c5f72d9}{%
+           family={Howell},
+           familyi={H\bibinitperiod},
+           given={Katharine\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f1a169a2c914646fc229e00a5649aab}{%
+           family={Millar},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi Harvey},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48d40d1bbf186fd573cf0ac6058f3a9b}{%
+           family={O'Toole},
+           familyi={O\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7103d942aa492e43004113cfe68096e}{%
+           family={Small},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f75e2c4dcba352dee28aca3900ff38aa}{%
+           family={Whelan},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32332f10c66194738807b3cd7def93d0}
+      \strng{fullhash}{dd22b627ce6a09e35233b901b6427b19}
+      \strng{bibnamehash}{dd22b627ce6a09e35233b901b6427b19}
+      \strng{authorbibnamehash}{dd22b627ce6a09e35233b901b6427b19}
+      \strng{authornamehash}{32332f10c66194738807b3cd7def93d0}
+      \strng{authorfullhash}{dd22b627ce6a09e35233b901b6427b19}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To gain a global view of mRNA decay in Arabidopsis thaliana, suspension cell cultures were treated with a transcriptional inhibitor, and microarrays were used to measure transcript abundance over time. The deduced mRNA half-lives varied widely, from minutes to {$>$}24 h. Three features of the transcript displayed a correlation with decay rates: (1) genes possessing at least one intron produce mRNA transcripts significantly more stable than those of intronless genes, and this was not related to overall length, sequence composition, or number of introns; (2) various sequence elements in the 3{$\prime$} untranslated region are enriched among short- and long-lived transcripts, and their multiple occurrence suggests combinatorial control of transcript decay; and (3) transcripts that are microRNA targets generally have short half-lives. The decay rate of transcripts correlated with subcellular localization and function of the encoded proteins. Analysis of transcript decay rates for genes encoding orthologous proteins between Arabidopsis, yeast, and humans indicated that yeast and humans had a higher percentage of transcripts with shorter half-lives and that the relative stability of transcripts from genes encoding proteins involved in cell cycle, transcription, translation, and energy metabolism is conserved. Comparison of decay rates with changes in transcript abundance under a variety of abiotic stresses reveal that a set of transcription factors are downregulated with similar kinetics to decay rates, suggesting that inhibition of their transcription is an important early response to abiotic stress.}
+      \field{issn}{1040-4651}
+      \field{journaltitle}{The Plant Cell}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Genome-{{Wide Analysis}} of {{mRNA Decay Rates}} and {{Their Determinants}} in {{Arabidopsis}} Thaliana}
+      \field{urlday}{7}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{volume}{19}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{3418\bibrangedash 3436}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1105/tpc.107.055046
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/SG25DE5T/Narsai et al. - 2007 - Genome-Wide Analysis of mRNA Decay Rates and Their.pdf
+      \endverb
     \endentry
     \entry{hamant2010}{article}{}
       \name{author}{2}{}{%
@@ -2477,6 +2644,83 @@
       \verb /Users/rileywheadon/Zotero/storage/BAL4ZWNI/supplementary materials.pdf;/Users/rileywheadon/Zotero/storage/PBSXGLYP/Di Mambro et al. - 2017 - Auxin minimum triggers the developmental switch fr.pdf
       \endverb
       \keyw{Auxin,Cytokinin,Model}
+    \endentry
+    \entry{pavelescu2018}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d9c875fd682f4c84d2f239477c62b8a0}{%
+           family={Pavelescu},
+           familyi={P\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5e6044a8edc623a8296451de9f4d903}{%
+           family={Vilarrasa-Blasi},
+           familyi={V\bibinithyphendelim B\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4775f7c0c394e3500dfa55b7e7ad8c50}{%
+           family={Planas-Riverola},
+           familyi={P\bibinithyphendelim R\bibinitperiod},
+           given={Ainoa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81e61fcd26f7826b2db3a9bddf538615}{%
+           family={González-García},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={Mary-Paz},
+           giveni={M\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a47a1e739ad2214f8340eb47e2fa92c}{%
+           family={Caño-Delgado},
+           familyi={C\bibinithyphendelim D\bibinitperiod},
+           given={Ana\bibnamedelima I},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73e71139cbcf7dd423d5b50c8a821ab3}{%
+           family={Ibañes},
+           familyi={I\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd}%
+      }
+      \strng{namehash}{d3cfef5891b487f7b55b5bec5685dfb0}
+      \strng{fullhash}{4f89192c162a29bd24352c003fe568b4}
+      \strng{bibnamehash}{4f89192c162a29bd24352c003fe568b4}
+      \strng{authorbibnamehash}{4f89192c162a29bd24352c003fe568b4}
+      \strng{authornamehash}{d3cfef5891b487f7b55b5bec5685dfb0}
+      \strng{authorfullhash}{4f89192c162a29bd24352c003fe568b4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plant roots grow due to cell division in the meristem and subsequent cell elongation and differentiation, a tightly coordinated process that ensures growth and adaptation to the changing environment. How the newly formed cells decide to stop elongating becoming fully differentiated is not yet understood. To address this question, we established a novel approach that combines the quantitative phenotypic variability of wild-type Arabidopsis roots with computational data from mathematical models. Our analyses reveal that primary root growth is consistent with a Sizer mechanism, in which cells sense their length and stop elongating when reaching a threshold value. The local expression of brassinosteroid receptors only in the meristem is sufficient to set this value. Analysis of roots insensitive to BR signaling and of roots with gibberellin biosynthesis inhibited suggests distinct roles of these hormones on cell expansion termination. Overall, our study underscores the value of using computational modeling together with quantitative data to understand root growth.}
+      \field{issn}{1744-4292}
+      \field{journaltitle}{Molecular Systems Biology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A {{Sizer}} Model for Cell Differentiation in {{Arabidopsis}} Thaliana Root Growth}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{14}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{e7687}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.15252/msb.20177687
+      \endverb
+      \verb{file}
+      \verb /Users/rileywheadon/Zotero/storage/2TRQE8EJ/Pavelescu et al. - 2018 - A Sizer model for cell differentiation in Arabidop.pdf
+      \endverb
+      \keyw{Structure}
     \endentry
     \entry{ruan2018}{article}{}
       \name{author}{7}{}{%
@@ -3030,62 +3274,6 @@
       \verb /Users/rileywheadon/Zotero/storage/E8UX3D9Q/Goh et al. - 2023 - In-Depth Quantification of Cell Division and Elong.pdf;/Users/rileywheadon/Zotero/storage/LBP8MJFU/7323573.html
       \endverb
       \keyw{Structure}
-    \endentry
-    \entry{smithers2024}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=0d17f4f730c7c3f9773981733447da6c}{%
-           family={Smithers},
-           familyi={S\bibinitperiod},
-           given={Euan\bibnamedelima T.},
-           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=710dc31fd2eaed57e31dbc844fc18c6a}{%
-           family={Luo},
-           familyi={L\bibinitperiod},
-           given={Jingxi},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9ac18a9cc137526b97ba8799e9bea8e9}{%
-           family={Dyson},
-           familyi={D\bibinitperiod},
-           given={Rosemary\bibnamedelima J.},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{bef7de3961cc5100f358cbeea17e20ff}
-      \strng{fullhash}{395c34635146bca4c07298fe089eb217}
-      \strng{bibnamehash}{395c34635146bca4c07298fe089eb217}
-      \strng{authorbibnamehash}{395c34635146bca4c07298fe089eb217}
-      \strng{authornamehash}{bef7de3961cc5100f358cbeea17e20ff}
-      \strng{authorfullhash}{395c34635146bca4c07298fe089eb217}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Plant cell growth is regulated through manipulation of the cell wall network, which consists of oriented cellulose microfibrils embedded within a ground matrix incorporating pectin and hemicellulose components. There remain many unknowns as to how this manipulation occurs. Experiments have shown that cellulose reorients in cell walls as the cell expands, while recent data suggest that growth is controlled by distinct collections of hemicellulose called biomechanical hotspots, which join the cellulose molecule together. The enzymes expansin and Cel12A have both been shown to induce growth of the cell wall; however, while Cel12A's wall-loosening action leads to a reduction in the cell wall strength, expansin's has been shown to increase the strength of the cell wall. In contrast, members of the XTH enzyme family hydrolyse hemicellulose but do not appear to cause wall creep. This experimentally observed behaviour still awaits a full explanation. We derive and analyse a mathematical model for the effective mechanical properties of the evolving cell wall network, incorporating cellulose microfibrils, which reorient with cell growth and are linked via biomechanical hotspots made up of regions of crosslinking hemicellulose. Assuming a visco-elastic response for the cell wall and using a continuum approach, we calculate the total stress resultant of the cell wall for a given overall growth rate. By changing appropriate parameters affecting breakage rate and viscous properties, we provide evidence for the biomechanical hotspot hypothesis and develop mechanistic understanding of the growth-inducing enzymes.}
-      \field{issn}{1292-895X}
-      \field{journaltitle}{The European Physical Journal E}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{number}{1}
-      \field{title}{A Continuum Mechanics Model of the Plant Cell Wall Reveals Interplay between Enzyme Action and Cell Wall Structure}
-      \field{urlday}{14}
-      \field{urlmonth}{9}
-      \field{urlyear}{2024}
-      \field{volume}{47}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \field{pages}{1}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1140/epje/s10189-023-00396-2
-      \endverb
-      \verb{file}
-      \verb /Users/rileywheadon/Zotero/storage/723N3WFN/Smithers et al. - 2024 - A continuum mechanics model of the plant cell wall.pdf
-      \endverb
     \endentry
   \enddatalist
 \endrefsection

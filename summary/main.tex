@@ -3,9 +3,11 @@
 % Import Packages
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{comment}
 \usepackage{cancel}
 \usepackage{hyperref}
 
+% Page setup
 \usepackage[
 legalpaper, 
 top=1in, 
@@ -14,6 +16,7 @@ left=1.5in,
 right=1.5in
 ]{geometry}
 
+% Import graphicx and set figure path
 \usepackage{graphicx}
 \graphicspath{ {./img/} }
 
@@ -31,13 +34,19 @@ backend=biber,
 style=apa,
 sorting=ynt
 ]{biblatex}
-
 \addbibresource{sources.bib}
+
+% Create supplementary figure environment
+\usepackage{caption}
+\usepackage{newfloat}
+\DeclareFloatingEnvironment{supplementaryfigure}
+\captionsetup[supplementaryfigure]{name=Supplementary Figure}
+
 \emergencystretch=1em
 
 \begin{document}
 
-\title{A Macroscopic Model of CLASP in \emph{A. Thaliana}}
+\title{Brassinosteroid and CLASP-driven Models of Root Zonation in \emph{A. Thaliana}}
 \author{Riley Wheadon, Geoffrey Wasteneys, Eric Cytrynbaum \\ University of British Columbia}
 \date{September 8th, 2024}
 \maketitle
@@ -48,25 +57,44 @@ sorting=ynt
 
 \newpage
 
-\section{Background}
+\section{Introduction}
 
 \input{content/background.tex}
 
 \newpage
 
-\section{Model}
+\section{Cell Column Model}
+
+\input{content/cell-column-model.tex}
+
+\newpage
+
+\section{Single Cell BES1 Model}
 
 \input{content/bl-model.tex}
 \input{content/bri1-model.tex}
 \input{content/bes1-model.tex}
-\input{content/growth-model.tex}
-\input{content/mutant-model.tex}
+
+\newpage
+
+\section{Single Cell Mutant Model}
+
+%\input{content/growth-model.tex}
+% \input{content/clasp1-model.tex}
+% \input{content/brin-clasp-model.tex}
 
 \newpage
 
 \section{Discussion}
 
 \input{content/discussion.tex}
+
+\appendix
+\section{Supplementary Information}
+
+\input{content/supplementary-mutant-differences.tex}
+\input{content/supplementary-cell-column.tex}
+\input{content/supplementary-bes1-model.tex}
 
 \newpage
 \printbibliography
