@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.5)  23 OCT 2024 23:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.5)  26 OCT 2024 11:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -731,11 +731,11 @@ File: ./img//column-position-length.png Graphic file (type png)
 Package pdftex.def Info: ./img//column-position-length.png  used on input line 80.
 (pdftex.def)             Requested size: 369.88582pt x 369.88438pt.
 ) [5] (./content/bl-model.tex [6 <./img//column-position-length.png>]) (./content/bri1-model.tex
-<img/bri1-function.png, id=210, 721.2546pt x 396.7623pt>
+<img/bri1-function.png, id=210, 670.6656pt x 383.031pt>
 File: img/bri1-function.png Graphic file (type png)
 <use img/bri1-function.png>
 Package pdftex.def Info: img/bri1-function.png  used on input line 48.
-(pdftex.def)             Requested size: 369.88582pt x 203.47215pt.
+(pdftex.def)             Requested size: 369.88582pt x 211.2463pt.
 ) (./content/bes1-model.tex [7]
 <./img//bes1-model.png, id=241, 1004.75375pt x 475.7775pt>
 File: ./img//bes1-model.png Graphic file (type png)
@@ -793,26 +793,26 @@ File: ./img//column-division-histogram.png Graphic file (type png)
 Package pdftex.def Info: ./img//column-division-histogram.png  used on input line 33.
 (pdftex.def)             Requested size: 369.88582pt x 443.86128pt.
 ) (./content/supplementary-bes1-model.tex
-<img/bl-bias.png, id=334, 635.976pt x 396.7623pt>
+<img/bl-bias.png, id=334, 617.1858pt x 383.031pt>
 File: img/bl-bias.png Graphic file (type png)
 <use img/bl-bias.png>
 Package pdftex.def Info: img/bl-bias.png  used on input line 5.
-(pdftex.def)             Requested size: 369.88582pt x 230.75797pt.
-<img/bl-average.png, id=335, 635.976pt x 396.7623pt>
+(pdftex.def)             Requested size: 369.88582pt x 229.5632pt.
+<img/bl-average.png, id=335, 617.1858pt x 383.031pt>
 File: img/bl-average.png Graphic file (type png)
 <use img/bl-average.png>
 Package pdftex.def Info: img/bl-average.png  used on input line 12.
-(pdftex.def)             Requested size: 369.88582pt x 230.75797pt.
-<./img//position-function.png, id=336, 651.1527pt x 395.3169pt>
+(pdftex.def)             Requested size: 369.88582pt x 229.5632pt.
+<./img//position-function.png, id=336, 624.4128pt x 382.3083pt>
 File: ./img//position-function.png Graphic file (type png)
 <use ./img//position-function.png>
 Package pdftex.def Info: ./img//position-function.png  used on input line 19.
-(pdftex.def)             Requested size: 369.88582pt x 224.5669pt.
-<./img//bes1-data.png, id=339, 709.6914pt x 569.4876pt>
+(pdftex.def)             Requested size: 369.88582pt x 226.46997pt.
+<./img//bes1-data.png, id=339, 727.0362pt x 583.9416pt>
 File: ./img//bes1-data.png Graphic file (type png)
 <use ./img//bes1-data.png>
 Package pdftex.def Info: ./img//bes1-data.png  used on input line 26.
-(pdftex.def)             Requested size: 369.88582pt x 296.81305pt.
+(pdftex.def)             Requested size: 369.88582pt x 297.08455pt.
 ) [15 <./img//column-wild-type.png>] [16 <./img//column-brin-clasp.png> <./img//column-clasp-1.png>] [17 <./img//column-division-zone.png>] [18 <./img//column-division-histogram.png> <./img/bl-bias.png>] [19 <./img/bl-average.png> <./img//position-function.png>] [20 <./img//bes1-data.png>] [21] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: EFDFBAC13F5E57D96A5E343E98866F6D;2899.
@@ -829,7 +829,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,13n,80p,1727b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (21 pages, 2067536 bytes).
+Output written on main.pdf (21 pages, 5224559 bytes).
 PDF statistics:
  509 PDF objects out of 1000 (max. 8388607)
  407 compressed objects within 5 object streams

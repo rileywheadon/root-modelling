@@ -1,0 +1,477 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{26}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\url{https://doi.org/#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\bibcommenthead
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem[\protect\citeauthoryear{Halat et~al.}{2020}]{halat2020}
+\begin{barticle}
+\bauthor{\bsnm{Halat}, \binits{L.}},
+\bauthor{\bsnm{Gyte}, \binits{K.}},
+\bauthor{\bsnm{Wasteneys}, \binits{G.}}:
+\batitle{The {{Microtubule-Associated Protein CLASP Is Translationally Regulated}} in {{Light-Dependent Root Apical Meristem Growth}}}.
+\bjtitle{Plant Physiology}
+\bvolume{184}(\bissue{4}),
+\bfpage{2154}--\blpage{2167}
+(\byear{2020})
+\doiurl{10.1104/pp.20.00474}
+\end{barticle}
+\endbibitem
+
+%%% 2
+\bibitem[\protect\citeauthoryear{Hamant and Traas}{2010}]{hamant2010}
+\begin{barticle}
+\bauthor{\bsnm{Hamant}, \binits{O.}},
+\bauthor{\bsnm{Traas}, \binits{J.}}:
+\batitle{The mechanics behind plant development}.
+\bjtitle{New Phytologist}
+\bvolume{185}(\bissue{2}),
+\bfpage{369}--\blpage{385}
+(\byear{2010})
+\doiurl{10.1111/j.1469-8137.2009.03100.x}
+\end{barticle}
+\endbibitem
+
+%%% 3
+\bibitem[\protect\citeauthoryear{Ambrose et~al.}{2011}]{ambrose2011}
+\begin{barticle}
+\bauthor{\bsnm{Ambrose}, \binits{C.}},
+\bauthor{\bsnm{Allard}, \binits{J.F.}},
+\bauthor{\bsnm{Cytrynbaum}, \binits{E.N.}},
+\bauthor{\bsnm{Wasteneys}, \binits{G.O.}}:
+\batitle{A {{CLASP-modulated}} cell edge barrier mechanism drives cell-wide cortical microtubule organization in {{Arabidopsis}}}.
+\bjtitle{Nature Communications}
+\bvolume{2}(\bissue{1}),
+\bfpage{430}
+(\byear{2011})
+\doiurl{10.1038/ncomms1444}
+\end{barticle}
+\endbibitem
+
+%%% 4
+\bibitem[\protect\citeauthoryear{Halat et~al.}{2022}]{halat2022}
+\begin{botherref}
+\oauthor{\bsnm{Halat}, \binits{L.S.}},
+\oauthor{\bsnm{Bali}, \binits{B.}},
+\oauthor{\bsnm{Wasteneys}, \binits{G.}}:
+Cytoplasmic {{Linker Protein-Associating Protein}} at the {{Nexus}} of {{Hormone Signaling}}, {{Microtubule Organization}}, and the {{Transition From Division}} to {{Differentiation}} in {{Primary Roots}}.
+Frontiers in Plant Science
+\textbf{13}
+(2022)
+\doiurl{10.3389/fpls.2022.883363}
+\end{botherref}
+\endbibitem
+
+%%% 5
+\bibitem[\protect\citeauthoryear{{Ackerman-Lavert} and {Savaldi-Goldstein}}{2020}]{ackerman-lavert2020}
+\begin{barticle}
+\bauthor{\bsnm{{Ackerman-Lavert}}, \binits{M.}},
+\bauthor{\bsnm{{Savaldi-Goldstein}}, \binits{S.}}:
+\batitle{Growth models from a brassinosteroid perspective}.
+\bjtitle{Current Opinion in Plant Biology}
+\bvolume{53},
+\bfpage{90}--\blpage{97}
+(\byear{2020})
+\doiurl{10.1016/j.pbi.2019.10.008}
+\end{barticle}
+\endbibitem
+
+%%% 6
+\bibitem[\protect\citeauthoryear{Vuka{\v s}inovi{\'c} et~al.}{2021}]{vukasinovic2021}
+\begin{barticle}
+\bauthor{\bsnm{Vuka{\v s}inovi{\'c}}, \binits{N.}},
+\bauthor{\bsnm{Wang}, \binits{Y.}},
+\bauthor{\bsnm{Vanhoutte}, \binits{I.}},
+\bauthor{\bsnm{Fendrych}, \binits{M.}},
+\bauthor{\bsnm{Guo}, \binits{B.}},
+\bauthor{\bsnm{Kvasnica}, \binits{M.}},
+\bauthor{\bsnm{Jiroutov{\'a}}, \binits{P.}},
+\bauthor{\bsnm{Oklestkova}, \binits{J.}},
+\bauthor{\bsnm{Strnad}, \binits{M.}},
+\bauthor{\bsnm{Russinova}, \binits{E.}}:
+\batitle{Local brassinosteroid biosynthesis enables optimal root growth}.
+\bjtitle{Nature Plants}
+\bvolume{7}(\bissue{5}),
+\bfpage{619}--\blpage{632}
+(\byear{2021})
+\doiurl{10.1038/s41477-021-00917-x}
+\end{barticle}
+\endbibitem
+
+%%% 7
+\bibitem[\protect\citeauthoryear{Ruan et~al.}{2018}]{ruan2018}
+\begin{barticle}
+\bauthor{\bsnm{Ruan}, \binits{Y.}},
+\bauthor{\bsnm{Halat}, \binits{L.S.}},
+\bauthor{\bsnm{Khan}, \binits{D.}},
+\bauthor{\bsnm{Jancowski}, \binits{S.}},
+\bauthor{\bsnm{Ambrose}, \binits{C.}},
+\bauthor{\bsnm{Belmonte}, \binits{M.F.}},
+\bauthor{\bsnm{Wasteneys}, \binits{G.O.}}:
+\batitle{The {{Microtubule-Associated Protein CLASP Sustains Cell Proliferation}} through a {{Brassinosteroid Signaling Negative Feedback Loop}}}.
+\bjtitle{Current Biology}
+\bvolume{28}(\bissue{17}),
+\bfpage{2718}--\blpage{27295}
+(\byear{2018})
+\doiurl{10.1016/j.cub.2018.06.048}
+\end{barticle}
+\endbibitem
+
+%%% 8
+\bibitem[\protect\citeauthoryear{Ambrose et~al.}{2007}]{ambrose2007}
+\begin{barticle}
+\bauthor{\bsnm{Ambrose}, \binits{J.C.}},
+\bauthor{\bsnm{Shoji}, \binits{T.}},
+\bauthor{\bsnm{Kotzer}, \binits{A.M.}},
+\bauthor{\bsnm{Pighin}, \binits{J.A.}},
+\bauthor{\bsnm{Wasteneys}, \binits{G.O.}}:
+\batitle{The {{Arabidopsis CLASP Gene Encodes}} a {{Microtubule-Associated Protein Involved}} in {{Cell Expansion}} and {{Division}}}.
+\bjtitle{The Plant Cell}
+\bvolume{19}(\bissue{9}),
+\bfpage{2763}--\blpage{2775}
+(\byear{2007})
+\doiurl{10.1105/tpc.107.053777}
+\end{barticle}
+\endbibitem
+
+%%% 9
+\bibitem[\protect\citeauthoryear{{van Esse} et~al.}{2012}]{vanesse2012}
+\begin{barticle}
+\bauthor{\bsnm{{van Esse}}, \binits{G.W.}},
+\bauthor{\bsnm{{van Mourik}}, \binits{S.}},
+\bauthor{\bsnm{Stigter}, \binits{H.}},
+\bauthor{\bsnm{{ten Hove}}, \binits{C.A.}},
+\bauthor{\bsnm{Molenaar}, \binits{J.}},
+\bauthor{\bsnm{{de Vries}}, \binits{S.C.}}:
+\batitle{A {{Mathematical Model}} for {{BRASSINOSTEROID INSENSITIVE1-Mediated Signaling}} in {{Root Growth}} and {{Hypocotyl Elongation}}}.
+\bjtitle{Plant Physiology}
+\bvolume{160}(\bissue{1}),
+\bfpage{523}--\blpage{532}
+(\byear{2012})
+\doiurl{10.1104/pp.112.200105}
+\end{barticle}
+\endbibitem
+
+%%% 10
+\bibitem[\protect\citeauthoryear{Wang et~al.}{2001}]{wang2001}
+\begin{barticle}
+\bauthor{\bsnm{Wang}, \binits{Z.-Y.}},
+\bauthor{\bsnm{Seto}, \binits{H.}},
+\bauthor{\bsnm{Fujioka}, \binits{S.}},
+\bauthor{\bsnm{Yoshida}, \binits{S.}},
+\bauthor{\bsnm{Chory}, \binits{J.}}:
+\batitle{{{BRI1}} is a critical component of a plasma-membrane receptor for plant steroids}.
+\bjtitle{Nature}
+\bvolume{410}(\bissue{6826}),
+\bfpage{380}--\blpage{383}
+(\byear{2001})
+\doiurl{10.1038/35066597}
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem[\protect\citeauthoryear{{Ca{\~n}o-Delgado} et~al.}{2004}]{cano-delgado2004}
+\begin{barticle}
+\bauthor{\bsnm{{Ca{\~n}o-Delgado}}, \binits{A.}},
+\bauthor{\bsnm{Yin}, \binits{Y.}},
+\bauthor{\bsnm{Yu}, \binits{C.}},
+\bauthor{\bsnm{Vafeados}, \binits{D.}},
+\bauthor{\bsnm{{Mora-Garc{\'i}a}}, \binits{S.}},
+\bauthor{\bsnm{Cheng}, \binits{J.-C.}},
+\bauthor{\bsnm{Nam}, \binits{K.H.}},
+\bauthor{\bsnm{Li}, \binits{J.}},
+\bauthor{\bsnm{Chory}, \binits{J.}}:
+\batitle{{{BRL1}} and {{BRL3}} are novel brassinosteroid receptors that function in vascular differentiation in {{Arabidopsis}}}.
+\bjtitle{Development (Cambridge, England)}
+\bvolume{131}(\bissue{21}),
+\bfpage{5341}--\blpage{5351}
+(\byear{2004})
+\doiurl{10.1242/dev.01403}
+\end{barticle}
+\endbibitem
+
+%%% 12
+\bibitem[\protect\citeauthoryear{Lockhart}{1965}]{lockhart1965}
+\begin{barticle}
+\bauthor{\bsnm{Lockhart}, \binits{J.A.}}:
+\batitle{An analysis of irreversible plant cell elongation}.
+\bjtitle{Journal of Theoretical Biology}
+\bvolume{8}(\bissue{2}),
+\bfpage{264}--\blpage{275}
+(\byear{1965})
+\doiurl{10.1016/0022-5193(65)90077-9}
+\end{barticle}
+\endbibitem
+
+%%% 13
+\bibitem[\protect\citeauthoryear{Pavelescu}{2016}]{pavelescu2016}
+\begin{botherref}
+\oauthor{\bsnm{Pavelescu}, \binits{I.}}:
+Brassinosteroids role in arabidopsis root development : Theoretical and experimental approaches.
+Tesis Doctorals - Departament - Estructura i Constituents de la Mat{\`e}ria
+(2016)
+\end{botherref}
+\endbibitem
+
+%%% 14
+\bibitem[\protect\citeauthoryear{Akaike}{1974}]{akaike1974}
+\begin{barticle}
+\bauthor{\bsnm{Akaike}, \binits{H.}}:
+\batitle{A new look at the statistical model identification}.
+\bjtitle{IEEE Transactions on Automatic Control}
+\bvolume{19}(\bissue{6}),
+\bfpage{716}--\blpage{723}
+(\byear{1974})
+\doiurl{10.1109/TAC.1974.1100705}
+\end{barticle}
+\endbibitem
+
+%%% 15
+\bibitem[\protect\citeauthoryear{Sugiura}{1978}]{sugiura1978}
+\begin{barticle}
+\bauthor{\bsnm{Sugiura}, \binits{N.}}:
+\batitle{Further analysis of the data by {{Akaike}}'s information criterion and the finite corrections: {{Further}} analysis of the data by akaike' s}.
+\bjtitle{Communications in Statistics - Theory and Methods}
+\bvolume{7}(\bissue{1}),
+\bfpage{13}--\blpage{26}
+(\byear{1978})
+\doiurl{10.1080/03610927808827599}
+\end{barticle}
+\endbibitem
+
+%%% 16
+\bibitem[\protect\citeauthoryear{Jones et~al.}{1993}]{jones1993}
+\begin{barticle}
+\bauthor{\bsnm{Jones}, \binits{D.R.}},
+\bauthor{\bsnm{Perttunen}, \binits{C.D.}},
+\bauthor{\bsnm{Stuckman}, \binits{B.E.}}:
+\batitle{Lipschitzian optimization without the {{Lipschitz}} constant}.
+\bjtitle{Journal of Optimization Theory and Applications}
+\bvolume{79}(\bissue{1}),
+\bfpage{157}--\blpage{181}
+(\byear{1993})
+\doiurl{10.1007/BF00941892}
+\end{barticle}
+\endbibitem
+
+%%% 17
+\bibitem[\protect\citeauthoryear{Van~Esse et~al.}{2011}]{vanesse2011}
+\begin{barticle}
+\bauthor{\bsnm{Van~Esse}, \binits{G.}},
+\bauthor{\bsnm{Westphal}, \binits{A.H.}},
+\bauthor{\bsnm{Surendran}, \binits{R.P.}},
+\bauthor{\bsnm{Albrecht}, \binits{C.}},
+\bauthor{\bsnm{{van Veen}}, \binits{B.}},
+\bauthor{\bsnm{Borst}, \binits{J.W.}},
+\bauthor{\bsnm{{de Vries}}, \binits{S.C.}}:
+\batitle{Quantification of the brassinosteroid insensitive1 receptor in planta}.
+\bjtitle{Plant Physiology}
+\bvolume{156}(\bissue{4}),
+\bfpage{1691}--\blpage{1700}
+(\byear{2011})
+\doiurl{10.1104/pp.111.179309}
+\end{barticle}
+\endbibitem
+
+%%% 18
+\bibitem[\protect\citeauthoryear{Smithers et~al.}{2024}]{smithers2024}
+\begin{barticle}
+\bauthor{\bsnm{Smithers}, \binits{E.T.}},
+\bauthor{\bsnm{Luo}, \binits{J.}},
+\bauthor{\bsnm{Dyson}, \binits{R.J.}}:
+\batitle{A continuum mechanics model of the plant cell wall reveals interplay between enzyme action and cell wall structure}.
+\bjtitle{The European Physical Journal E}
+\bvolume{47}(\bissue{1}),
+\bfpage{1}
+(\byear{2024})
+\doiurl{10.1140/epje/s10189-023-00396-2}
+\end{barticle}
+\endbibitem
+
+%%% 19
+\bibitem[\protect\citeauthoryear{Tian et~al.}{2023}]{tian2023}
+\begin{barticle}
+\bauthor{\bsnm{Tian}, \binits{T.Y.Y.}},
+\bauthor{\bsnm{Macdonald}, \binits{C.B.}},
+\bauthor{\bsnm{Cytrynbaum}, \binits{E.N.}}:
+\batitle{A {{Stochastic Model}} of {{Cortical Microtubule Anchoring}} and {{Mechanics Provides Regulatory Control}} of {{Microtubule Shape}}}.
+\bjtitle{Bulletin of Mathematical Biology}
+\bvolume{85}(\bissue{11}),
+\bfpage{103}
+(\byear{2023})
+\doiurl{10.1007/s11538-023-01211-x}
+\end{barticle}
+\endbibitem
+
+%%% 20
+\bibitem[\protect\citeauthoryear{Tindemans et~al.}{2014}]{tindemans2014}
+\begin{botherref}
+\oauthor{\bsnm{Tindemans}, \binits{S.H.}},
+\oauthor{\bsnm{Deinum}, \binits{E.E.}},
+\oauthor{\bsnm{Lindeboom}, \binits{J.J.}},
+\oauthor{\bsnm{Mulder}, \binits{B.}}:
+Efficient event-driven simulations shed new light on microtubule organization in the plant cortical array.
+Frontiers in Physics
+\textbf{2}
+(2014)
+\doiurl{10.3389/fphy.2014.00019}
+\end{botherref}
+\endbibitem
+
+%%% 21
+\bibitem[\protect\citeauthoryear{Allard et~al.}{2010}]{allard2010a}
+\begin{barticle}
+\bauthor{\bsnm{Allard}, \binits{J.F.}},
+\bauthor{\bsnm{Ambrose}, \binits{J.C.}},
+\bauthor{\bsnm{Wasteneys}, \binits{G.O.}},
+\bauthor{\bsnm{Cytrynbaum}, \binits{E.N.}}:
+\batitle{A {{Mechanochemical Model Explains Interactions}} between {{Cortical Microtubules}} in {{Plants}}}.
+\bjtitle{Biophysical Journal}
+\bvolume{99}(\bissue{4}),
+\bfpage{1082}--\blpage{1090}
+(\byear{2010})
+\doiurl{10.1016/j.bpj.2010.05.037}
+\end{barticle}
+\endbibitem
+
+%%% 22
+\bibitem[\protect\citeauthoryear{Grieneisen et~al.}{2007}]{grieneisen2007}
+\begin{barticle}
+\bauthor{\bsnm{Grieneisen}, \binits{V.A.}},
+\bauthor{\bsnm{Xu}, \binits{J.}},
+\bauthor{\bsnm{Mar{\'e}e}, \binits{A.F.M.}},
+\bauthor{\bsnm{Hogeweg}, \binits{P.}},
+\bauthor{\bsnm{Scheres}, \binits{B.}}:
+\batitle{Auxin transport is sufficient to generate a maximum and gradient guiding root growth}.
+\bjtitle{Nature}
+\bvolume{449}(\bissue{7165}),
+\bfpage{1008}--\blpage{1013}
+(\byear{2007})
+\doiurl{10.1038/nature06215}
+\end{barticle}
+\endbibitem
+
+%%% 23
+\bibitem[\protect\citeauthoryear{Di~Mambro et~al.}{2017}]{dimambro2017}
+\begin{barticle}
+\bauthor{\bsnm{Di~Mambro}, \binits{R.}},
+\bauthor{\bsnm{De~Ruvo}, \binits{M.}},
+\bauthor{\bsnm{Pacifici}, \binits{E.}},
+\bauthor{\bsnm{Salvi}, \binits{E.}},
+\bauthor{\bsnm{Sozzani}, \binits{R.}},
+\bauthor{\bsnm{Benfey}, \binits{P.N.}},
+\bauthor{\bsnm{Busch}, \binits{W.}},
+\bauthor{\bsnm{Novak}, \binits{O.}},
+\bauthor{\bsnm{Ljung}, \binits{K.}},
+\bauthor{\bsnm{Di~Paola}, \binits{L.}},
+\bauthor{\bsnm{Mar{\'e}e}, \binits{A.F.M.}},
+\bauthor{\bsnm{Costantino}, \binits{P.}},
+\bauthor{\bsnm{Grieneisen}, \binits{V.A.}},
+\bauthor{\bsnm{Sabatini}, \binits{S.}}:
+\batitle{Auxin minimum triggers the developmental switch from cell division to cell differentiation in the {{Arabidopsis}} root}.
+\bjtitle{Proceedings of the National Academy of Sciences}
+\bvolume{114}(\bissue{36}),
+\bfpage{7641}--\blpage{7649}
+(\byear{2017})
+\doiurl{10.1073/pnas.1705833114}
+\end{barticle}
+\endbibitem
+
+%%% 24
+\bibitem[\protect\citeauthoryear{Salvi et~al.}{2020}]{salvi2020}
+\begin{barticle}
+\bauthor{\bsnm{Salvi}, \binits{E.}},
+\bauthor{\bsnm{Rutten}, \binits{J.P.}},
+\bauthor{\bsnm{Mambro}, \binits{R.D.}},
+\bauthor{\bsnm{Polverari}, \binits{L.}},
+\bauthor{\bsnm{Licursi}, \binits{V.}},
+\bauthor{\bsnm{Negri}, \binits{R.}},
+\bauthor{\bsnm{Ioio}, \binits{R.D.}},
+\bauthor{\bsnm{Sabatini}, \binits{S.}},
+\bauthor{\bsnm{Tusscher}, \binits{K.T.}}:
+\batitle{A {{Self-Organized PLT}}/{{Auxin}}/{{ARR-B Network Controls}} the {{Dynamics}} of {{Root Zonation Development}} in {{Arabidopsis}} thaliana}.
+\bjtitle{Developmental Cell}
+\bvolume{53}(\bissue{4}),
+\bfpage{431}--\blpage{44323}
+(\byear{2020})
+\doiurl{10.1016/j.devcel.2020.04.004}
+\end{barticle}
+\endbibitem
+
+%%% 25
+\bibitem[\protect\citeauthoryear{Moore et~al.}{2024}]{moore2024}
+\begin{botherref}
+\oauthor{\bsnm{Moore}, \binits{S.}},
+\oauthor{\bsnm{Jervis}, \binits{G.}},
+\oauthor{\bsnm{Topping}, \binits{J.F.}},
+\oauthor{\bsnm{Chen}, \binits{C.}},
+\oauthor{\bsnm{Liu}, \binits{J.}},
+\oauthor{\bsnm{Lindsey}, \binits{K.}}:
+A predictive model for ethylene-mediated auxin and cytokinin patterning in the {{Arabidopsis}} root.
+Plant Communications
+\textbf{0}(0)
+(2024)
+\doiurl{10.1016/j.xplc.2024.100886}
+\end{botherref}
+\endbibitem
+
+%%% 26
+\bibitem[\protect\citeauthoryear{Muraro et~al.}{2016}]{muraro2016}
+\begin{barticle}
+\bauthor{\bsnm{Muraro}, \binits{D.}},
+\bauthor{\bsnm{Larrieu}, \binits{A.}},
+\bauthor{\bsnm{Lucas}, \binits{M.}},
+\bauthor{\bsnm{Chopard}, \binits{J.}},
+\bauthor{\bsnm{Byrne}, \binits{H.}},
+\bauthor{\bsnm{Godin}, \binits{C.}},
+\bauthor{\bsnm{King}, \binits{J.}}:
+\batitle{A multi-scale model of the interplay between cell signalling and hormone transport in specifying the root meristem of {{{\emph{Arabidopsis}}}}{\emph{ thaliana}}}.
+\bjtitle{Journal of Theoretical Biology}
+\bvolume{404},
+\bfpage{182}--\blpage{205}
+(\byear{2016})
+\doiurl{10.1016/j.jtbi.2016.04.036}
+\end{barticle}
+\endbibitem
+
+\end{thebibliography}

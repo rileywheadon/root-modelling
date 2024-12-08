@@ -20,7 +20,7 @@ def AIC(k, predicted, observed):
     return (2 * k) + n * np.log(rss / n)
 
 
-# Curve fitting helper that also returns the RMSE
+# Curve fitting helper that also returns the RMSE and SE
 def fit_curve(f, data):
     popt, pcov = curve_fit(f, data[:, 0], data[:, 1])
     fit = lambda x : f(x, *popt)
@@ -163,7 +163,13 @@ def get_mutant_data(cell_type, prefix, diameter, threshold):
 
     # Compute an exponential curve of best fit
     # Convert positions to mm to prevent overflow
-    f = lambda x, A, B, C : A + B * np.exp(C * x)
+    f = lambda x, A, B, C : A + (B * x) + (C * x ** 2)
     popt, pcov = curve_fit(f, (data[:, 0] / 1000), data[:, 1])
     fit = lambda x : f(x, *popt)
-    return data, fit
+
+    # Compute the standard error proportional to length
+    predicted = fit(data[:, 0] / 1000)
+    observed = data[:, 1]
+    std = np.std((predicted - observed) / observed) 
+    se = std / np.sqrt(observed.size)
+    return data, fit, se
