@@ -55,13 +55,16 @@
 
 \affil[3]{\orgdiv{Department}, \orgname{Organization}, \orgaddress{\street{Street}, \city{City}, \postcode{610101}, \state{State}, \country{Country}}}
 
-\abstract{Variations in the rates of cell division and elongation in the root apical meristem of \emph{A. thaliana} have a significant influence on organ development.
+\abstract{
+Variations in the rates of cell division and elongation in the root apical meristem of \emph{A. thaliana} have a significant influence on organ development.
 In particular, the plant hormone brassinosteroid promotes cell elongation while the CLASP protein affects cell division by modulating the arrangement of microtubule polymers on the cell membrane.
 However, the precise effect of CLASP on cell-scale development remains unknown.
 In this paper, we develop a computational model to investigate root zonation in \emph{A. thaliana} mutants where the brassinosteroid/CLASP signalling network has been perturbed.
 The model is based on brassinosteroid receptor dynamics and their downstream effects on CLASP, cell division, and cell elongation.
-Fitting the model to experimental data reveals that both superphysiological and supraphysiological concentrations of CLASP inhibit cell division.
-These findings suggest that the efficient relocalization of microtubules between phases of the cell cycle requires the CLASP protein to be well-regulated.}
+In order to fit our model to data, we find that there must be a maximum rate of cell division at an intermediate concentration of CLASP.
+For CLASP concentrations both above and below this critical value, our model requires a slower rate of cell division.
+This finding suggests that the CLASP protein must be precisely regulated to ensure the efficient relocalization of microtubules between phases of the cell cycle.
+}
 
 \keywords{Brassinosteroid, Cell Division, CLASP, Microtubules, Root Zonation}
 
@@ -72,31 +75,28 @@ These findings suggest that the efficient relocalization of microtubules between
 Environmental stressors such as drought, heat, and cold have been shown to drive significant changes in the hormone and protein levels of plants \cite{halat2020}.
 As a result of these fluctuations, plants often undergo profound changes in development.
 Developing a better understanding of how hormones and proteins interact to drive tissue-scale behaviour is essential for the increasingly important field of sustainable agriculture.
-One system of interest for this phenomenon is the root apical meristem of \emph{A. thaliana}, where the transition from cell division to elongation is tightly regulated by multiple hormones and proteins.
-In this paper, we present a novel model of root zonation in the meristem based on a signalling network involving brassinosteroid (BR) and the Cytoplasmic Linker Associated Protein (CLASP).
+One system of interest for studying this phenomenon is the root apical meristem of \emph{A. thaliana}, where the transition from cell division to elongation is tightly regulated by multiple hormones and proteins.
 
 Cell elongation is driven by turgor pressure, the force exerted by intracellular fluid on the plasma membrane.
-The organized deposition of cellulose microfibrils on the cell wall creates anisotropic resistance to the uniform turgor pressure, causing the unidirectional growth observed in the meristem \cite{hamant2010}.
-The arrangement of tubulin polymers known as microtubules has been shown to guide cellulose deposition on the cell wall \cite{hamant2010}.
-However, it is not known if this effect is significant enough to drive changes in cell elongation.
+The organized deposition of cellulose microfibrils on the cell wall creates anisotropic resistance to the uniform turgor pressure, causing the unidirectional elongation observed in the meristem \cite{hamant2010}.
+The arrangement of tubulin polymers known as microtubules has been shown to guide cellulose deposition on the cell wall \cite{hamant2010} although it remains unclear whether this effect is significant enough to drive changes in cell elongation.
 The CLASP protein plays an essential role in microtubule patterning by helping microtubules cross sharp edges on the cell membrane \cite{ambrose2011}.
 This results in the formation of bundles of microtubules along the transverse and radial edges of the cell known as transfacial bundles (TFBs) \cite{halat2022}.
 TFBs are only observed in mitotic cells \cite{ambrose2011}, although it remains unknown whether this relationship is causal \cite{halat2022}. 
 
-Brassinosteroids are a class of plant hormones that have been shown to promote cell growth \cite{ackerman-lavert2020}.
+Brassinosteroids (BRs) are a class of plant hormone that have been shown to promote cell elongation \cite{ackerman-lavert2020}.
 Extracellular BRs, particularly the highly potent brassinolide (BL), bind to the BR receptor BRI1 and its homologues on the cell membrane \cite{vukasinovic2021}.
-Bound BRI1 receptors release the inhibition of the BZR1/BES1 transcription factors by the BIN2 signalling inhibitor \cite{ackerman-lavert2020}.
+Bound BRI1 receptors inhibit the function of the negative regulator BIN2, which releases the suppression of the BZR1/BES1 transcription factor \cite{ackerman-lavert2020}.
 BR signalling levels reach a maximum in the proximal region of the meristem due to a high concentration of BR precursors \cite{vukasinovic2021}, which drives rapid cell elongation.
 The BZR1/BES1 transcription factors, often used as a proxy for BR signalling, have been shown to inhibit CLASP by binding directly to its promoter and repressing its activity \cite{ruan2018}.
 Additionally, CLASP influences BR signalling by promoting the recycling of endocytosed BRI1 receptors \cite{ruan2018}.
 Together, these two effects produce a positive-negative feedback loop that helps to maintain homeostasis in the root \cite{ruan2018}.
 
 Making small changes to the BR/CLASP signalling network leads to significant changes in root phenotypes.
-This paper explores the \emph{clasp-1} \cite{ambrose2007} and \emph{brinCLASPpro} \cite{ruan2018} mutant roots.
-The \emph{clasp-1} root has a loss-of-function mutation that fully inhibits the production of CLASP.
+The \emph{clasp-1} root has a loss-of-function mutation that fully inhibits the production of CLASP \cite{ambrose2007}.
 This causes microtubules to form organized transverse arrays (OTAs) and induces premature exit from the cell cycle \cite{halat2022}.
 Images of the \emph{clasp-1} root reveal longer cells and a shorter organ relative to the wild type.
-The \emph{brinCLASPpro} root is insensitive to the effects of BR signalling, which releases the inhibition of the CLASP promoter.
+The \emph{brinCLASPpro} root is insensitive to the effects of BR signalling, which releases the inhibition of the CLASP promoter \cite{ruan2018}.
 The resulting excess of CLASP promotes the recycling of endocytosed BRI1 receptors \cite{ruan2018}, which leads to higher concentrations of the BZR1/BES1 transcription factor.
 Higher levels of BR signalling induce rapid cell elongation, which causes the \emph{brinCLASPpro} root to develop longer cells relative to the wild type.
 However, these cells are shorter than those observed in the \emph{clasp-1} mutant.
@@ -105,7 +105,7 @@ Additionally, organ size in the \emph{brinCLASPpro} root is smaller than in the 
 In this paper, we study the signalling network shown in Figure \ref{network} using a system of time-dependent ordinary differential equations (ODEs).
 By fitting the numerical solutions to these equations to experimental data, we show that our current understanding of the BR/CLASP signalling network cannot differentiate the wild type root from the \emph{brinCLASPpro} mutant.
 Then, we investigate two biologically motivated adjustments to the model for recovering the \emph{brinCLASPpro} mutant.
-Ultimately, we find strong evidence that the CLASP protein inhibits cell division at superphysiological concentrations.
+Ultimately, we find strong evidence that the CLASP protein reverses its influence, inhibiting cell division at superphysiological concentrations.
 We speculate on the biological mechanisms that drive this phenomenon and suggest avenues for further \emph{in-vivo} and \emph{in-silico} research.
 
 
@@ -318,7 +318,7 @@ This means the \emph{brinCLASPpro} mutant does not grow significantly faster tha
 Additionally, the \emph{brinCLASPpro} mutant has a higher CLASP concentration than the wild type, especially at higher positions in the root.
 In theory, cells in the \emph{brinCLASPpro} root should divide more often, leading to shorter cells.
 However, it appears that this effect was minimized during parameter optimization.
-Qualitatively, there are two ways to differentiate the \emph{brinCLASPpro} mutant from the wild type: decrease its division rate or increase its growth rate.
+Qualitatively, there are two ways to differentiate the \emph{brinCLASPpro} mutant from the wild type: decrease its division rate or increase its elongation rate.
 In the remainder of this paper, we discuss two potential mechanisms for differentiating the \emph{brinCLASPpro} mutant from the wild type.
 Then, we evaluate their validity by adjusting the intracellular and column models and fitting them to experimental data.
 
@@ -334,10 +334,10 @@ There is a biological justification for this change.
 Although BL is the most biochemically active brassinosteroid in the meristem, other brassinosteroids are also present \cite{vukasinovic2021, ackerman-lavert2020}.
 The new value $B^{*} = \omega B$ where $\omega > 1$ can be interpreted as the bound BRI1 receptor level accounting for the presence of other brassinosteroids. 
 
-Implementing the modification outlined above uncovered a system-scale issue with attempting to modify the ratio between $R_{T}$ and $B$ to increase the rate of growth in the \emph{brinCLASPpro} mutant.
+Implementing the modification outlined above uncovered a system-scale issue with attempting to modify the ratio between $R_{T}$ and $B$ to increase the rate of elongation in the \emph{brinCLASPpro} mutant.
 The BES1 concentrations shown in Figure \ref{bl-functions} are approximately $5$ times higher in the proximal meristem ($600\um$ to $1000\um$) than in the distal meristem ($0\um$ to $300\um$).
 This means that multiplying the extracellular BL function by a scalar will produce an outsized effect on the cells located higher in the root.
-However, the growth rate of these cells is not relevant to the behaviour of the column model, since cells above $600\um$ are not mitotic and will grow to a final length of $100\um$ irrespective of BR signalling.
+However, the elongation rate of these cells is not relevant to the behaviour of the column model, since cells above $600\um$ are not mitotic and will grow to a final length of $100\um$ irrespective of BR signalling.
 This phenomenon means that the value of $\omega$ had to be increased to biologically unreasonable levels before significant changes in the BRI1 receptor system were observed in the distal meristem.
 For the results of these simulations, see Figure \ref{bes1-mutants-modified}.
 We also attempted to rescale $B$ using a linear function of the form $B^{*} = \omega_{0}B + \omega_{1}$.
@@ -349,7 +349,7 @@ However, adjusting the BRI1 receptor system in this manner caused the most dista
 The \emph{brinCLASPpro} mutant has a higher concentration of CLASP which results in a higher rate of division under our current model.
 However, this phenomenon is not observed \emph{in-vivo}, leading us to believe that the relationship between CLASP and cell division may be more complicated.
 We speculate that CLASP stabilizes microtubule polymers until the cell is ready to move to the next phase in the cell cycle.
-This means that both superphysiological and supraphysiological concentrations of CLASP can inhibit cell division.
+This means that both superphysiological and subphysiological concentrations of CLASP can inhibit cell division.
 If CLASP is absent as in the \emph{clasp-1} mutant, we observe a loose pre-prophase band \cite{ambrose2007} caused by the absence of microtubule rescue.
 This inhibits cell division by slowing down mitosis.
 If CLASP is high as in the \emph{brinCLASPpro} mutant, we suspect that the transfacial bundles that form in cell interphase are too rigid.
@@ -369,7 +369,7 @@ The fitted model after this modification is shown in Figure \ref{column-modified
 \caption{Optimal parameter values for the fitted column model after modifying the division function.
 The global maximum of the $dD/dt$ function occurs at $C^{*} = 0.732$.
 The minimum length of a mitotic cell was found to be $m = 11.69$.
-The fact that $\gamma_{1} \gg \gamma_{0}$ indicates that the majority of cell growth is driven by brassinosteroids. }
+The fact that $\gamma_{1} \gg \gamma_{0}$ indicates that the majority of cell elongation is driven by brassinosteroids. }
 \label{column-modified-parameters}
 \begin{tabular}{@{}llllllll@{}}
 \toprule
@@ -403,7 +403,7 @@ However, further experimental research is needed to explore the validity of this
 Our model makes use of two "sizer" mechanisms, one for cell differentiation proposed by Pavelescu et al., 2016 \cite{pavelescu2016}, and a novel "sizer" mechanism for division zone exit.
 When these mechanisms are modelled together, organ size is directly proportional to the number of division events, which is approximately proportional to the size of the division zone.
 Organ size is proportional to the number of division events because all cells eventually reach the same mature size.
-This means that the growth rate of individual cells has no effect on meristem size, assuming the model is in steady state.
+This means that the elongation rate of individual cells has no effect on meristem size, assuming the model is in steady state.
 The sizer mechanism for division zone exit places an upper bound on cell lengths in the division zone.
 This means that the length of the division zone is approximately proportional to the number of mitotic cells in the root.
 In our experience, the use of a "sizer" mechanism for division zone exit produces a robust and biologically accurate model.
@@ -414,7 +414,7 @@ First, the brassinolide concentration function was assumed to have a simple form
 Receptor binding was assumed to occur at a ratio of one monomer to one ligand.
 Additionally, the entire intracellular system was assumed to be in a steady state.
 These assumptions could be loosened with quantitative measurements of BL and BES1 concentrations over time.
-The model of cell growth abstracted a complex signalling network involving wall-loosening enzymes, cellulose microfibrils, and microtubules \cite{smithers2024} into just two parameters $\gamma_{0}$ and $\gamma_{1}$.
+The model of cell elongation abstracted a complex signalling network involving wall-loosening enzymes, cellulose microfibrils, and microtubules \cite{smithers2024} into just two parameters $\gamma_{0}$ and $\gamma_{1}$.
 Implementing a mechanics-informed model of the cell wall would improve parameter estimation in subsequent models.
 Our model of cell division notably omits the stages of the cell cycle, such as the formation of the mitotic spindle.
 A more intricate model would give us a better understanding of how the CLASP protein affects cell division, and either verify or disprove our hypothesis about the role of CLASP.
@@ -550,7 +550,7 @@ This gives us two new equations \eqref{intracellular-final} for the intracellula
 
 The intracellular dynamics influence the rates of cell division and elongation.
 We can add this to our model by including the two additional ODEs in Equation \eqref{extracellular-ode}.
-In these equations, BES1 promotes cell growth at a rate $\gamma_{1}$.
+In these equations, BES1 promotes cell elongation at a rate $\gamma_{1}$.
 The rate of cell elongation is assumed to be proportional to length because longer cells have more vertical surface area for the cellulose microfibrils to stretch.
 This modelling assumption is also known from the literature \cite{lockhart1965, smithers2024}.
 The variable $D \in [0, 1]$ denotes the cell's position in the cell cycle.
