@@ -1,6 +1,6 @@
 %% BioMed_Central_Bib_Style_v1.01
 
-\begin{thebibliography}{26}
+\begin{thebibliography}{27}
 % BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
 \ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
 \ifx \binits  \undefined \def \binits#1{#1}\fi
@@ -59,6 +59,23 @@
 \endbibitem
 
 %%% 2
+\bibitem[\protect\citeauthoryear{Verbelen et~al.}{2006}]{verbelen2006}
+\begin{barticle}
+\bauthor{\bsnm{Verbelen}, \binits{J.-P.}},
+\bauthor{\bsnm{Cnodder}, \binits{T.D.}},
+\bauthor{\bsnm{Le}, \binits{J.}},
+\bauthor{\bsnm{Vissenberg}, \binits{K.}},
+\bauthor{\bsnm{Balu{\v s}ka}, \binits{F.}}:
+\batitle{The {{Root Apex}} of {{{\emph{Arabidopsis}}}}{\emph{ thaliana}} {{Consists}} of {{Four Distinct Zones}} of {{Growth Activities}}: {{Meristematic Zone}}, {{Transition Zone}}, {{Fast Elongation Zone}} and {{Growth Terminating Zone}}}.
+\bjtitle{Plant Signaling \& Behavior}
+\bvolume{1}(\bissue{6}),
+\bfpage{296}--\blpage{304}
+(\byear{2006})
+\doiurl{10.4161/psb.1.6.3511}
+\end{barticle}
+\endbibitem
+
+%%% 3
 \bibitem[\protect\citeauthoryear{Hamant and Traas}{2010}]{hamant2010}
 \begin{barticle}
 \bauthor{\bsnm{Hamant}, \binits{O.}},
@@ -72,7 +89,7 @@
 \end{barticle}
 \endbibitem
 
-%%% 3
+%%% 4
 \bibitem[\protect\citeauthoryear{Ambrose et~al.}{2011}]{ambrose2011}
 \begin{barticle}
 \bauthor{\bsnm{Ambrose}, \binits{C.}},
@@ -88,7 +105,7 @@
 \end{barticle}
 \endbibitem
 
-%%% 4
+%%% 5
 \bibitem[\protect\citeauthoryear{Halat et~al.}{2022}]{halat2022}
 \begin{botherref}
 \oauthor{\bsnm{Halat}, \binits{L.S.}},
@@ -102,7 +119,7 @@ Frontiers in Plant Science
 \end{botherref}
 \endbibitem
 
-%%% 5
+%%% 6
 \bibitem[\protect\citeauthoryear{{Ackerman-Lavert} and {Savaldi-Goldstein}}{2020}]{ackerman-lavert2020}
 \begin{barticle}
 \bauthor{\bsnm{{Ackerman-Lavert}}, \binits{M.}},
@@ -116,7 +133,7 @@ Frontiers in Plant Science
 \end{barticle}
 \endbibitem
 
-%%% 6
+%%% 7
 \bibitem[\protect\citeauthoryear{Vuka{\v s}inovi{\'c} et~al.}{2021}]{vukasinovic2021}
 \begin{barticle}
 \bauthor{\bsnm{Vuka{\v s}inovi{\'c}}, \binits{N.}},
@@ -138,7 +155,7 @@ Frontiers in Plant Science
 \end{barticle}
 \endbibitem
 
-%%% 7
+%%% 8
 \bibitem[\protect\citeauthoryear{Ruan et~al.}{2018}]{ruan2018}
 \begin{barticle}
 \bauthor{\bsnm{Ruan}, \binits{Y.}},
@@ -157,7 +174,7 @@ Frontiers in Plant Science
 \end{barticle}
 \endbibitem
 
-%%% 8
+%%% 9
 \bibitem[\protect\citeauthoryear{Ambrose et~al.}{2007}]{ambrose2007}
 \begin{barticle}
 \bauthor{\bsnm{Ambrose}, \binits{J.C.}},
@@ -174,7 +191,7 @@ Frontiers in Plant Science
 \end{barticle}
 \endbibitem
 
-%%% 9
+%%% 10
 \bibitem[\protect\citeauthoryear{{van Esse} et~al.}{2012}]{vanesse2012}
 \begin{barticle}
 \bauthor{\bsnm{{van Esse}}, \binits{G.W.}},
@@ -192,7 +209,7 @@ Frontiers in Plant Science
 \end{barticle}
 \endbibitem
 
-%%% 10
+%%% 11
 \bibitem[\protect\citeauthoryear{Wang et~al.}{2001}]{wang2001}
 \begin{barticle}
 \bauthor{\bsnm{Wang}, \binits{Z.-Y.}},
@@ -209,7 +226,7 @@ Frontiers in Plant Science
 \end{barticle}
 \endbibitem
 
-%%% 11
+%%% 12
 \bibitem[\protect\citeauthoryear{{Ca{\~n}o-Delgado} et~al.}{2004}]{cano-delgado2004}
 \begin{barticle}
 \bauthor{\bsnm{{Ca{\~n}o-Delgado}}, \binits{A.}},
@@ -230,7 +247,7 @@ Frontiers in Plant Science
 \end{barticle}
 \endbibitem
 
-%%% 12
+%%% 13
 \bibitem[\protect\citeauthoryear{Lockhart}{1965}]{lockhart1965}
 \begin{barticle}
 \bauthor{\bsnm{Lockhart}, \binits{J.A.}}:
@@ -243,7 +260,7 @@ Frontiers in Plant Science
 \end{barticle}
 \endbibitem
 
-%%% 13
+%%% 14
 \bibitem[\protect\citeauthoryear{Pavelescu}{2016}]{pavelescu2016}
 \begin{botherref}
 \oauthor{\bsnm{Pavelescu}, \binits{I.}}:
@@ -253,7 +270,7 @@ Tesis Doctorals - Departament - Estructura i Constituents de la Mat{\`e}ria
 \end{botherref}
 \endbibitem
 
-%%% 14
+%%% 15
 \bibitem[\protect\citeauthoryear{Akaike}{1974}]{akaike1974}
 \begin{barticle}
 \bauthor{\bsnm{Akaike}, \binits{H.}}:
@@ -266,7 +283,7 @@ Tesis Doctorals - Departament - Estructura i Constituents de la Mat{\`e}ria
 \end{barticle}
 \endbibitem
 
-%%% 15
+%%% 16
 \bibitem[\protect\citeauthoryear{Sugiura}{1978}]{sugiura1978}
 \begin{barticle}
 \bauthor{\bsnm{Sugiura}, \binits{N.}}:
@@ -279,7 +296,7 @@ Tesis Doctorals - Departament - Estructura i Constituents de la Mat{\`e}ria
 \end{barticle}
 \endbibitem
 
-%%% 16
+%%% 17
 \bibitem[\protect\citeauthoryear{Jones et~al.}{1993}]{jones1993}
 \begin{barticle}
 \bauthor{\bsnm{Jones}, \binits{D.R.}},
@@ -291,25 +308,6 @@ Tesis Doctorals - Departament - Estructura i Constituents de la Mat{\`e}ria
 \bfpage{157}--\blpage{181}
 (\byear{1993})
 \doiurl{10.1007/BF00941892}
-\end{barticle}
-\endbibitem
-
-%%% 17
-\bibitem[\protect\citeauthoryear{Van~Esse et~al.}{2011}]{vanesse2011}
-\begin{barticle}
-\bauthor{\bsnm{Van~Esse}, \binits{G.}},
-\bauthor{\bsnm{Westphal}, \binits{A.H.}},
-\bauthor{\bsnm{Surendran}, \binits{R.P.}},
-\bauthor{\bsnm{Albrecht}, \binits{C.}},
-\bauthor{\bsnm{{van Veen}}, \binits{B.}},
-\bauthor{\bsnm{Borst}, \binits{J.W.}},
-\bauthor{\bsnm{{de Vries}}, \binits{S.C.}}:
-\batitle{Quantification of the brassinosteroid insensitive1 receptor in planta}.
-\bjtitle{Plant Physiology}
-\bvolume{156}(\bissue{4}),
-\bfpage{1691}--\blpage{1700}
-(\byear{2011})
-\doiurl{10.1104/pp.111.179309}
 \end{barticle}
 \endbibitem
 
@@ -471,6 +469,27 @@ Plant Communications
 \bfpage{182}--\blpage{205}
 (\byear{2016})
 \doiurl{10.1016/j.jtbi.2016.04.036}
+\end{barticle}
+\endbibitem
+
+%%% 27
+\bibitem[\protect\citeauthoryear{Ambrose et~al.}{2013}]{ambrose2013}
+\begin{barticle}
+\bauthor{\bsnm{Ambrose}, \binits{C.}},
+\bauthor{\bsnm{Ruan}, \binits{Y.}},
+\bauthor{\bsnm{Gardiner}, \binits{J.}},
+\bauthor{\bsnm{Tamblyn}, \binits{L.M.}},
+\bauthor{\bsnm{Catching}, \binits{A.}},
+\bauthor{\bsnm{Kirik}, \binits{V.}},
+\bauthor{\bsnm{Marc}, \binits{J.}},
+\bauthor{\bsnm{Overall}, \binits{R.}},
+\bauthor{\bsnm{Wasteneys}, \binits{G.O.}}:
+\batitle{{{CLASP Interacts}} with {{Sorting Nexin}} 1 to {{Link Microtubules}} and {{Auxin Transport}} via {{PIN2 Recycling}} in {{Arabidopsis}} thaliana}.
+\bjtitle{Developmental Cell}
+\bvolume{24}(\bissue{6}),
+\bfpage{649}--\blpage{659}
+(\byear{2013})
+\doiurl{10.1016/j.devcel.2013.02.007}
 \end{barticle}
 \endbibitem
 

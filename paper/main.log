@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.27)  6 APR 2025 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.27)  15 APR 2025 17:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -521,7 +521,7 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \backup@length=\skip74
 \ar@cellbox=\box86
 ))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 40.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 39.
  (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count349
@@ -529,24 +529,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -602,7 +602,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 40.
+Package hyperref Info: Link coloring ON on input line 39.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -611,22 +611,22 @@ Package hyperref Info: Link coloring ON on input line 40.
  (/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 40.
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 72.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 39.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 70.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 72.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 70.
  (/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 72.
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 72.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 70.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 70.
 
 
 
@@ -640,22 +640,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-<../images/network-complete.png, id=107, 1091.07625pt x 455.7025pt>
-File: ../images/network-complete.png Graphic file (type png)
-<use ../images/network-complete.png>
-Package pdftex.def Info: ../images/network-complete.png  used on input line 114.
-(pdftex.def)             Requested size: 372.0pt x 155.3679pt.
-
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-<../images/data-binned-500.pdf, id=119, 722.7pt x 578.16pt>
-File: ../images/data-binned-500.pdf Graphic file (type pdf)
-<use ../images/data-binned-500.pdf>
-Package pdftex.def Info: ../images/data-binned-500.pdf  used on input line 136.
-(pdftex.def)             Requested size: 372.0pt x 297.60133pt.
+<../images/network-complete.png, id=77, 2509.375pt x 1048.91875pt>
+File: ../images/network-complete.png Graphic file (type png)
+<use ../images/network-complete.png>
+Package pdftex.def Info: ../images/network-complete.png  used on input line 118.
+(pdftex.def)             Requested size: 372.0pt x 155.49042pt.
 
 
 
@@ -665,8 +659,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.152 
+l.133 
        <../images/network-complete.png>]
+<../images/data-binned-500.pdf, id=91, 722.7pt x 578.16pt>
+File: ../images/data-binned-500.pdf Graphic file (type pdf)
+<use ../images/data-binned-500.pdf>
+Package pdftex.def Info: ../images/data-binned-500.pdf  used on input line 136.
+(pdftex.def)             Requested size: 372.0pt x 297.60133pt.
+
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -675,8 +675,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.160 \end{equation}
-                    {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <../images/data-binned-500.pdf>]
+l.155 
+      {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <../images/data-binned-500.pdf>]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -687,23 +687,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-<../images/bes1-functions.pdf, id=252, 722.7pt x 578.16pt>
+<../images/bes1-functions.pdf, id=205, 722.7pt x 578.16pt>
 File: ../images/bes1-functions.pdf Graphic file (type pdf)
 <use ../images/bes1-functions.pdf>
-Package pdftex.def Info: ../images/bes1-functions.pdf  used on input line 242.
+Package pdftex.def Info: ../images/bes1-functions.pdf  used on input line 220.
 (pdftex.def)             Requested size: 372.0pt x 297.60133pt.
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 255.
-<../images/bes1-mutants.pdf, id=256, 722.7pt x 722.7pt>
-File: ../images/bes1-mutants.pdf Graphic file (type pdf)
-<use ../images/bes1-mutants.pdf>
-Package pdftex.def Info: ../images/bes1-mutants.pdf  used on input line 272.
-(pdftex.def)             Requested size: 372.0pt x 372.00166pt.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 233.
 
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
+ [8
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.252 
+      ]
+<../images/bes1-mutants.pdf, id=220, 722.7pt x 722.7pt>
+File: ../images/bes1-mutants.pdf Graphic file (type pdf)
+<use ../images/bes1-mutants.pdf>
+Package pdftex.def Info: ../images/bes1-mutants.pdf  used on input line 255.
+(pdftex.def)             Requested size: 372.0pt x 372.00166pt.
+
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -712,39 +718,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.290 
+l.270 
        <../images/bes1-functions.pdf>]
-<../images/column-original-fit.pdf, id=323, 867.24pt x 578.16pt>
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.270 
+       <../images/bes1-mutants.pdf>]
+<../images/column-original-fit.pdf, id=333, 867.24pt x 578.16pt>
 File: ../images/column-original-fit.pdf Graphic file (type pdf)
 <use ../images/column-original-fit.pdf>
-Package pdftex.def Info: ../images/column-original-fit.pdf  used on input line 307.
+Package pdftex.def Info: ../images/column-original-fit.pdf  used on input line 301.
 (pdftex.def)             Requested size: 372.0pt x 248.00406pt.
 
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.324 
-      
+ [11
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.324 
-      ]
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.336 
-       <../images/bes1-mutants.pdf>]
+l.307 \end{figure}
+                  ]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -753,19 +754,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.336 
+l.330 
        <../images/column-original-fit.pdf>]
+<../images/column-modified-fit.pdf, id=401, 867.24pt x 578.16pt>
+File: ../images/column-modified-fit.pdf Graphic file (type pdf)
+<use ../images/column-modified-fit.pdf>
+Package pdftex.def Info: ../images/column-modified-fit.pdf  used on input line 355.
+(pdftex.def)             Requested size: 372.0pt x 248.00406pt.
+
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-<../images/column-modified-fit.pdf, id=458, 867.24pt x 578.16pt>
-File: ../images/column-modified-fit.pdf Graphic file (type pdf)
-<use ../images/column-modified-fit.pdf>
-Package pdftex.def Info: ../images/column-modified-fit.pdf  used on input line 385.
-(pdftex.def)             Requested size: 372.0pt x 248.00406pt.
-
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -774,23 +775,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.402 
-      ]
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15
+l.373 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.411 
+l.373 
        <../images/column-modified-fit.pdf>]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16] (./main.bbl
+ [15] (./main.bbl
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -811,237 +812,188 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20])
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.437 \caption
+              {Number of \emph{A. thaliana} roots analyzed in each genetic l...
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.449 \end{tabular}
+                   
+<../images/data-unprocessed.pdf, id=574, 722.7pt x 578.16pt>
+File: ../images/data-unprocessed.pdf Graphic file (type pdf)
+<use ../images/data-unprocessed.pdf>
+Package pdftex.def Info: ../images/data-unprocessed.pdf  used on input line 454.
+(pdftex.def)             Requested size: 372.0pt x 297.60133pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.455   \caption
+                {Raw data from the five distinct lines of \emph{A. thaliana}...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.459 ...exhibit clear statistical significance. }
+                                                  
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.465 \caption
-              {Number of \emph{A. thaliana} roots analyzed in each genetic l...
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.477 \end{tabular}
-                   
-<../images/data-unprocessed.pdf, id=616, 722.7pt x 578.16pt>
-File: ../images/data-unprocessed.pdf Graphic file (type pdf)
-<use ../images/data-unprocessed.pdf>
-Package pdftex.def Info: ../images/data-unprocessed.pdf  used on input line 482.
-(pdftex.def)             Requested size: 372.0pt x 297.60133pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.483   \caption
-                {Raw data from the five distinct lines of \emph{A. thaliana}...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.487 ...exhibit clear statistical significance. }
-                                                  
-<../images/data-trichoblast.pdf, id=617, 722.7pt x 578.16pt>
+<../images/data-trichoblast.pdf, id=580, 722.7pt x 578.16pt>
 File: ../images/data-trichoblast.pdf Graphic file (type pdf)
 <use ../images/data-trichoblast.pdf>
-Package pdftex.def Info: ../images/data-trichoblast.pdf  used on input line 501.
+Package pdftex.def Info: ../images/data-trichoblast.pdf  used on input line 473.
 (pdftex.def)             Requested size: 372.0pt x 297.60133pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.502   \caption
+l.474   \caption
                 {Raw data collected from trichoblast cells in \emph{A. thali...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.504 ...ld type and \emph{brinCLASPpro} mutant. }
+l.476 ...ld type and \emph{brinCLASPpro} mutant. }
                                                   
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.484 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.484 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.484 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.484 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.499 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.499 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.499 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.499 \begin{equation}
+                      
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
+pdfTeX warning (ext4): destination with the same identifier (name{equation.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.506 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.506 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.506 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.506 \begin{equation}
+                      
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23 <../images/data-unprocessed.pdf>]
-pdfTeX warning (ext4): destination with the same identifier (name{equation.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.515 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.515 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.515 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.515 \begin{equation}
-                      
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24 <../images/data-trichoblast.pdf>]
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{equation.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.526 \begin{equation}
+l.521 \begin{equation}
                       
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{equation.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.526 \begin{equation}
+l.521 \begin{equation}
                       
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{equation.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.526 \begin{equation}
+l.521 \begin{equation}
                       
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{equation.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.526 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.540 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.540 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.540 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.540 \begin{equation}
+l.521 \begin{equation}
                       
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.561 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4}) has been already used, duplicate ignored
+l.561 \caption
+              {Parameter estimates used in the intracellular signalling model.}
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.561 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.561 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.561 \begin{equation}
-                      
-<../images/bes1-mutants-modified.pdf, id=753, 722.7pt x 722.7pt>
-File: ../images/bes1-mutants-modified.pdf Graphic file (type pdf)
-<use ../images/bes1-mutants-modified.pdf>
-Package pdftex.def Info: ../images/bes1-mutants-modified.pdf  used on input line 580.
-(pdftex.def)             Requested size: 372.0pt x 372.00166pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.581   \caption
-                {Results of modifying the intracellular system to increase t...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.584 ...brinCLASPpro} mutant from the wild type.}
-                                                  
-<../images/column-original-profile.pdf, id=754, 722.7pt x 1084.05pt>
-File: ../images/column-original-profile.pdf Graphic file (type pdf)
-<use ../images/column-original-profile.pdf>
-Package pdftex.def Info: ../images/column-original-profile.pdf  used on input line 590.
-(pdftex.def)             Requested size: 333.32823pt x 500.0pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.591   \caption
-                {Cell column projection for the original column model.}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.591 ...rojection for the original column model.}
-                                                  
-<../images/column-original-histogram.pdf, id=755, 722.7pt x 867.24pt>
-File: ../images/column-original-histogram.pdf Graphic file (type pdf)
-<use ../images/column-original-histogram.pdf>
-Package pdftex.def Info: ../images/column-original-histogram.pdf  used on input line 596.
-(pdftex.def)             Requested size: 372.0pt x 446.40202pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.597   \caption
-                {Histogram of division locations for the original column mod...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.597 ...locations for the original column model.}
-                                                  
-<../images/column-modified-profile.pdf, id=756, 722.7pt x 1084.05pt>
-File: ../images/column-modified-profile.pdf Graphic file (type pdf)
-<use ../images/column-modified-profile.pdf>
-Package pdftex.def Info: ../images/column-modified-profile.pdf  used on input line 602.
-(pdftex.def)             Requested size: 333.32823pt x 500.0pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.603   \caption
-                {Cell column projection for the modified column model.}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.603 ...rojection for the modified column model.}
-                                                  
-<../images/column-modified-histogram.pdf, id=757, 722.7pt x 867.24pt>
-File: ../images/column-modified-histogram.pdf Graphic file (type pdf)
-<use ../images/column-modified-histogram.pdf>
-Package pdftex.def Info: ../images/column-modified-histogram.pdf  used on input line 608.
-(pdftex.def)             Requested size: 372.0pt x 446.40202pt.
-<../images/column-atrichoblast-fit.pdf, id=760, 722.7pt x 578.16pt>
+l.572 \end{tabular}
+                   
+<../images/column-atrichoblast-fit.pdf, id=727, 722.7pt x 578.16pt>
 File: ../images/column-atrichoblast-fit.pdf Graphic file (type pdf)
 <use ../images/column-atrichoblast-fit.pdf>
-Package pdftex.def Info: ../images/column-atrichoblast-fit.pdf  used on input line 620.
+Package pdftex.def Info: ../images/column-atrichoblast-fit.pdf  used on input line 583.
 (pdftex.def)             Requested size: 372.0pt x 297.60133pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.637 \caption
-              {Optimal parameter values for the atrichoblast column model co...
-pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
+l.584   \caption
+                {Results of fitting the model to atrichoblast data.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.642 \end{tabular}
+l.586 ...tants and have longer cells on average. }
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.592 \caption
+              {Optimal parameter values for the atrichoblast cell column mod...
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.604 \end{tabular}
                    
 
 
@@ -1052,62 +1004,111 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27 <../images/bes1-mutants-modified.pdf>]
+ [27 <../images/column-atrichoblast-fit.pdf>]
+<../images/column-original-profile.pdf, id=800, 722.7pt x 1084.05pt>
+File: ../images/column-original-profile.pdf Graphic file (type pdf)
+<use ../images/column-original-profile.pdf>
+Package pdftex.def Info: ../images/column-original-profile.pdf  used on input line 617.
+(pdftex.def)             Requested size: 319.99599pt x 480.0pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.618   \caption
+                {Cell column projection for the original cell column model. ...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.618 ...division zone at approximately $230\um$.}
+                                                  
+<../images/column-original-histogram.pdf, id=801, 722.7pt x 867.24pt>
+File: ../images/column-original-histogram.pdf Graphic file (type pdf)
+<use ../images/column-original-histogram.pdf>
+Package pdftex.def Info: ../images/column-original-histogram.pdf  used on input line 624.
+(pdftex.def)             Requested size: 372.0pt x 446.40202pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.625   \caption
+                {Histogram of division by cell position for the original cel...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.625 ...early differentiate these two genotypes.}
+                                                  
+<../images/column-modified-profile.pdf, id=802, 722.7pt x 1084.05pt>
+File: ../images/column-modified-profile.pdf Graphic file (type pdf)
+<use ../images/column-modified-profile.pdf>
+Package pdftex.def Info: ../images/column-modified-profile.pdf  used on input line 631.
+(pdftex.def)             Requested size: 319.99599pt x 480.0pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.632   \caption
+                {Cell column projection for the cell column model after modi...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.632 ... than in the \emph{brinCLASPpro} mutant.}
+                                                  
+<../images/column-modified-histogram.pdf, id=803, 722.7pt x 867.24pt>
+File: ../images/column-modified-histogram.pdf Graphic file (type pdf)
+<use ../images/column-modified-histogram.pdf>
+Package pdftex.def Info: ../images/column-modified-histogram.pdf  used on input line 638.
+(pdftex.def)             Requested size: 372.0pt x 446.40202pt.
+
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28 <../images/column-original-profile.pdf>]
+ [28]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29 <../images/column-original-histogram.pdf>]
+ [29 <../images/column-original-profile.pdf>]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30 <../images/column-modified-profile.pdf>]
+ [30 <../images/column-original-histogram.pdf>]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.647 \end{document}
-                     <../images/column-modified-histogram.pdf>]
+ [31 <../images/column-modified-profile.pdf>]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32
-pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.647 \end{document}
-                     <../images/column-atrichoblast-fit.pdf>] (./main.aux)
+l.645 \end{document}
+                     <../images/column-modified-histogram.pdf>] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 11BB92394C4E9F2220AC82294ABAFA01;1980.
+(rerunfilecheck)             Checksum: 0C34B7CE781381A738C39FE9121AC8A7;613.
  ) 
 Here is how much of TeX's memory you used:
- 18710 strings out of 475171
- 346174 string characters out of 5767095
- 721905 words of memory out of 5000000
- 41348 multiletter control sequences out of 15000+600000
- 590416 words of font info for 157 fonts, out of 8000000 for 9000
+ 18697 strings out of 475171
+ 345813 string characters out of 5767095
+ 724781 words of memory out of 5000000
+ 41337 multiletter control sequences out of 15000+600000
+ 590775 words of font info for 158 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
- 90i,12n,93p,983b,1241s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (32 pages, 2079266 bytes).
+ 90i,12n,93p,1209b,1247s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (32 pages, 2135194 bytes).
 PDF statistics:
- 1245 PDF objects out of 1440 (max. 8388607)
- 580 compressed objects within 6 object streams
- 95 named destinations out of 1000 (max. 500000)
- 183 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1174 PDF objects out of 1200 (max. 8388607)
+ 550 compressed objects within 6 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
